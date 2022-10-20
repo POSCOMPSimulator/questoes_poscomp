@@ -1,0 +1,10 @@
+{
+  "Ano": "2022",
+  "Número": "34",
+  "Enunciado": ["Analise as assertivas a seguir que comparam os métodos de alocação de espaço", "encadeado e indexado, usados na implementação de diretórios de arquivos:", "", "  I. Assim como a alocação encadeada, a alocação indexada oferece uma solução para o problema de", "     fragmentação externa.", " II. Assim como a alocação encadeada, a alocação indexada deve lidar com problemas de desempenho", "     relacionados ao fato de que blocos de dados de cada arquivo estarem espalhados no disco.", "III. A alocação indexada é mais eficiente que a alocação encadeada, porque os blocos de índices são", "     contíguos e podem permanecer em cache memória.", "", "Quais estão corretas?"],
+  "Alternativas": ["Apenas I.", "Apenas II.", "Apenas III.", "Apenas I e II.", "I, II e III.\n\n\n"],
+  "Imagens": {},
+  "Resposta": -1,
+  "Componente": "",
+  "Subarea": ""
+}

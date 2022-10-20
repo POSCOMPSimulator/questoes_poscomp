@@ -1,0 +1,10 @@
+{
+  "Ano": "2022",
+  "Número": "32",
+  "Enunciado": ["Um grafo não direcionado no qual todos os pares de vértices são adjacentes, isto é,", "possui arestas ligando todos os vértices entre si, é um grafo:"],
+  "Alternativas": ["Desconexo.", "Completo.", "Ponderado.", "Livre.", "Hipergrafo.\n\n\n"],
+  "Imagens": {},
+  "Resposta": -1,
+  "Componente": "",
+  "Subarea": ""
+}

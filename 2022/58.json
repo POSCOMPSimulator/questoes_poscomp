@@ -1,0 +1,10 @@
+{
+  "Ano": "2022",
+  "Número": "58",
+  "Enunciado": ["Qual é o modelo de tonalização que realiza a interpolação dos vetores normais em", "uma superfície, produzindo um resultado mais realista dos pontos de brilho (highlights) da superfície?"],
+  "Alternativas": ["Tonalização de Gouraud.", "Tonalização de Phong.", "Tonalização constante.", "Tonalização linear.", "Tonalização com correção gama.\n\n\n"],
+  "Imagens": {},
+  "Resposta": -1,
+  "Componente": "",
+  "Subarea": ""
+}

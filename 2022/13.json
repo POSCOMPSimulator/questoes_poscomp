@@ -1,0 +1,10 @@
+{
+  "Ano": "2022",
+  "Número": "13",
+  "Enunciado": ["Imagine que você esteja usando um aplicativo novo que ainda está em fase de testes.", "Por essa razão, uma pessoa só consegue instalar esse aplicativo se tiver recebido um convite de", "alguém que já era um usuário. Suponha que você tenha 10 convites para distribuir para 4 amigos. De", "quantas maneiras isso pode ser feito levando em consideração que os convites são todos", "indistinguíveis, que você pode distribuir mais de um convite para um mesmo amigo e que cada amigo", "deva receber pelo menos um convite?"],
+  "Alternativas": ["84.", "120.", "126.", "5.040.", "6.561.\n\n\n\n"],
+  "Imagens": {},
+  "Resposta": -1,
+  "Componente": "",
+  "Subarea": ""
+}

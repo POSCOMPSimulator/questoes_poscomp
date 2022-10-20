@@ -1,0 +1,10 @@
+{
+  "Ano": "2022",
+  "Número": "37",
+  "Enunciado": ["Qual é o algoritmo de busca em grafos no qual a busca inicia-se a partir de um nodo", "raiz e percorre cada caminho de forma a ir o mais longe possível antes de passar para outro caminho?"],
+  "Alternativas": ["Topológica.", "Largura.", "Abrangência.", "Pós-ordem.", "Profundidade.\n\n\n"],
+  "Imagens": {},
+  "Resposta": -1,
+  "Componente": "",
+  "Subarea": ""
+}

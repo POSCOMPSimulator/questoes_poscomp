@@ -1,0 +1,10 @@
+{
+  "Ano": "2022",
+  "Número": "46",
+  "Enunciado": ["O programa (em linguagem C) abaixo executa em um sistema operacional da família", "UNIX. Considere que todas as rotinas invocadas no programa executam sem erro. Assinale a", "alternativa que indica o resultado impresso na tela pelo programa.", "", "                                   signed int i;", "                                   int main(void){", "                                     if ( fork() > 0 )", "                                           i++;", "                                     else", "                                           i++;", "                                     i++;", "                                     printf(\"%d \", i);", "                                   }", ""],
+  "Alternativas": ["1 1", "2 2", "3 3", "4 4", "Indeterminado Indeterminado\n\n\n"],
+  "Imagens": {},
+  "Resposta": -1,
+  "Componente": "",
+  "Subarea": ""
+}

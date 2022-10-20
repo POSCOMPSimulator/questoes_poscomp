@@ -1,0 +1,10 @@
+{
+  "Ano": "2022",
+  "Número": "24",
+  "Enunciado": ["Qual é o método de ordenação representado por uma lista linear composta de", "elementos com chaves s1, ..., sn, satisfazendo a seguinte propriedade: si  s[1/2], para", "1 i  n?"],
+  "Alternativas": ["Inserção.", "Fila de prioridade.", "Quicksort.", "Shellsort.", "Seleção.\n\n\n"],
+  "Imagens": {},
+  "Resposta": -1,
+  "Componente": "",
+  "Subarea": ""
+}

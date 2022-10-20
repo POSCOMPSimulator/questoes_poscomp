@@ -1,0 +1,10 @@
+{
+  "Ano": "2022",
+  "Número": "63",
+  "Enunciado": ["Dada a gramática G = (V, 𝛴 , P, S ), onde P = { S ::= (S) S , S ::= 𝜀 }, encontre o", "reconhecedor para a linguagem gerada por G."],
+  "Alternativas": ["Expressão Regular.", "Autômato Finito Determinístico.", "Autômato Finito Não Determinístico.", "Autômato de Pilha.", "Nenhuma das anteriores.\n\n\n"],
+  "Imagens": {},
+  "Resposta": -1,
+  "Componente": "",
+  "Subarea": ""
+}

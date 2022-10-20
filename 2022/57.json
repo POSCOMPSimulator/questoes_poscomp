@@ -1,0 +1,10 @@
+{
+  "Ano": "2022",
+  "Número": "57",
+  "Enunciado": ["Considerando as técnicas para aplicação de texturas, analise as seguintes assertivas:", "", "  I. O mapeamento de imagens como textura (textura de superfície) é uma técnica que utiliza um", "     sistema de coordenadas 2D.", " II. A técnica denominada textura procedural evita o gasto com o armazenamento de texturas muito", "     grandes em memória.", "III. Bump mapping é uma técnica que se baseia na perturbação da cor nos vértices de uma superfície.", "", "Quais estão corretas?"],
+  "Alternativas": ["Apenas I.", "Apenas III.", "Apenas I e II.", "Apenas II e III.", "I, II e III.\n\n\n\n"],
+  "Imagens": {},
+  "Resposta": -1,
+  "Componente": "",
+  "Subarea": ""
+}

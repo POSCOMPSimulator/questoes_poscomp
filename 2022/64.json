@@ -1,0 +1,10 @@
+{
+  "Ano": "2022",
+  "Número": "64",
+  "Enunciado": ["Qual é o tipo falha no qual uma transação atualiza um item de dado e, em seguida,", "falha, e o item de dados é acessado por uma outra transação antes que a transação que falhou retorne", "ao seu valor original?"],
+  "Alternativas": ["Atualização perdida.", "Sumário incorreto.", "Deadlock.", "Efeito Fantasma.", "Atualização temporária.\n\n\n"],
+  "Imagens": {},
+  "Resposta": -1,
+  "Componente": "",
+  "Subarea": ""
+}
