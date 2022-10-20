@@ -1,0 +1,10 @@
+{
+  "Ano": "2022",
+  "Número": "59",
+  "Enunciado": ["Sobre a restauração de imagens, analise as assertivas abaixo:", "", "  I. As técnicas de restauração de imagens buscam recuperar uma imagem corrompida a partir do", "     conhecimento prévio do fenômeno de degradação e da aplicação do processo inverso.", " II. Na restauração interativa, o observador, por meio da “sintonização” dos parâmetros disponíveis,", "     pode obter um resultado final adequado para um propósito específico.", "III. O total conhecimento sobre a percepção visual humana tornou possível uma formulação do", "     problema de restauração de imagens, considerando as preferências e capacidades do observador.", "IV. Quando utilizadas para restauração, as transformações geométricas normalmente modificam as", "     relações espaciais entre pixels da imagem.", " V. São técnicas de restauração o alargamento de contraste e a remoção de borramento realizada", "     por meio da aplicação de uma função de “desborramento”.", "", "Quais estão corretas?"],
+  "Alternativas": ["Apenas I.", "Apenas III.", "Apenas II e V.", "Apenas I, II e IV.", "I, II, III, IV e V.\n\n\n"],
+  "Imagens": {},
+  "Resposta": -1,
+  "Componente": "",
+  "Subarea": ""
+}

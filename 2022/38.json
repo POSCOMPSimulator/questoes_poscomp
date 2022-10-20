@@ -1,0 +1,10 @@
+{
+  "Ano": "2022",
+  "Número": "38",
+  "Enunciado": ["Assinale V, se verdadeiro, ou F, se falso, em relação a uma estrutura de controle que", "permite que uma ação será repetida enquanto uma condição for verdadeira.", "", "(   ) Seleção simples.", "(   ) Seleção dupla.", "(   ) Laço de repetição.", "(   ) Múltipla escolha.", "", "A ordem correta de preenchimento dos parênteses, de cima para baixo, é:"],
+  "Alternativas": ["F – F – V – F.", "V – F – F – V.", "F – V – F – V.", "V – F – V – F.", "F – V – V – V.\n\n\n\n"],
+  "Imagens": {},
+  "Resposta": -1,
+  "Componente": "",
+  "Subarea": ""
+}

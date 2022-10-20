@@ -1,0 +1,10 @@
+{
+  "Ano": "2022",
+  "Número": "18",
+  "Enunciado": ["Em uma prova realizada a um grupo de alunos universitários foram obtidas as", "seguintes pontuações:", "", "                     101   102    112   113   92    91    106   104   100   95", "                     104   98     96    117   89    99    114   100   98    104", "                     93    92     99    90    108   116   93    109   105   91", "", "A partir da tabela anterior, qual a porcentagem de alunos que tem pontuação entre 90 a 99?"],
+  "Alternativas": ["33,33%.", "43,33%.", "46,66%.", "56,66%.", "65,55%.\n\n"],
+  "Imagens": {},
+  "Resposta": -1,
+  "Componente": "",
+  "Subarea": ""
+}

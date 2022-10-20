@@ -1,0 +1,10 @@
+{
+  "Ano": "2022",
+  "Número": "26",
+  "Enunciado": ["Qual é o método de compressão de texto cujo princípio é atribuir códigos mais curtos", "a símbolos com frequências altas, no qual um código único é atribuído a cada símbolo diferente do", "texto?"],
+  "Alternativas": ["Huffman.", "Tabela hash.", "Índice.", "Lempel-Ziv-Welch.", "Aproximação de entropia.\n\n\n"],
+  "Imagens": {},
+  "Resposta": -1,
+  "Componente": "",
+  "Subarea": ""
+}

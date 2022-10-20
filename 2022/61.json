@@ -1,0 +1,10 @@
+{
+  "Ano": "2022",
+  "Número": "61",
+  "Enunciado": ["A codificação ______________ tem como estratégia realizar a decomposição de uma", "imagem monocromática ou colorida em várias imagens binárias. Cada uma dessas imagens binárias", "é comprimida utilizando métodos de compressão binária.", "", "Assinale a alternativa que preenche corretamente a lacuna do trecho acima."],
+  "Alternativas": ["aritmética", "de Golomb", "de Huffman", "wavelet", "de planos de bits\n\n\n\n"],
+  "Imagens": {},
+  "Resposta": -1,
+  "Componente": "",
+  "Subarea": ""
+}

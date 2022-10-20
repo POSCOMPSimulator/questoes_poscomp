@@ -1,0 +1,10 @@
+{
+  "Ano": "2022",
+  "Número": "11",
+  "Enunciado": ["Dada a afirmação:", "", "                      \"Exatamente uma pessoa entre Marcos e Heide viajou\".", "", "A negação da afirmação acima é logicamente equivalente à:"],
+  "Alternativas": ["Ambos viajaram.", "Ambos não viajaram.", "Marcos ou Heide não viajou.", "Ambos viajaram ou ambos não viajaram.", "Pelo menos um entre Marcos e Heide viajou.\n\n\n"],
+  "Imagens": {},
+  "Resposta": -1,
+  "Componente": "",
+  "Subarea": ""
+}

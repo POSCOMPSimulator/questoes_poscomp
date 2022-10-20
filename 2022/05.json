@@ -1,0 +1,10 @@
+{
+  "Ano": "2022",
+  "Número": "05",
+  "Enunciado": ["Considere a função F: R³ -> R dada por: F(x, y, z) = zx²+ezx³-z5sen(y)-1. Assinale", "a alternativa que apresenta o gradiente de F no ponto (1, 0, 0)."],
+  "Alternativas": ["(3, 0, 2).", "(3, 1, 1).", "(0, -1, 3).", "(1, 1, 1).", "(1, 0, 1).\n\n\n"],
+  "Imagens": {},
+  "Resposta": -1,
+  "Componente": "",
+  "Subarea": ""
+}

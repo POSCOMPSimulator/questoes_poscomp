@@ -1,0 +1,10 @@
+{
+  "Ano": "2022",
+  "Número": "12",
+  "Enunciado": ["Analise a proposição abaixo:", "", "    \"Existe pelo menos uma cidade em que todos os hospitais possuem, pelo menos, 30 leitos\".", "", "A negação da proposição acima é logicamente equivalente à proposição:"],
+  "Alternativas": ["Há uma cidade em que existe pelo menos um hospital com, no máximo, 29 leitos.", "Em no máximo uma cidade, existe um hospital que possui, no máximo, 100 leitos.", "Em cada cidade, existe pelo menos uma escola que possui, pelo menos, 30 leitos.", "Existe nenhuma cidade em que todos os hospitais possuam, no máximo, 30 leitos.", "Em todas as cidades, existe pelo menos um hospital que possui, no máximo, 29 leitos.\n\n\n"],
+  "Imagens": {},
+  "Resposta": -1,
+  "Componente": "",
+  "Subarea": ""
+}

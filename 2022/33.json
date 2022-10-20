@@ -1,0 +1,10 @@
+{
+  "Ano": "2022",
+  "Número": "33",
+  "Enunciado": "Sobre os testes de condições em linguagem de programação, é correto afirmar que:",
+  "Alternativas": ["Um teste de condição pode ser realizado através da instrução while.", "A componente else do if é obrigatório.", "if-else a condição é avaliada e, caso seja verdadeira, é executada a instrução associada ao else.", "if-else permite a existência de instruções que não são executadas em um programa.", "if-else não pode ser executado de forma encadeada.\n\n\n"],
+  "Imagens": {},
+  "Resposta": -1,
+  "Componente": "",
+  "Subarea": ""
+}

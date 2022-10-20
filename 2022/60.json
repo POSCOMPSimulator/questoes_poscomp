@@ -1,0 +1,10 @@
+{
+  "Ano": "2022",
+  "Número": "60",
+  "Enunciado": ["Uma empresa dividiu a sua rede em duas sub-redes, apresentadas na tabela abaixo.", "", "              Setor         Primeiro endereço             Último endereço          Prefixo", "             Setor A                194.24.0.0                 194.24.15.255           X", "             Setor B                194.24.16.0                194.24.31.255           Y", "", "Qual o valor de Y?"],
+  "Alternativas": ["194.24.8.0/22.", "194.24.16.0/20.", "194.24.16.0/22.", "194.24.32.0/22.", "194.24.32.0/19.\n\n\n"],
+  "Imagens": {},
+  "Resposta": -1,
+  "Componente": "",
+  "Subarea": ""
+}

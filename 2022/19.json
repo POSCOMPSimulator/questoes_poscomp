@@ -1,0 +1,10 @@
+{
+  "Ano": "2022",
+  "Número": "19",
+  "Enunciado": ["Quantos números inteiros positivos escritos na base decimal formados por", "exatamente 6 dígitos, que não começam com o dígito 0 (da esquerda para direita), palíndromos e", "múltiplos de 4 existem? (Um número é chamado de palíndromo se tal número é igual a ele mesmo", "quandro escrito de trás para frente. Por exemplo, 1331 é considerado um número palíndromo, pois", "1331, escrito de trás para frente, é 1331. No entanto, 45 não é um número palíndromo, pois 45,", "escrito de trás para frente, é 54)."],
+  "Alternativas": ["150.", "200.", "240.", "900.", "100.\n\n\n"],
+  "Imagens": {},
+  "Resposta": -1,
+  "Componente": "",
+  "Subarea": ""
+}

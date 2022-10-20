@@ -1,0 +1,10 @@
+{
+  "Ano": "2022",
+  "Número": "52",
+  "Enunciado": ["Suponha um problema de classificação binária (classes A e B), cujo classificador", "escolhido considera um conjunto de pontos em um plano bidimensional, onde cada ponto se refere a", "uma amostra conhecida. Há várias linhas no plano, tal que todos os pontos da classe A fiquem para", "um lado e todos os pontos da classe B fiquem para o outro. Dentre tais linhas, o classificador escolhe", "a linha cuja distância do ponto mais próximo em qualquer classe (em relação aos pontos no conjunto", "de dados de treinamento) é máxima. Essa linha (chamada de linha de margem máxima) é então", "usada para classificar outros pontos, dependendo de qual lado da linha eles estão. O mencionado", "classificador é denominado:"],
+  "Alternativas": ["Árvore de decisão.", "Classificador bayesiano.", "Máquina de vetor de suporte.", "Rede neural artificial.", "Regra de associação.\n\n\n"],
+  "Imagens": {},
+  "Resposta": -1,
+  "Componente": "",
+  "Subarea": ""
+}

@@ -1,0 +1,10 @@
+{
+  "Ano": "2022",
+  "Número": "50",
+  "Enunciado": ["Ao processar um arquivo mapeado em memória, a leitura de dados do arquivo em", "disco para a memória principal ocorre como resultado de uma:"],
+  "Alternativas": ["Chamada de função (library call).", "Chamada de sistema (system call).", "Falta de página (page fault).", "Interrupção do disco (IRQ).", "Ligação simbólica (symbolic liking).\n\n                                  TECNOLOGIA DE COMPUTAÇÃO\n\n"],
+  "Imagens": {},
+  "Resposta": -1,
+  "Componente": "",
+  "Subarea": ""
+}

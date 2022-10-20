@@ -1,0 +1,10 @@
+{
+  "Ano": "2022",
+  "Número": "21",
+  "Enunciado": ["Os algoritmos de ordenação MergeSort, da árvore geradora mínima de Kruskal, e o", "algoritmo Floyd-Warshall que calcula o caminho mais curto entre todos os pares de vértices de um", "grafo orientado com peso são, respectivamente, exemplos de algoritmos:"],
+  "Alternativas": ["Guloso, programação dinâmica e divisão e conquista.", "Divisão e conquista, programação dinâmica e guloso.", "Guloso, divisão e conquista e programação dinâmica.", "Programação dinâmica, divisão e conquista e guloso.", "Divisão e conquista, guloso e programação dinâmica.\n\n\n"],
+  "Imagens": {},
+  "Resposta": -1,
+  "Componente": "",
+  "Subarea": ""
+}
