@@ -1,10 +1,10 @@
 {
   "Ano": "2022",
   "Número": "67",
-  "Enunciado": ["Uma transação entra em um estado de falha quando o sistema determina que ela já", "não pode prosseguir a sua execução normal. A transação deve ser desfeita e, entra, então, em estado", "abortado. Nesse momento, o sistema tem duas opções:"],
-  "Alternativas": ["Reiniciar ou matar a transação.", "Bloquear ou desfazer a transação.", "Isolar ou cancelar a transação.", "Prosseguir ou bloquear a transação.", "Desfazer ou prosseguir a transação.\n\n"],
-  "Imagens": {},
-  "Resposta": -1,
-  "Componente": "",
-  "Subarea": ""
+  "Enunciado": ["Uma transação entra em um estado de falha quando o sistema determina que ela já não pode prosseguir a sua execução normal. A transação deve ser desfeita e, entra, então, em estado abortado. Nesse momento, o sistema tem duas opções:"],
+  "Alternativas": ["Reiniciar ou matar a transação.", "Bloquear ou desfazer a transação.", "Isolar ou cancelar a transação.", "Prosseguir ou bloquear a transação.", "Desfazer ou prosseguir a transação."],
+  "Imagens": [],
+  "Resposta": 0,
+  "Componente": "Tecnologia da Computação",
+  "Subarea": "Sistemas Distribuídos"
 }
