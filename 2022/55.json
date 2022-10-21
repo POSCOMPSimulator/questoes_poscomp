@@ -1,10 +1,10 @@
 {
   "Ano": "2022",
   "Número": "55",
-  "Enunciado": ["Considere que os produtos de uma loja são modelados pelo esquema de relação", "PROD(Codigo, Descricao, Preco), em que Codigo é a chave primária da relação. O banco de dados", "possui vários produtos, onde se observa pelo menos n (n>10) preços distintos. A consulta a seguir,", "que está escrita conforme o formalismo da álgebra relacional, usa as operações projeção, seleção,", "produto cartesiano e renomeação, as quais são representadas pelos símbolos , ,  e ,", "respectivamente.", "", "              PROD.Codigo ( PROD.Preco < CLONE.Preco (PROD   CLONE (PROD)))", "", "O processamento dessa consulta resulta no código de todos os produtos:"],
-  "Alternativas": ["Cujo preço é o menor ou o maior existente no banco de dados.", "Cujo preço é o menor existente no banco de dados.", "Exceto os produtos cujo preço é o menor existente no banco de dados.", "Cujo preço é o maior existente no banco de dados.", "Exceto os produtos cujo preço é o maior existente no banco de dados.\n\n\n"],
-  "Imagens": {},
-  "Resposta": -1,
-  "Componente": "",
-  "Subarea": ""
+  "Enunciado": ["Considere que os produtos de uma loja são modelados pelo esquema de relação PROD(Codigo, Descricao, Preco), em que Codigo é a chave primária da relação. O banco de dados possui vários produtos, onde se observa pelo menos n (n>10) preços distintos. A consulta a seguir, que está escrita conforme o formalismo da álgebra relacional, usa as operações projeção, seleção,", "produto cartesiano e renomeação, as quais são representadas pelos símbolos $$\\pi,\\sigma, \\times e \\rho$$, respectivamente.","$$\\pi$$ PROD.Codigo($$\\sigma$$ PROD.Preco < CLONE.Preco (PROD $$\\times \\rho$$ CLONE (PROD)))", "O processamento dessa consulta resulta no código de todos os produtos:"],
+  "Alternativas": ["Cujo preço é o menor ou o maior existente no banco de dados.", "Cujo preço é o menor existente no banco de dados.", "Exceto os produtos cujo preço é o menor existente no banco de dados.", "Cujo preço é o maior existente no banco de dados.", "Exceto os produtos cujo preço é o maior existente no banco de dados."],
+  "Imagens":[],
+  "Resposta": 4,
+  "Componente": "Tecnologia da Computação",
+  "Subarea": "Banco de Dados"
 }

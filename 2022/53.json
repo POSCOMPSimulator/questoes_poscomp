@@ -1,10 +1,10 @@
 {
   "Ano": "2022",
   "Número": "53",
-  "Enunciado": ["Em relação à manutenção de software, analise as assertivas abaixo:", "", "  I. As atividades de manutenção do tipo Reparação de Defeitos lidam com erros e falhas no código,", "     enquanto as classificadas como Adaptação ao Ambiente lidam com os problemas relacionados a", "     requisitos mal compreendidos ou incorretamente implementados.", " II. A adição de novas funcionalidades em um sistema em manutenção costuma ser mais cara que a", "     implementação das mesmas funcionalidades durante o desenvolvimento original do mesmo", "     sistema.", "III. A reengenharia de sistemas, também denominada refatoração (refactoring), é o processo de", "     melhorar a estrutura de sistemas e programas, a fim de reduzir sua complexidade e facilitar a", "     manutenção de sistemas legados.", "", "Quais estão corretas?"],
-  "Alternativas": ["Apenas I.", "Apenas II.", "Apenas III.", "Apenas I e II.", "Apenas II e III.\n\n\n"],
-  "Imagens": {},
-  "Resposta": -1,
-  "Componente": "",
-  "Subarea": ""
+  "Enunciado": ["Em relação à manutenção de software, analise as assertivas abaixo:", "I. As atividades de manutenção do tipo Reparação de Defeitos lidam com erros e falhas no código, enquanto as classificadas como Adaptação ao Ambiente lidam com os problemas relacionados a requisitos mal compreendidos ou incorretamente implementados.", "II. A adição de novas funcionalidades em um sistema em manutenção costuma ser mais cara que a implementação das mesmas funcionalidades durante o desenvolvimento original do mesmo sistema.", "III. A reengenharia de sistemas, também denominada refatoração (refactoring), é o processo de melhorar a estrutura de sistemas e programas, a fim de reduzir sua complexidade e facilitar a manutenção de sistemas legados.", "Quais estão corretas?"],
+  "Alternativas": ["Apenas I.", "Apenas II.", "Apenas III.", "Apenas I e II.", "Apenas II e III."],
+  "Imagens": [],
+  "Resposta": 1,
+  "Componente": "Tecnologia da Computação",
+  "Subarea": "Engenharia de Software"
 }
