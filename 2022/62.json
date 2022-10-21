@@ -1,10 +1,10 @@
 {
   "Ano": "2022",
   "Número": "62",
-  "Enunciado": ["Qual é o conceito no qual o sistema operacional permite que o computador execute", "diversos programas"],
-  "Alternativas": ["Sincronização.", "Multiprogramação.", "Difusão de mensagens.", "Comunicação entre processos.", "Tolerância a falhas.\n\n\n"],
-  "Imagens": {},
-  "Resposta": -1,
-  "Componente": "",
-  "Subarea": ""
+  "Enunciado": ["Qual é o conceito no qual o sistema operacional permite que o computador execute diversos programas – ou processos – ao mesmo tempo e, se houver apenas uma unidade central de processamento (CPU), o sistema operacional executa alguns comandos de um processo, depois suspendem esse processo e executam alguns comandos do próximo processo, e assim por diante?"],
+  "Alternativas": ["Sincronização.", "Multiprogramação.", "Difusão de mensagens.", "Comunicação entre processos.", "Tolerância a falhas."],
+  "Imagens": [],
+  "Resposta": 1,
+  "Componente": "Tecnologia da Computação",
+  "Subarea": "Sistemas Distribuídos"
 }

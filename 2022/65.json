@@ -2,9 +2,9 @@
   "Ano": "2022",
   "Número": "65",
   "Enunciado": "Em relação ao protocolo UDP, podemos afirmar que ele:",
-  "Alternativas": ["É orientado a conexão.", "Realiza controle de fluxo.", "Realiza a retransmissão após a recepção de um datagrama incorreto.", "Entrega as mensagens em ordem.", "Detecta erro fim a fim.\n\n\n"],
-  "Imagens": {},
-  "Resposta": -1,
-  "Componente": "",
-  "Subarea": ""
+  "Alternativas": ["É orientado a conexão.", "Realiza controle de fluxo.", "Realiza a retransmissão após a recepção de um datagrama incorreto.", "Entrega as mensagens em ordem.", "Detecta erro fim a fim."],
+  "Imagens": [],
+  "Resposta": 4,
+  "Componente": "Tecnologia da Computação",
+  "Subarea": "Redes de Computadores"
 }
