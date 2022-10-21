@@ -3,7 +3,7 @@
   "Número": "04",
   "Enunciado": ["Considere a equação do círculo x²+y²-2x+4y+1=0. A partir dessa equação, determine o raio do círculo."],
   "Alternativas": ["1.", "2.", "3.", "4.", "5."],
-  "Imagens": {},
+  "Imagens": [],
   "Resposta": 1,
   "Componente": "Matemática",
   "Subarea": "Geometria Analítica"
