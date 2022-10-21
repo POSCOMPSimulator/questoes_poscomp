@@ -1,10 +1,10 @@
 {
   "Ano": "2022",
   "Número": "09",
-  "Enunciado": "Se A e B são dois conjuntos finitos, realize a redução de 𝐸 = {𝐴 ∩ (𝐴 ∪ 𝐵′ )} − 𝐵′.",
-  "Alternativas": ["A", "B", "𝐴 ∩ 𝐵", "𝐴 ∪ 𝐵", "B’\n\n\n\n"],
+  "Enunciado": "Se A e B são dois conjuntos finitos, realize a redução de $$E = {A \\cap (A \\cup B')} - B'$$.",
+  "Alternativas": ["A", "B", "$$A \\cap B$$", "$$A \\cup B$$", "B'"],
   "Imagens": {},
-  "Resposta": -1,
-  "Componente": "",
-  "Subarea": ""
+  "Resposta": 2,
+  "Componente": "Matemática",
+  "Subarea": "Matemática Discreta"
 }

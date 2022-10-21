@@ -1,10 +1,10 @@
 {
   "Ano": "2022",
   "Número": "10",
-  "Enunciado": ["Calcule    𝑙𝑖𝑚                     :", "                        𝑥→∞        𝑥 5 +5"],
-  "Alternativas": ["72.", "17.", "9.", "8.", "0.\n\n\n"],
+  "Enunciado": ["Calcule $$\\lim_{x \\to \\infty}\\frac{(2x+3)^3(3x-2)^2}{x^5+5}$$"],
+  "Alternativas": ["72.", "17.", "9.", "8.", "0."],
   "Imagens": {},
-  "Resposta": -1,
-  "Componente": "",
-  "Subarea": ""
+  "Resposta": 0,
+  "Componente": "Matemática",
+  "Subarea": "Cálculo Diferencial e Integral"
 }

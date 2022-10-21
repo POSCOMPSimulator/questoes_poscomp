@@ -1,10 +1,10 @@
 {
   "Ano": "2022",
   "Número": "06",
-  "Enunciado": ["Encontre a área cotada na região do plano formada pelo eixo x, a curva y = ex e as", "retas x = 0 e x =1."],
-  "Alternativas": ["e - 1", "e² - 1", "e", "e - 2", "1\n\n\n"],
+  "Enunciado": ["Encontre a área cotada na região do plano formada pelo eixo x, a curva y = $$e^x$$ e as retas x = 0 e x =1."],
+  "Alternativas": ["e - 1", "e² - 1", "e", "e - 2", "1"],
   "Imagens": {},
-  "Resposta": -1,
-  "Componente": "",
-  "Subarea": ""
+  "Resposta": 0,
+  "Componente": "Matemática",
+  "Subarea": "Cálculo Diferencial e Integral"
 }
