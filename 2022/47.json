@@ -1,10 +1,10 @@
 {
   "Ano": "2022",
   "Número": "47",
-  "Enunciado": ["Um microcontrolador hipotético contém 3 tipos de memória: uma memória Flash,", "para armazenamento dos programas, uma memória RAM, para manipulação das variáveis de", "programa e uma memória EEPROM, para armazenamento de programas de longa permanência. O", "endereço para acessar uma posição da memória Flash é um número binário de 16 bits e, em cada", "endereço (posição de memória), são armazenados 16 bits. Com essas informações, analise as", "assertivas a seguir:", "", "  I. A memória Flash possui uma capacidade de armazenamento de 128 kBytes.", " II. Considerando que a memória RAM possui 211 endereços e que o primeiro endereço da memória é", "     o endereço 000, o último endereço da memória, representado em hexadecimal, é 7FF 16.", "III. As memórias Flash, RAM e EEPROM são exemplos de memórias não voláteis.", "", "Quais estão corretas?"],
-  "Alternativas": ["Apenas I.", "Apenas II.", "Apenas III.", "Apenas I e II.", "I, II e III.\n\n\n"],
-  "Imagens": {},
-  "Resposta": -1,
-  "Componente": "",
-  "Subarea": ""
+  "Enunciado": ["Um microcontrolador hipotético contém 3 tipos de memória: uma memória Flash, para armazenamento dos programas, uma memória RAM, para manipulação das variáveis de programa e uma memória EEPROM, para armazenamento de programas de longa permanência. O endereço para acessar uma posição da memória Flash é um número binário de 16 bits e, em cada endereço (posição de memória), são armazenados 16 bits. Com essas informações, analise as assertivas a seguir:","I. A memória Flash possui uma capacidade de armazenamento de 128 kBytes.", "II. Considerando que a memória RAM possui $$2^{11}$$ endereços e que o primeiro endereço da memória é o endereço 000, o último endereço da memória, representado em hexadecimal, é $$7FF_{16}$$.", "III. As memórias Flash, RAM e EEPROM são exemplos de memórias não voláteis.", "Quais estão corretas?"],
+  "Alternativas": ["Apenas I.", "Apenas II.", "Apenas III.", "Apenas I e II.", "I, II e III."],
+  "Imagens": [],
+  "Resposta": 3,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Circuitos Digitais"
 }
