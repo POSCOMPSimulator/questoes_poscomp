@@ -1,10 +1,16 @@
 {
   "Ano": "2022",
   "Número": "01",
-  "Enunciado": ["Dada a matriz 𝐴 = (3     −2 −1), calcule (A-2I)2:", "                                    4 −1 2", "    1       −2 1"],
-  "Alternativas": ["(3       −2 −1)\n    4       −1 2\n     −1      9 1", "(−19      11 7)\n     −7      −4 5\n    1       −2 1", "(3       −4 −1)\n    4       −1 0\n    3       −2 1", "(3       0 −1)\n    4       −1 4\n        6\n       −2 −1", "( 3 −9 −4)\n    −4 −1 0\n\n\n"],
-  "Imagens": {},
-  "Resposta": -1,
-  "Componente": "",
-  "Subarea": ""
+  "Enunciado": ["Dada a matriz $$A=\\begin{pmatrix}1 & -2 & 1 \\\\ 3 & -2 & 1 \\\\ 4 & -1 & 2 \\\\ \\end{pmatrix}$$, calcule $$(A-2I)^2$$:"],
+  "Alternativas": [
+    "$$\\begin{pmatrix}1 & -2 & 1 \\\\ 3 & -2 & 1 \\\\ 4 & -1 & 2 \\\\ \\end{pmatrix}$$", 
+    "$$\\begin{pmatrix}-1 & 9 & 1 \\\\ -19 & 11 & 7 \\\\ -7 & -4 & 5 \\\\ \\end{pmatrix}$$",
+    "$$\\begin{pmatrix}1 & -2 & 1 \\\\ 3 & -4 & -1 \\\\ 4 & -1 & 0 \\\\ \\end{pmatrix}$$",
+    "$$\\begin{pmatrix}3 & -2 & 1 \\\\ 3 & 0 & -1 \\\\ 4 & -1 & 4 \\\\ \\end{pmatrix}$$",
+    "$$\\begin{pmatrix}6 & -2 & -1 \\\\ 3 & -9 & -4 \\\\ -4 & -1 & 0 \\\\ \\end{pmatrix} $$"
+  ],
+  "Imagens": [],
+  "Resposta": 1,
+  "Componente": "Matemática",
+  "Subarea": "Álgebra Linear"
 }

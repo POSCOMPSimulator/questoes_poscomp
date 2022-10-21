@@ -1,10 +1,10 @@
 {
   "Ano": "2022",
   "Número": "03",
-  "Enunciado": ["Assinale a alternativa que indica o produto escalar e o produto vetorial dos vetores", "⃗ =(3,-1,2) e 𝑣=(1,-2,-1), respectivamente.", "𝑢"],
-  "Alternativas": ["3 e (5,5,-5).", "3 e (3,2,-2).", "3 e (2,1,3).", "-1 e (3,2,-2).", "7 e (3,-2,2).\n\n\n"],
-  "Imagens": {},
-  "Resposta": -1,
-  "Componente": "",
-  "Subarea": ""
+  "Enunciado": ["Assinale a alternativa que indica o produto escalar e o produto vetorial dos vetores $$\\vec{u}$$=(3,-1,2) e $$\\vec{v}$$=(1,-2,-1), respectivamente."],
+  "Alternativas": ["3 e (5,5,-5).", "3 e (3,2,-2).", "3 e (2,1,3).", "-1 e (3,2,-2).", "7 e (3,-2,2)."],
+  "Imagens": [],
+  "Resposta": 0,
+  "Componente": "Matemática",
+  "Subarea": "Geometria Analítica"
 }
