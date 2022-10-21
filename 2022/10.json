@@ -3,7 +3,7 @@
   "Número": "10",
   "Enunciado": ["Calcule $$\\lim_{x \\to \\infty}\\frac{(2x+3)^3(3x-2)^2}{x^5+5}$$"],
   "Alternativas": ["72.", "17.", "9.", "8.", "0."],
-  "Imagens": {},
+  "Imagens": [],
   "Resposta": 0,
   "Componente": "Matemática",
   "Subarea": "Cálculo Diferencial e Integral"

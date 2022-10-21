@@ -3,7 +3,7 @@
   "Número": "09",
   "Enunciado": "Se A e B são dois conjuntos finitos, realize a redução de $$E = {A \\cap (A \\cup B')} - B'$$.",
   "Alternativas": ["A", "B", "$$A \\cap B$$", "$$A \\cup B$$", "B'"],
-  "Imagens": {},
+  "Imagens": [],
   "Resposta": 2,
   "Componente": "Matemática",
   "Subarea": "Matemática Discreta"
