@@ -1,10 +1,10 @@
 {
   "Ano": "2022",
   "Número": "51",
-  "Enunciado": ["No escalonamento transações de banco de dados, dois conceitos são pertinentes ao", "controle de concorrência: serialização e recuperação. O primeiro refere-se a escalonamentos com", "transações executadas simultaneamente sem interferir umas nas outras, tal que produza um estado", "de banco de dados que pode ser gerado por uma execução serial das mesmas transações. O segundo", "busca manter a consistência do banco de dados, quando pelo menos uma das transações do", "escalonamento falha. Quanto à serialização, escalonamentos são classificados como não serializáveis", "ou serializáveis. Quanto à recuperação, escalonamentos são classificados como não recuperáveis ou", "recuperáveis. Nesse sentido, analise as assertivas abaixo sobre o controle de concorrência para as", "transações T1, T2, …, Tn (n >2):", "", "  I. A interseção entre os conjuntos de escalonamentos serializáveis e recuperáveis é o conjunto vazio.", " II. A união entre os conjuntos de escalonamentos serializáveis e seriais é o próprio conjunto de", "     escalonamentos serializáveis.", "III. O conjunto de escalonamentos não seriais está contido no conjunto de escalonamentos não", "     serializáveis.", "IV. O conjunto de escalonamentos seriais contém o conjunto de escalonamentos não recuperáveis.", "", "Quais estão corretas?"],
-  "Alternativas": ["Apenas I.", "Apenas II.", "Apenas I e III.", "Apenas II e IV.", "I, II, III e IV.\n\n\n\n"],
-  "Imagens": {},
-  "Resposta": -1,
-  "Componente": "",
-  "Subarea": ""
+  "Enunciado": ["No escalonamento transações de banco de dados, dois conceitos são pertinentes ao controle de concorrência: serialização e recuperação. O primeiro refere-se a escalonamentos com transações executadas simultaneamente sem interferir umas nas outras, tal que produza um estado de banco de dados que pode ser gerado por uma execução serial das mesmas transações. O segundo busca manter a consistência do banco de dados, quando pelo menos uma das transações do escalonamento falha. Quanto à serialização, escalonamentos são classificados como não serializáveis ou serializáveis. Quanto à recuperação, escalonamentos são classificados como não recuperáveis ou recuperáveis. Nesse sentido, analise as assertivas abaixo sobre o controle de concorrência para as transações T1, T2, ..., Tn (n >2):","I. A interseção entre os conjuntos de escalonamentos serializáveis e recuperáveis é o conjunto vazio.", " II. A união entre os conjuntos de escalonamentos serializáveis e seriais é o próprio conjunto de escalonamentos serializáveis.", "III. O conjunto de escalonamentos não seriais está contido no conjunto de escalonamentos não serializáveis.", "IV. O conjunto de escalonamentos seriais contém o conjunto de escalonamentos não recuperáveis.", "Quais estão corretas?"],
+  "Alternativas": ["Apenas I.", "Apenas II.", "Apenas I e III.", "Apenas II e IV.", "I, II, III e IV."],
+  "Imagens": [],
+  "Resposta": 1,
+  "Componente": "Tecnologia da Computação",
+  "Subarea": "Banco de Dados"
 }

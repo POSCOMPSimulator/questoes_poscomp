@@ -1,10 +1,10 @@
 {
   "Ano": "2022",
   "Número": "54",
-  "Enunciado": ["Em relação às camadas e suas funções, analise as assertivas abaixo, assinalando V,", "se verdadeiras, ou F, se falsas.", "", "( ) Os roteadores precisam implementar até a camada de rede para executar a sua função, porque", "    o encaminhamento de pacotes requer conhecimento de cabeçalhos dessa camada.", "( ) A arquitetura TCP/IP executa a função de controle de congestionamento na camada de transporte.", "( ) O controle de acesso ao meio é função da camada de rede.", "( ) A camada de transporte é fundamental para esconder detalhes dos meios físicos de transmissão", "    da camada de sessão.", "", "A ordem correta de preenchimento dos parênteses, de cima para baixo, é:"],
-  "Alternativas": ["V – F – F – V.", "V – V – F – F.", "V – F – V – F.", "F – V – F – V.", "F – F – V – V.\n\n\n\n"],
-  "Imagens": {},
-  "Resposta": -1,
-  "Componente": "",
-  "Subarea": ""
+  "Enunciado": ["Em relação às camadas e suas funções, analise as assertivas abaixo, assinalando V, se verdadeiras, ou F, se falsas.", "( ) Os roteadores precisam implementar até a camada de rede para executar a sua função, porque o encaminhamento de pacotes requer conhecimento de cabeçalhos dessa camada.", "( ) A arquitetura TCP/IP executa a função de controle de congestionamento na camada de transporte.", "( ) O controle de acesso ao meio é função da camada de rede.", "( ) A camada de transporte é fundamental para esconder detalhes dos meios físicos de transmissão da camada de sessão.", "A ordem correta de preenchimento dos parênteses, de cima para baixo, é:"],
+  "Alternativas": ["V – F – F – V.", "V – V – F – F.", "V – F – V – F.", "F – V – F – V.", "F – F – V – V."],
+  "Imagens": [],
+  "Resposta": 1,
+  "Componente": "Tecnologia da Computação",
+  "Subarea": "Redes de Computadores"
 }
