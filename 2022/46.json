@@ -4,7 +4,7 @@
   "Enunciado": ["O programa (em linguagem C) abaixo executa em um sistema operacional da família UNIX. Considere que todas as rotinas invocadas no programa executam sem erro. Assinale a alternativa que indica o resultado impresso na tela pelo programa."],
   "Alternativas": ["1 1", "2 2", "3 3", "4 4", "Indeterminado Indeterminado"],
   "Imagens": ["2022/images/img-046-000"],
-  "Resposta": 2,
+  "Resposta": 1,
   "Componente": "Fundamentos da Computação",
   "Subarea": "Sistemas Operacionais"
 }
