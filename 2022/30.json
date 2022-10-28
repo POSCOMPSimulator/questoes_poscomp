@@ -1,10 +1,10 @@
 {
   "Ano": "2022",
   "Número": "30",
-  "Enunciado": ["Analise as seguintes assertivas sobre tipos de dados:", "", "  I. Tipos reais são utilizados para armazenar valores numéricos com parte fracionária.", " II. Tipos caracteres permitem armazenar um único caractere.", "III. Tipos inteiros são utilizados para armazenar valores que pertencem ao conjunto dos números", "     naturais (sem a parte fracionária).", "", "Quais estão corretas?"],
-  "Alternativas": ["Apenas I.", "Apenas II.", "Apenas III.", "Apenas II e III.", "I, II e III.\n\n\n\n"],
-  "Imagens": {},
-  "Resposta": -1,
-  "Componente": "",
-  "Subarea": ""
+  "Enunciado": ["Analise as seguintes assertivas sobre tipos de dados:", "I. Tipos reais são utilizados para armazenar valores numéricos com parte fracionária.", "II. Tipos caracteres permitem armazenar um único caractere.", "III. Tipos inteiros são utilizados para armazenar valores que pertencem ao conjunto dos números naturais (sem a parte fracionária).", "Quais estão corretas?"],
+  "Alternativas": ["Apenas I.", "Apenas II.", "Apenas III.", "Apenas II e III.", "I, II e III."],
+  "Imagens": [],
+  "Resposta": 4,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Técnicas de Programação"
 }

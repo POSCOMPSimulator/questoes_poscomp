@@ -1,10 +1,10 @@
 {
   "Ano": "2022",
   "Número": "27",
-  "Enunciado": ["De acordo com o diagrama de classes UML a seguir assinale a alternativa correta.", "", "", ""],
-  "Alternativas": ["A classe \"Sofá\" tem uma relação de polimorfismo com a classe \"Rack\".", "A classe \"Sofá\" tem uma relação de composição com a classe \"Rack\".", "A classe \"Cadeira\" é herdada da classe \"Mesa\".", "Todas as classes devem implementar o método “float calculaPreço()” obrigatoriamente.", "Quando uma instância da classe “Mesa” é apagada, a(s) instância(s) que existir(em) de classe\n   “Cadeira” permanece(m).\n\n\n\n"],
-  "Imagens": {},
-  "Resposta": -1,
-  "Componente": "",
-  "Subarea": ""
+  "Enunciado": ["De acordo com o diagrama de classes UML a seguir assinale a alternativa correta."],
+  "Alternativas": ["A classe \"Sofá\" tem uma relação de polimorfismo com a classe \"Rack\".", "A classe \"Sofá\" tem uma relação de composição com a classe \"Rack\".", "A classe \"Cadeira\" é herdada da classe \"Mesa\".", "Todas as classes devem implementar o método \"float calculaPreço()\" obrigatoriamente.", "Quando uma instância da classe \"Mesa\" é apagada, a(s) instância(s) que existir(em) de classe \"Cadeira\" permanece(m)."],
+  "Imagens": ["2022/images/img-027-000"],
+  "Resposta": 3,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Linguagens de Programação"
 }
