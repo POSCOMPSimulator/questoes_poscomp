@@ -2,9 +2,9 @@
   "Ano": "2022",
   "Número": "25",
   "Enunciado": "O tempo de execução de um algoritmo recursivo é analisado por:",
-  "Alternativas": ["Uma equação de recorrência que define restrições matemáticas que o tempo de execução do\n   algoritmo deve seguir.", "Um logaritmo que se transforma em uma igualdade de potências de mesma base a cada uma das\n   chamadas recursivas.", "Uma função randomização que define as probabilidades sobre um espaço amostral, definido como\n   o conjunto de todos os possíveis resultados da execução de cada chamada do algoritmo.", "Uma variável aleatória que define uma função que mapeia o resultado da execução de cada\n   chamada do algoritmo para um espaço amostral a números reais.", "Somatórios.\n\n\n"],
-  "Imagens": {},
-  "Resposta": -1,
-  "Componente": "",
-  "Subarea": ""
+  "Alternativas": ["Uma equação de recorrência que define restrições matemáticas que o tempo de execução do algoritmo deve seguir.", "Um logaritmo que se transforma em uma igualdade de potências de mesma base a cada uma das chamadas recursivas.", "Uma função randomização que define as probabilidades sobre um espaço amostral, definido como o conjunto de todos os possíveis resultados da execução de cada chamada do algoritmo.", "Uma variável aleatória que define uma função que mapeia o resultado da execução de cada chamada do algoritmo para um espaço amostral a números reais.", "Somatórios."],
+  "Imagens": [],
+  "Resposta": 0,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Análise de Algoritmos"
 }
