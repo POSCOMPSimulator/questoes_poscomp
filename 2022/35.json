@@ -1,10 +1,10 @@
 {
   "Ano": "2022",
   "Número": "35",
-  "Enunciado": ["Considere que um projetista deseja indexar um arquivo que contém registros com", "diferentes atributos numéricos. Ele deseja poder fazer buscas eficientes sobre registros baseado em", "valores exatos (e.g. 10), bem como por intervalos de valores (e.g. entre 10 e 20). Qual estrutura de", "indexação seria a mais apropriada?"],
-  "Alternativas": ["Árvore B+.", "Árvore binária de pesquisa.", "Hash.", "Árvore AVL.", "Árvore digital de pesquisa.\n\n\n"],
-  "Imagens": {},
-  "Resposta": -1,
-  "Componente": "",
-  "Subarea": ""
+  "Enunciado": ["Considere que um projetista deseja indexar um arquivo que contém registros com diferentes atributos numéricos. Ele deseja poder fazer buscas eficientes sobre registros baseado em valores exatos (e.g. 10), bem como por intervalos de valores (e.g. entre 10 e 20). Qual estrutura de indexação seria a mais apropriada?"],
+  "Alternativas": ["Árvore B+.", "Árvore binária de pesquisa.", "Hash.", "Árvore AVL.", "Árvore digital de pesquisa."],
+  "Imagens": [],
+  "Resposta": 0,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Organização de Arquivos E Dados"
 }
