@@ -3,7 +3,7 @@
   "Número": "31",
   "Enunciado": ["De acordo com o diagrama de classes UML a seguir, assinale a alternativa que se relaciona diretamente com o conceito de polimorfismo da programação orientada a objetos."],
   "Alternativas": ["A relação entre as classes \"Livro\" e \"Capitulo\".", "O método \"ImprimeNome\" das classes \"Artefato\" e \"Livro\".", "Os atributos \"numero: Integer\" e \"numeroDeFiguras: Integer\" da classe \"Capitulo\".", "O atributo \"autor: String\" da classe \"Livro\".", "A cardinalidade da relação entre \"Livro\" e \"Capitulo\"."],
-  "Imagens": ["2022/images/img-039-000"],
+  "Imagens": ["2022/images/img-031-000"],
   "Resposta": 1,
   "Componente": "Fundamentos da Computação",
   "Subarea": "Linguagens de Programação"
