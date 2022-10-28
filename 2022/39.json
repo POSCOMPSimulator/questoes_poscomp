@@ -1,10 +1,10 @@
 {
   "Ano": "2022",
   "Número": "39",
-  "Enunciado": ["Dado a gramática regular (G), determine qual é a expressão regular (r), tal que L(r)", "= L(G):", "", "", ""],
-  "Alternativas": ["r = (ab)*a", "r = aba*", "r = a*(ba)", "r = (a+b)*a*", "r = (ab) + a\n\n\n"],
-  "Imagens": {},
-  "Resposta": -1,
-  "Componente": "",
-  "Subarea": ""
+  "Enunciado": ["Dado a gramática regular (G), determine qual é a expressão regular (r), tal que L(r) = L(G):"],
+  "Alternativas": ["r = (ab)*a", "r = aba*", "r = a*(ba)", "r = (a+b)*a*", "r = (ab) + a"],
+  "Imagens": ["2022/images/img-039-000"],
+  "Resposta": 0,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Linguagens Formais, Autômatos E Computabilidade"
 }
