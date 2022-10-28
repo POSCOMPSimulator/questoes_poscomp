@@ -1,10 +1,10 @@
 {
   "Ano": "2022",
   "Número": "29",
-  "Enunciado": "Em relação à técnica de compressão corrida (Run-Length Encoding",
-  "Alternativas": ["Apenas I.", "Apenas II.", "Apenas III.", "Apenas I e II.", "Apenas II e III.\n\n\n"],
-  "Imagens": {},
-  "Resposta": -1,
-  "Componente": "",
-  "Subarea": ""
+  "Enunciado": ["Em relação à técnica de compressão corrida (Run-Length Encoding - RLE), analise as assertivas abaixo:", "I. Para dados alfanuméricos, tem desempenho inferior se comparada a técnicas como códigos de Huffman ou LZW.", "II. São bastante adequadas para bitmaps, os quais são largamente usados para representar figuras ou documentos escaneados.", "III. Apresenta os melhores resultados quando existem longas sequências intercalados de bits 0 e 1 (ex: 010101010101010101 .......).", "Quais estão corretas?"],
+  "Alternativas": ["Apenas I.", "Apenas II.", "Apenas III.", "Apenas I e II.", "Apenas II e III."],
+  "Imagens": [],
+  "Resposta": 3,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Organização de Arquivos E Dados"
 }
