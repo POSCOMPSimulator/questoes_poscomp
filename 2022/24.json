@@ -1,10 +1,10 @@
 {
   "Ano": "2022",
   "Número": "24",
-  "Enunciado": ["Qual é o método de ordenação representado por uma lista linear composta de", "elementos com chaves s1, ..., sn, satisfazendo a seguinte propriedade: si  s[1/2], para", "1 i  n?"],
-  "Alternativas": ["Inserção.", "Fila de prioridade.", "Quicksort.", "Shellsort.", "Seleção.\n\n\n"],
-  "Imagens": {},
-  "Resposta": -1,
-  "Componente": "",
-  "Subarea": ""
+  "Enunciado": ["Qual é o método de ordenação representado por uma lista linear composta de elementos com chaves $$s_1$$, ..., $$s_n$$, satisfazendo a seguinte propriedade: $$s_i \\leq s_{[1/2]}$$, para 1 i $$\\leq$$ n?"],
+  "Alternativas": ["Inserção.", "Fila de prioridade.", "Quicksort.", "Shellsort.", "Seleção."],
+  "Imagens": [],
+  "Resposta": 1,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Algoritmos E Estrutura de Dados"
 }
