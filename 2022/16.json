@@ -1,10 +1,10 @@
 {
   "Ano": "2022",
   "Número": "16",
-  "Enunciado": "Simplificando f=a’bc+abc+abc’, utilizando o diagrama de Karnaugh, temos:",
-  "Alternativas": ["f = ab+bc", "f = ab+b’c", "f = abc", "f = ab", "f = bc\n\n"],
-  "Imagens": {},
-  "Resposta": -1,
-  "Componente": "",
-  "Subarea": ""
+  "Enunciado": ["Simplificando f=a'bc+abc+abc', utilizando o diagrama de Karnaugh, temos:"],
+  "Alternativas": ["f = ab+bc", "f = ab+b'c", "f = abc", "f = ab", "f = bc"],
+  "Imagens": [],
+  "Resposta": 0,
+  "Componente": "Matemática",
+  "Subarea": "Matemática Discreta"
 }

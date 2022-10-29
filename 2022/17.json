@@ -1,10 +1,10 @@
 {
   "Ano": "2022",
   "Número": "17",
-  "Enunciado": ["Uma string ternária é uma sequência ordenada finita formada por uma ou mais", "ocorrências dos dígitos 0, 1 e 2. O comprimento de uma string ternária é a quantidade de dígitos que", "a compõem. Por exemplo, 20010 é uma string ternária de comprimento 5. Uma string ternária é", "chamada de interessante se tal string, da esquerda para direita, não possui dígito 0 ocorrendo em", "qualquer posição à direita de um dígito 1. Por exemplo, 0, 111, 22 e 020121 são strings ternárias", "interessantes. No entanto, 1101, 211220 e 00012202 não são strings ternárias interessantes. Quantas", "strings ternárias interessantes de comprimento 8 existem?"],
-  "Alternativas": ["878.", "984.", "1.100.", "1.280.", "5.739.\n\n"],
-  "Imagens": {},
-  "Resposta": -1,
-  "Componente": "",
-  "Subarea": ""
+  "Enunciado": ["Uma string ternária é uma sequência ordenada finita formada por uma ou mais ocorrências dos dígitos 0, 1 e 2. O comprimento de uma string ternária é a quantidade de dígitos que a compõem. Por exemplo, 20010 é uma string ternária de comprimento 5. Uma string ternária é chamada de interessante se tal string, da esquerda para direita, não possui dígito 0 ocorrendo em qualquer posição à direita de um dígito 1. Por exemplo, 0, 111, 22 e 020121 são strings ternárias interessantes. No entanto, 1101, 211220 e 00012202 não são strings ternárias interessantes. Quantas strings ternárias interessantes de comprimento 8 existem?"],
+  "Alternativas": ["878.", "984.", "1.100.", "1.280.", "5.739."],
+  "Imagens": [],
+  "Resposta": 3,
+  "Componente": "Matemática",
+  "Subarea": "Análise Combinatória"
 }
