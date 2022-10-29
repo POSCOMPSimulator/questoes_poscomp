@@ -1,10 +1,10 @@
 {
   "Ano": "2022",
   "Número": "41",
-  "Enunciado": ["Sobre o lema do bombeamento para as linguagens regulares, analise as assertivas a", "seguir:", "", "  I. Se uma linguagem é Regular, então é aceita por um Autômato Finito Determinístico o qual possui", "     um número finito e predefinido de n estados.", " II. Se o autômato reconhece uma entrada w de comprimento maior ou igual a n, obrigatoriamente o", "     autômato assume algum estado q mais de uma vez, então existe um ciclo na função programa", "     que passa por q.", "III. A entrada w pode ser dividida em 3 subpalavras w = xyz tal que |xy| <= n, |y| >= 1 e onde y é", "     a parte de w reconhecida pelo ciclo na função programa.", "IV. O Lema do bombeamento não pode ser utilizado para provar que uma determinada linguagem é", "     Não Regular.", "", "Quais estão corretas?"],
-  "Alternativas": ["Apenas I e II.", "Apenas III e IV.", "Apenas I, II e III.", "Apenas II, III e IV.", "I, II, III e IV.\n\n\n\n"],
-  "Imagens": {},
-  "Resposta": -1,
-  "Componente": "",
-  "Subarea": ""
+  "Enunciado": ["Sobre o lema do bombeamento para as linguagens regulares, analise as assertivas a seguir:", "  I. Se uma linguagem é Regular, então é aceita por um Autômato Finito Determinístico o qual possui um número finito e predefinido de n estados.", " II. Se o autômato reconhece uma entrada w de comprimento maior ou igual a n, obrigatoriamente o autômato assume algum estado q mais de uma vez, então existe um ciclo na função programa que passa por q.", "III. A entrada w pode ser dividida em 3 subpalavras w = xyz tal que |xy| <= n, |y| >= 1 e onde y é a parte de w reconhecida pelo ciclo na função programa.", "IV. O Lema do bombeamento não pode ser utilizado para provar que uma determinada linguagem é Não Regular.", "Quais estão corretas?"],
+  "Alternativas": ["Apenas I e II.", "Apenas III e IV.", "Apenas I, II e III.", "Apenas II, III e IV.", "I, II, III e IV."],
+  "Imagens": [],
+  "Resposta": 2,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Linguagens Formais, Autômatos E Computabilidade"
 }

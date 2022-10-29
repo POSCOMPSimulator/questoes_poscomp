@@ -1,10 +1,10 @@
 {
   "Ano": "2022",
   "Número": "44",
-  "Enunciado": ["Considere uma memória cache com um tamanho de linha de 16 bytes e uma memória", "principal que requer 20 ns para transferir uma palavra de 8 bytes, para qualquer linha que seja escrita", "pelo menos uma vez, antes de ser retirada da cache. Qual é o número médio de vezes que a linha", "precisa ser escrita antes de ser retirada para que uma cache write-back seja mais eficiente do que", "uma cache write-through?"],
-  "Alternativas": ["4 vezes antes de ser trocada, então write-back é mais eficiente.", "8 vezes antes de ser trocada, então write-back é mais eficiente.", "12 vezes antes de ser trocada, então write-back é mais eficiente.", "16 vezes antes de ser trocada, então write-back é mais eficiente.", "32 vezes antes de ser trocada, então write-back é mais eficiente.\n\n\n"],
-  "Imagens": {},
-  "Resposta": -1,
-  "Componente": "",
-  "Subarea": ""
+  "Enunciado": ["Considere uma memória cache com um tamanho de linha de 16 bytes e uma memória principal que requer 20 ns para transferir uma palavra de 8 bytes, para qualquer linha que seja escrita pelo menos uma vez, antes de ser retirada da cache. Qual é o número médio de vezes que a linha precisa ser escrita antes de ser retirada para que uma cache write-back seja mais eficiente do que uma cache write-through?"],
+  "Alternativas": ["4 vezes antes de ser trocada, então write-back é mais eficiente.", "8 vezes antes de ser trocada, então write-back é mais eficiente.", "12 vezes antes de ser trocada, então write-back é mais eficiente.", "16 vezes antes de ser trocada, então write-back é mais eficiente.", "32 vezes antes de ser trocada, então write-back é mais eficiente."],
+  "Imagens": [],
+  "Resposta": 3,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Arquitetura E Organização de Computadores"
 }

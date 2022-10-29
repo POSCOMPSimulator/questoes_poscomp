@@ -1,10 +1,10 @@
 {
   "Ano": "2022",
   "Número": "45",
-  "Enunciado": ["Sistemas operacionais que utilizam o método de memória virtual usualmente", "reservam um espaço em memória secundária (ex. disco) denominado de “área de troca”, espaço este", "utilizado para realizar:"],
-  "Alternativas": ["Caching.", "Framing.", "Pinning.", "Paging.", "Swapping.\n"],
-  "Imagens": {},
-  "Resposta": -1,
-  "Componente": "",
-  "Subarea": ""
+  "Enunciado": ["Sistemas operacionais que utilizam o método de memória virtual usualmente reservam um espaço em memória secundária (ex. disco) denominado de \"área de troca\", espaço este utilizado para realizar:"],
+  "Alternativas": ["Caching.", "Framing.", "Pinning.", "Paging.", "Swapping."],
+  "Imagens": [],
+  "Resposta": 3,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Sistemas Operacionais"
 }
