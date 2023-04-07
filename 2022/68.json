@@ -1,6 +1,6 @@
 {
   "Ano": "2022",
-  "Número": "68",
+  "Numero": "68",
   "Enunciado": ["Encontre a maior linguagem para o alfabeto {a,b} utilizando apenas uma expressão regular abaixo:"],
   "Alternativas": ["ab*", "a*b*", "(ab)*", "(a|b)(a|b)*", "(a|b)*"],
   "Imagens": {},

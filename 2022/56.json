@@ -1,6 +1,6 @@
 {
   "Ano": "2022",
-  "Número": "56",
+  "Numero": "56",
   "Enunciado": ["Requisitos não funcionais envolvem requisitos de produto, organizacionais e externos (SOMMERVILLE, 2011). Os requisitos de produto especificam ou restringem o funcionamento do software. Os organizacionais atendem a políticas ou procedimentos relativos aos clientes e/ou organizações. Já os requisitos externos são derivados de fatores externos ao sistema e ao processo de desenvolvimento. Considere as subclasses de requisitos não funcionais abaixo, e os respectivos exemplos.", "- Requisitos de Ambiente, tal como a necessidade de o sistema funcionar em determinados sistemas operacionais.", "- Requisitos de Legislação, tal como o direito dos pacientes à privacidade em um sistema médico.", "- Requisitos de Usabilidade, tal como acessibilidade por pessoas com deficiências.", "Classifique estas subclasses de acordo com os três tipos de requisitos não funcionais, considerando a ordem de cima para baixo."],
   "Alternativas": ["Produto – Organizacional – Externo.", "Organizacional – Externo – Externo.", "Produto – Organizacional – Produto.", "Organizacional – Externo – Produto.", "Produto – Externo – Produto."],
   "Imagens": [],

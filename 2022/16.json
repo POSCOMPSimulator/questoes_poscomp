@@ -1,6 +1,6 @@
 {
   "Ano": "2022",
-  "Número": "16",
+  "Numero": "16",
   "Enunciado": ["Simplificando f=a'bc+abc+abc', utilizando o diagrama de Karnaugh, temos:"],
   "Alternativas": ["f = ab+bc", "f = ab+b'c", "f = abc", "f = ab", "f = bc"],
   "Imagens": [],

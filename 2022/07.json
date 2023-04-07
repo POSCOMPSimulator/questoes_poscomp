@@ -1,6 +1,6 @@
 {
   "Ano": "2022",
-  "Número": "07",
+  "Numero": "07",
   "Enunciado": ["Resolva o sistema de equações lineares pelo método de Gauss, se a matriz do sistema é:", "$$\\left( \\left.\\begin{matrix}1 & 2 & -3 \\\\3 & 0 & 1 \\\\2 & -1 & 2 \\\\ \\end{matrix}\\right|\\begin{matrix} -2 \\\\0 \\\\3 \\\\ \\end{matrix} \\right )$$"],
   "Alternativas": ["x= 1; y = -9; z = 6", "x = 2; y = -11; z = -6", "x= 1; y = 2; z = -3", "x= -2; y = 6; z = 3", "x= -2; y = 6; z = -6"],
   "Imagens": [],

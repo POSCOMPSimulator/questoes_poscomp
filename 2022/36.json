@@ -1,6 +1,6 @@
 {
   "Ano": "2022",
-  "Número": "36",
+  "Numero": "36",
   "Enunciado": ["Qual é a implementação no qual um grafo G = (V,A) contendo n vértices é uma matriz n x n de bits, em que A[i,j] é 1 (ou verdadeiro, no caso de booleanos) se e somente se existe um arco do vértice i para o vértice j."],
   "Alternativas": ["Matriz de incidência.", "Lista de adjacência.", "Matriz de adjacência.", "Lista de incidência.", "Matriz quadrada completa."],
   "Imagens": [],

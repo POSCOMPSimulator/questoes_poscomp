@@ -1,6 +1,6 @@
 {
   "Ano": "2022",
-  "Número": "60",
+  "Numero": "60",
   "Enunciado": ["Uma empresa dividiu a sua rede em duas sub-redes, apresentadas na tabela abaixo.", "Qual o valor de Y?"],
   "Alternativas": ["194.24.8.0/22.", "194.24.16.0/20.", "194.24.16.0/22.", "194.24.32.0/22.", "194.24.32.0/19."],
   "Imagens": ["2022/images/img-060-000"],

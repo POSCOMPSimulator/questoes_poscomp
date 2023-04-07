@@ -1,6 +1,6 @@
 {
   "Ano": "2022",
-  "Número": "20",
+  "Numero": "20",
   "Enunciado": ["O tempo t, em segundos, necessário para um processador resolver uma equação é uma variável aleatória com a seguinte distribuição de probabilidades:", "Calcule o tempo esperado de processamento:"],
   "Alternativas": ["4,5 s.", "5,0 s.", "1,0 s.", "0,9 s.", "5,4 s."],
   "Imagens": ["2022/images/img-020-000"],

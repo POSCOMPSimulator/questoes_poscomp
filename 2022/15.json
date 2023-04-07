@@ -1,6 +1,6 @@
 {
   "Ano": "2022",
-  "Número": "15",
+  "Numero": "15",
   "Enunciado": ["Dado duas proposições lógicas q e p.", "A proposição lógica ~p-> q é falsa se, e somente se, quando a proposição abaixo for verdadeira:"],
   "Alternativas": ["p ou q", "~p", "~( p ou q)", "~( p e q)", "~q"],
   "Imagens": [],

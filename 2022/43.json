@@ -1,6 +1,6 @@
 {
   "Ano": "2022",
-  "Número": "43",
+  "Numero": "43",
   "Enunciado": ["Seja o contador síncrono da figura abaixo. Considerando que os valores binários das saídas do contador sejam Q2 = 0; Q1 = 1 e Q0 = 0, assinale a alternativa que contém o valor binário das saídas Q2, Q1 e Q0 após o próximo pulso do sinal de clock.", "OBS: A presença de um ponto preto em um cruzamento de linhas representa uma conexão."],
   "Alternativas": ["Q2 = 0; Q1 = 0; Q0 = 0.", "Q2 = 0; Q1 = 0; Q0 = 1.", "Q2 = 0; Q1 = 1; Q0 = 1.", "Q2 = 1; Q1 = 0; Q0 = 0.", "Q2 = 1; Q1 = 0; Q0 = 1.\n\n\n"],
   "Imagens": ["2022/images/img-043-000"],

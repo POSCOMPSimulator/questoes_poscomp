@@ -1,6 +1,6 @@
 {
   "Ano": "2022",
-  "Número": "49",
+  "Numero": "49",
   "Enunciado": ["O paralelismo em nível de instruções existe quando as instruções de uma sequência são independentes e, assim, podem ser executadas em paralelo por sobreposição. Como um exemplo do conceito de paralelismo, considere dois pedaços de código (A e B) a seguir (JOUPPI, 1989):","Assinale a alternativa INCORRETA a respeito do paralelismo."],
   "Alternativas": ["O grau do paralelismo em nível de instruções é determinado pela frequência da dependência de dados verdadeira e das dependências procedurais no código.", "As três instruções no Código A são independentes e, na teoria, todas poderiam ser executadas em paralelo.", "As três instruções do Código B não podem ser executadas em paralelo, porque a segunda instrução usa o resultado da primeira e a terceira usa o resultado da segunda.", "O paralelismo de máquina é uma medida de desempenho, que é determinado pelo número de instruções que podem ser obtidas e executadas ao mesmo tempo de forma sequencial.", "O paralelismo em nível de instruções é também determinado pelo que Jouppi denomina como latência da operação."],
   "Imagens": ["2022/images/img-049-000"],

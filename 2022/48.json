@@ -1,6 +1,6 @@
 {
   "Ano": "2022",
-  "Número": "48",
+  "Numero": "48",
   "Enunciado": ["Um barramento do sistema consiste, normalmente, em cerca de 50 a centenas de linhas separadas. Cada linha recebe um significado ou função em particular. Embora existam muitos projetos de barramento diferentes, em qualquer barramento as linhas podem ser classificadas em grupos funcionais. Assinale a alternativa INCORRETA sobre barramento."],
   "Alternativas": ["As linhas de dados oferecem um caminho para movimentação de dados entre os módulos do sistema. Essas linhas, coletivamente, são chamadas de barramento de dados.", "As linhas da memória servem para referenciar os dados que são armazenados na memória e fazem uma referência direta ao barramento que está em uso. Utilizado pelo acesso dos dados do disco ate a memória.", "As linhas de endereço são usadas para designar a origem ou o destino dos dados no barramento de dados. Além do mais, as linhas de endereço geralmente também são usadas para endereçar portas de E/S.", "As linhas de controle são usadas para controlar o acesso e o uso das linhas de dados e endereço. Como as linhas de dados e endereço são compartilhadas por todos os componentes, é preciso haver um meio de controlar seu uso.", "Todas as alternativas estão corretas."],
   "Imagens": [],

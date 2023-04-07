@@ -1,6 +1,6 @@
 {
   "Ano": "2022",
-  "Número": "70",
+  "Numero": "70",
   "Enunciado": ["Analise as seguintes assertivas sobre gestão da qualidade em desenvolvimento de software:", "I. Um dos objetivos de gestão de qualidade em nível de projeto é verificar que todos os entregáveis de projetos atendam aos requisitos funcionais e não funcionais especificados, tal como especificado no plano de qualidade.", "II. Idealmente, o time de gestão de qualidade não deve estar vinculado a nenhum time/projeto específico. Sempre que possível deve ser independente e reportar diretamente a níveis da organização superiores ao da gestão de projetos.", "III. A gestão de qualidade em nível organizacional tem por objetivo estabelecer os processos de desenvolvimento de software e as padronizações/padrões aplicáveis a softwares e documentações relacionadas (requisitos, código, etc).", "Quais estão corretas?"],
   "Alternativas": ["Apenas I.", "Apenas II.", "Apenas III.", "Apenas I e II.", "Apenas II e III."],
   "Imagens": [],

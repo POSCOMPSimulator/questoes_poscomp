@@ -1,6 +1,6 @@
 {
   "Ano": "2022",
-  "Número": "09",
+  "Numero": "09",
   "Enunciado": "Se A e B são dois conjuntos finitos, realize a redução de $$E = {A \\cap (A \\cup B')} - B'$$.",
   "Alternativas": ["A", "B", "$$A \\cap B$$", "$$A \\cup B$$", "B'"],
   "Imagens": [],

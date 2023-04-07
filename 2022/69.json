@@ -1,6 +1,6 @@
 {
   "Ano": "2022",
-  "Número": "69",
+  "Numero": "69",
   "Enunciado": ["Considerando o estudo em Inteligência Artificial, assinale a alternativa que apresenta, corretamente, os algoritmos de classificação no aprendizado supervisonado."],
   "Alternativas": ["Naive Bayes, Redes Neurais Artificiais e K-means.", "Árvores de Decisão, Simulated Annealing e Backpropagation.", "k-means, Naive Bayes e Algoritmos Genéticos.", "Árvore de Decisão, Redes Neurais Artificiais e KNN.", "Regressão Logística, K-means e Lógica Fuzzy."],
   "Imagens": [],
