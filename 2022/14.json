@@ -1,7 +1,7 @@
 {
   "Ano": "2022",
   "Numero": "14",
-  "Enunciado": "Resolva a identidade $$\\overline{\\overline{E}*\\overline{B}}$$ , aplicando as leis da álgebra de Boole.",
+  "Enunciado": ["Resolva a identidade $$\\overline{\\overline{E}*\\overline{B}}$$ , aplicando as leis da álgebra de Boole."],
   "Alternativas": ["E", "E*B", "B", "E+B", "$$\\overline{E}$$"],
   "Imagens": [],
   "Resposta": 3,

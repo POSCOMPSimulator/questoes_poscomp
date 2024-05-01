@@ -1,7 +1,7 @@
 {
   "Ano": "2022",
   "Numero": "23",
-  "Enunciado": "Em relação à lista linear em alocação sequencial, é correto afirmar que:",
+  "Enunciado": ["Em relação à lista linear em alocação sequencial, é correto afirmar que:"],
   "Alternativas": ["Para as estruturas do tipo pilha, são necessários dois ponteiros, início da pilha (i) e fim da pilha (f).\n   Para a adição de um elemento, move-se o ponteiro i; para a retirada, move-se o ponteiro f.", "O armazenamento sequencial de listas é empregado quando as estruturas, ao longo do tempo,\n   sofrem muitas inserções e remoções, acarretando a movimentação dos elementos da lista.", "Os nodos de uma lista simplesmente encadeada encontram-se aleatoriamente dispostos na\n   memória e são interligados por ponteiros, que indicam a posição do próximo elemento da lista.", "Em uma lista sequencial, o último nodo da lista aponta para o primeiro nodo da lista.", "Para as estruturas do tipo fila, apenas um ponteiro precisa ser considerado, o ponteiro topo, pois\n   as inserções e as remoções são executadas na mesma extremidade da lista."],
   "Imagens": [],
   "Resposta": 2,
