@@ -1,6 +1,6 @@
 {
   "Ano": "2023",
-  "Número": "06",
+  "Numero": "06",
   "Enunciado": ["Um anagrama é uma nova palavra formada pela permutação de letras de uma palavra. Essa nova palavra não precisa fazer sentido. Um anagrama de POSCOMP, por exemplo, seria MOCPSOP. Quantos são os anagramas da palavra POSCOMP?"],
   "Alternativas": ["126", "252", "1260", "2520", "5040"],
   "Imagens": [],

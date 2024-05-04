@@ -1,6 +1,6 @@
 {
   "Ano": "2023",
-  "Número": "53",
+  "Numero": "53",
   "Enunciado": ["A normalização de esquemas de bancos de dados relacionais visa à redução da redundância de dados e à melhoria da integridade dos dados, pelo atendimento a requisitos denominados de formas normais, tais como: segunda forma normal (2NF), terceira forma normal (3NF) e forma normal de Boyce-Codd (BCNF). Um esquema de relação que atende aos requisitos de uma forma normal pode, potencialmente, atender aos requisitos de outras formas normais. Nesse sentido, se o esquema atende à:", "", "  I. BCNF, então atende à 2NF.", " II. 2NF, então atende à 3NF.", "III. BCNF, então atende à 3NF.", "IV. 3NF, então atende à BCNF.", "", "As alternativas verdadeiras com respeito à relação entre formas normais são:"],
   "Alternativas": ["Apenas I e II.", "Apenas I e III.", "Apenas II e III.", "Apenas II e IV.", "Apenas III e IV."],
   "Imagens": [],

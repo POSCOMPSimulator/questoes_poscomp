@@ -1,6 +1,6 @@
 {
   "Ano": "2023",
-  "Número": "36",
+  "Numero": "36",
   "Enunciado": ["Qual máquina de aceitação já seria capaz de reconhecer a linguagem a seguir?", "", "                      $$L = \\{w \\in \\{a, b\\}^*| w$$ contém a mesma quantidade de a's e b's$$\\}$$"],
   "Alternativas": ["Autômato Finito.", "Autômato com Pilha Determinístico.", "Autômato com Pilha Não Determinístico.", "Máquina de Turing Decididora.", "Máquina de Turing Reconhecedora."],
   "Imagens": [],

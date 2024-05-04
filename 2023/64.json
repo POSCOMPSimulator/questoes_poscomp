@@ -1,6 +1,6 @@
 {
   "Ano": "2023",
-  "Número": "64",
+  "Numero": "64",
   "Enunciado": ["As redes neurais são utilizadas na área de reconhecimento de padrões. O modelo mais simples de rede neural possui apenas uma unidade, denominada ______________________.", "O modelo é utilizado apenas em problemas de classificação linearmente separáveis. Essa rede mapeia múltiplas entradas para uma saída representada por um valor binário.", "", "Assinale a alternativa que preenche corretamente a lacuna do trecho acima."],
   "Alternativas": ["Rede neural convolucional", "Retropropagação", "Perceptron multicamadas", "Perceptron", "Rede neural recorrente"],
   "Imagens": [],

@@ -1,6 +1,6 @@
 {
   "Ano": "2023",
-  "Número": "31",
+  "Numero": "31",
   "Enunciado": ["Considere um circuito sequencial composto por um flip-flop JK e dois flip-flops. Para fins de simplicidade, o sinal de clock (CLK) está omitido, porém assuma que todos os componentes estão sincronizados nele. O diagrama do circuito é apresentado na Figura 2 abaixo. Dado o estado inicial $$Q_0 = Q_1 = Q_2 = 1$$, informe quantas vezes o sinal será resetado (ou seja, será mudado para zero) depois de 6 ciclos de clock, sendo $A = B = 1$:"],
   "Alternativas": ["0", "1", "2", "3", "4"],
   "Imagens": ["2023/images/img-31-01"],

@@ -1,6 +1,6 @@
 {
   "Ano": "2023",
-  "Número": "54",
+  "Numero": "54",
   "Enunciado": ["Seja o alfabeto $$A = \\{ b, k, z \\}$$. Expressões regulares sobre $$A$$ são definidas (da forma habitual) como cadeias (strings) contendo símbolos do alfabeto dado pela união de A com o conjunto $$\\{ (, ), *, | \\}$$. Assim:", "", "- $$()$$ e $$e$$, as quais denotam respectivamente a linguagem vazia e a linguagem que contém apenas a cadeia vazia.", "- Cada símbolo do alfabeto é uma expressão regular, denotando a linguagem formada pelo símbolo.", "- Dadas expressões regulares $$R$$, $$R1$$ e $$R2$$, notamos com $$R^*$$, $$(R1 | R2)$$ e $$R1$$ $$R2$$ as expressões regulares, representando, respectivamente, as operações de Estrela de Kleene (repetição), Escolha e Concatenação.", "", "A notação $$R?$$ é usada como abreviatura para $$(R | e )$$, marcando que R é opcional. Sejam os Tokens de uma certa linguagem definidos pelas expressões regulares sobre $$A$$ a seguir:", "", "Seja um analisador léxico que reconhece os tokens acima, procurando sempre casar a maior parte possível da entrada (maior prefixo possível). Caso a cadeia $$kkbzkbbkkb$$ seja dada como entrada ao analisador léxico, qual será a sequência de tokens devolvida por ele?"],
   "Alternativas": ["T1 T3 T2 T3.", "T1 T1 T3.", "T2 T3.", "T3 T2 T3.", "T3 T3 T3."],
   "Imagens": ["2023/images/img-54-01"],

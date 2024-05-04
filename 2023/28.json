@@ -1,6 +1,6 @@
 {
   "Ano": "2023",
-  "Número": "28",
+  "Numero": "28",
   "Enunciado": ["Qual é o resultado da seguinte fórmula Infixo A+B*(C-D*(E-F)-G*H)-I*3 convertida para a notação polonesa?"],
   "Alternativas": ["A+*(B*(C-(D*(E-(F-G*H-I*3)))))", "A+B*C-D*E-F-G*H-I*3+*-*-*-*+", "+*-*--*A -*ABCDEFGHI3", "ABCDEF-*-GH*-*+I3*-", "ABCDEFGHI3+*-*-*-*-"],
   "Imagens": [],

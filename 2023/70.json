@@ -1,6 +1,6 @@
 {
   "Ano": "2023",
-  "Número": "70",
+  "Numero": "70",
   "Enunciado": ["Sobre comunicação indireta em sistemas distribuídos, é correto afirmar que:"],
   "Alternativas": ["A comunicação direta é definida como a comunicação entre entidades de um sistema distribuído por meio de um intermediário, sem nenhum acoplamento direto entre o remetente e o destinatário (ou destinatários).", "No desacoplamento espacial, o remetente e o destinatário (ou destinatários) podem ter tempos de vida independentes, isto é, o remetente e o destinatário (ou destinatários) não precisam existir ao mesmo tempo para se comunicar.", "Na comunicação em grupo, implementa comunicação por multicast, na qual uma mensagem é enviada para todos os membros do grupo por meio de uma única operação.", "No desacoplamento temporal, o remetente não sabe ou não precisa saber a identidade do destinatário (ou destinatários) e vice-versa. O desenvolvedor do sistema tem muitos graus de liberdade para lidar com alterações: os participantes (remetentes ou destinatários) podem ser substituídos, atualizados, duplicados ou migrados.", "A comunicação assíncrona é um serviço por meio do qual uma mensagem é enviada para um grupo e, então, entregue a todos os membros do grupo."],
   "Imagens": [],

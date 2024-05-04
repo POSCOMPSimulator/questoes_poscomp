@@ -1,6 +1,6 @@
 {
   "Ano": "2023",
-  "Número": "59",
+  "Numero": "59",
   "Enunciado": ["Uma revisão técnica formal (RTF) é uma atividade de controle de qualidade de software executada por engenheiros de software sobre um artefato de software (especificações, código, etc.). As diretrizes para a realização de uma RTF devem ser estabelecidas com antecedência, distribuídas a todos os revisores, e seguidas durante o processo de revisão. Assinale a alternativa que NÃO representa uma boa prática na condução de uma RTF."],
   "Alternativas": ["Revisar o produto (artefato), e não quem o desenvolveu.", "Definir uma agenda de revisão inicial (reuniões com datas e horários específicas), mas estender as discussões enquanto forem encontrados problemas nos artefatos revisados.", "Identificar áreas problemáticas, sem tentar resolver os problemas apontados.", "Limitar o número de participantes e exigir preparação prévia de todos.", "Fornecer treinamento adequado a todos os revisores."],
   "Imagens": [],

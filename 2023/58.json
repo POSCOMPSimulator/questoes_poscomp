@@ -1,6 +1,6 @@
 {
   "Ano": "2023",
-  "Número": "58",
+  "Numero": "58",
   "Enunciado": ["Analise as seguintes assertivas sobre reúso no contexto de engenharia de software:", "", "  I. Muitos desenvolvedores de software preferem reescrever eles mesmos seus componentes porque acreditam que seu trabalho será de melhor qualidade, se comparado à adaptação de componentes escritos por outros (síndrome do “Não inventado aqui”).", " II. O reúso pressupõe a existência de bibliotecas com componentes reutilizáveis. Criar, manter e assegurar que desenvolvedores de software usem essa biblioteca pode ser bastante custoso.", "III. Desenvolver softwares através do reúso, por tipicamente adicionar uma complexidade muito grande ao código, exige desenvolvedores que sejam especialistas em reúso, o que torna o desenvolvimento baseado em reúso muito caro.", "", "Dentre as assertivas acima, quais representam fatores que comprometem o reúso de software?"],
   "Alternativas": ["Apenas I.", "Apenas II.", "Apenas III.", "Apenas I e II.", "I, II e III."],
   "Imagens": [],

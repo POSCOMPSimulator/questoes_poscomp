@@ -1,6 +1,6 @@
 {
   "Ano": "2023",
-  "Número": "60",
+  "Numero": "60",
   "Enunciado": ["Segundo Sommerville (2011), requisitos não funcionais (RNF) podem ser classificados como de produto, organizacional ou externo. Considere os seguintes RNF de produto:", "", "  I. RNF1: “As interfaces projetadas para o sistema on-line devem funcionar nos navegadores Google Chrome e Safari”.", " II. RNF2: “Os funcionários devem poder usar todas as funções do sistema após quatro horas de treinamento. Espera-se que usuários treinados não façam mais que 2 erros em média por hora de uso”.", "III. RNF3: “Todos os pedidos feitos por usuários através da interface gráfica devem ter um tempo de resposta máximo de 1 segundo”.", "", "Entre os RNF de produto, está a usabilidade. São RNFs classificados como requisitos de usabilidade:"],
   "Alternativas": ["Apenas I.", "Apenas II.", "Apenas III.", "Apenas I e II.", "I, II e III."],
   "Imagens": [],

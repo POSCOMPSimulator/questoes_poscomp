@@ -1,6 +1,6 @@
 {
   "Ano": "2023",
-  "Número": "21",
+  "Numero": "21",
   "Enunciado": "Sobre os conceitos de complexidade de algoritmos, é correto afirmar que:",
   "Alternativas": ["O espaço requerido por um algoritmo sobre uma dada entrada pode ser medido pelo número de execuções de algumas operações.", "A complexidade de tempo usa como medida de desempenho a quantidade de memória necessária para a execução do algoritmo.", "A complexidade média é definida pelo crescimento da complexidade para entradas suficientemente grandes.", "A complexidade assintótica dá o valor esperado: a média dos esforços, levando em conta a probabilidade de ocorrência de cada entrada.", "A complexidade pessimista de um algoritmo fornece seu desempenho no pior caso: o pior desempenho que se pode esperar. Aqui, pode-se considerar os desempenhos sobre todas as entradas com tamanho n."],
   "Imagens": [],

@@ -1,6 +1,6 @@
 {
   "Ano": "2023",
-  "Número": "08",
+  "Numero": "08",
   "Enunciado": ["Determine os intervalos da função $$f(x)=5x^2\\sqrt{x+1}$$."],
   "Alternativas": [
     "$$I_1 = \\left ( -1, -\\frac{4}{5} \\right ); I_2 = \\left ( -\\frac{4}{5}, 0 \\right ); I_3 = \\left ( 0, \\infty  \\right )",

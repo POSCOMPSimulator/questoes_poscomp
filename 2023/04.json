@@ -1,6 +1,6 @@
 {
   "Ano": "2023",
-  "Número": "04",
+  "Numero": "04",
   "Enunciado": ["Nos jogos da Mega-Sena, são sorteados a cada concurso 6 números no intervalo de 1 a 60. Leva o prêmio quem acertar os 6 números sorteados. O apostador, ao fazer um jogo, pode optar por preencher um bilhete com 6, 7, 8 ou 9 números escolhidos. Se o apostador registra um bilhete com 8 números escolhidos, quantos bilhetes de 6 números ele faria com os mesmos 8 números escolhidos?"],
   "Alternativas": ["56", "8!", "6!", "28", "72"],
   "Imagens": [],

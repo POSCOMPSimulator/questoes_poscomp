@@ -1,6 +1,6 @@
 {
   "Ano": "2023",
-  "Número": "68",
+  "Numero": "68",
   "Enunciado": ["Uma transação cliente se torna distribuída se ativa operações em vários servidores diferentes, isto é, um cliente faz requisições para mais de um servidor. A transação cliente ______________ conclui cada uma de suas requisições antes de passar para a próxima. Portanto, cada transação acessa objetos dos servidores em sequência. Quando os servidores usam locks, uma transação só pode estar esperando um objeto por vez.", "", "Assinale a alternativa que preenche corretamente a lacuna do trecho acima."],
   "Alternativas": ["plana", "aninhada", "coordenadora", "em duas fases", "hierárquica"],
   "Imagens": [],

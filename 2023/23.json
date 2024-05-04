@@ -1,6 +1,6 @@
 {
   "Ano": "2023",
-  "Número": "23",
+  "Numero": "23",
   "Enunciado": ["Considere o seguinte trecho de código:", "Qual das seguintes afirmações é verdadeira sobre a complexidade assintótica desse trecho de código?"],
   "Alternativas": ["A complexidade é O(n) se m for uma constante, e O(m) se n for uma constante.", "A complexidade é O(n log m) se m for uma constante, e O(m log n) se n for uma constante.", "A complexidade é O(n + m) se n e m forem do mesmo tamanho.", "A complexidade é O(1) em todos os casos.", "A complexidade é O(nm) em todos os casos."],
   "Imagens": ["2023/images/img-23-01"],

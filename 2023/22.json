@@ -1,6 +1,6 @@
 {
   "Ano": "2023",
-  "Número": "22",
+  "Numero": "22",
   "Enunciado": ["Qual das seguintes afirmações é verdadeira sobre a análise de algoritmos recursivos?"],
   "Alternativas": ["A complexidade de tempo de um algoritmo recursivo é sempre mais rápida do que a de um algoritmo iterativo equivalente.", "A complexidade de espaço de um algoritmo recursivo é sempre menor do que a de um algoritmo iterativo equivalente.", "A análise de complexidade de um algoritmo recursivo é sempre mais fácil do que a de um algoritmo iterativo equivalente.", "Algoritmos recursivos nunca podem sofrer de problemas de estouro de pilha (stack overflow).", "A escolha adequada da estrutura de dados pode reduzir o tempo e o espaço necessários para a execução de algoritmos recursivos."],
   "Imagens": [],

@@ -1,6 +1,6 @@
 {
   "Ano": "2023",
-  "Número": "32",
+  "Numero": "32",
   "Enunciado": ["Considere o circuito combinacional composto por portas lógicas NOT, AND e XOR, além de um multiplexador, conforme a Figura 3, e analise as assertivas abaixo:", "", " I. A expressão $$(\\bar{A}B + A\\bar{B}) \\cdot C$$ representa a função booleana que define o valor de S.", " II. A expressão $$\\bar{B} \\otimes A \\oplus C$$ representa a função booleana que define o valor de T.", "III. O circuito contém a função de um somador binário completo, com entrada de sinais de dois operandos e do transporte, e saída do sinal de soma e do transporte.", "", "Quais estão corretas?"],
   "Alternativas": ["Apenas I.", "Apenas II.", "Apenas III.", "Apenas I e III.", "I, II e III.\n\n\n"],
   "Imagens": ["2023/images/img-32-01"],

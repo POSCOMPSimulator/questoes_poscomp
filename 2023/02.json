@@ -1,6 +1,6 @@
 {
   "Ano": "2023",
-  "Número": "02",
+  "Numero": "02",
   "Enunciado": ["Determine o valor de x para que o vetor $$(1, x, 5) \\in R^3$$ pertença ao subespaço", "<(1, 2, 3), (1, 1, 1)>"],
   "Alternativas": ["x = 0", "x = -1", "x = 1", "x = 3", "x = 7"],
   "Imagens": [],

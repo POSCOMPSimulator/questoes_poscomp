@@ -1,6 +1,6 @@
 {
   "Ano": "2023",
-  "Número": "37",
+  "Numero": "37",
   "Enunciado": ["Qual é a Expressão Regular (ER) que denota a linguagem a seguir?", "", "                            $$L = \\{w \\in \\{a, b\\}^*| w$$ não pode terminar com ba$$\\}$$"],
   "Alternativas": [
     "$$\\neg((a \\cup b)^*ba)$$", 

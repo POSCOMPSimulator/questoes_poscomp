@@ -1,6 +1,6 @@
 {
   "Ano": "2023",
-  "Número": "38",
+  "Numero": "38",
   "Enunciado": ["Dada a linguagem $$L = \\{w \\in \\{a, b\\}^*|$$ o terceiro último símbolo de w é a$$\\}$$, analise as assertivas abaixo, assinalando V, se verdadeiras, ou F, se falsas.", "", "(   ) O menor Autômato Finito Não Determinístico (AFND) que reconhece L tem 4 (quatro) estados.", "(   ) O Autômato Finito Determinístico (AFD) que reconhece L tem, no mínimo, 8 (oito) estados.", "(   ) A menor Gramática Regular (GR) que gera L tem 3 (três) não terminais.", "(   ) O conjunto regular $$\\{a, b\\}^*\\{a\\}\\{a, b\\}\\{a, b\\}$$ denota L.", "", "A ordem correta de preenchimento dos parênteses, de cima para baixo, é:"],
   "Alternativas": ["F – F – V – V.", "V – V – V – V.", "F – V – F – V.", "V – V – F – F.", "V – F – V – F."],
   "Imagens": [],

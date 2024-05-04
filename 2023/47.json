@@ -1,6 +1,6 @@
 {
   "Ano": "2023",
-  "Número": "47",
+  "Numero": "47",
   "Enunciado": ["Nas linguagens de programação imperativas, o sinal + é usado para especificar a adição tanto de inteiros quanto de valores de ponto flutuante. Esse uso múltiplo de um operador é chamado de:"],
   "Alternativas": ["Conversão de tipos.", "Sobrecarga de operadores.", "Transparência referencial.", "Efeito colateral.", "Associatividade."],
   "Imagens": [],

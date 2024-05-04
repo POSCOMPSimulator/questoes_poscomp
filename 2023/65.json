@@ -1,6 +1,6 @@
 {
   "Ano": "2023",
-  "Número": "65",
+  "Numero": "65",
   "Enunciado": ["Uma rede conectada à Internet possui a máscara de sub-rede 255.255.255.128. Qual o número máximo de computadores que a rede suporta?"],
   "Alternativas": ["126", "128", "254", "255.255.255.128", "256"],
   "Imagens": [],

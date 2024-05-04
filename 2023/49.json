@@ -1,6 +1,6 @@
 {
   "Ano": "2023",
-  "Número": "49",
+  "Numero": "49",
   "Enunciado": "Sobre os conceitos de grafos, é correto afirmar que:",
   "Alternativas": ["A todo grafo não orientado G pode ser associado um grafo orientado G' no qual cada aresta de G corresponderá, biunivocamente, a um par de arcos de sentidos opostos em G'.", "Uma ligação que envolver apenas um vértice é chamada subgrafo.", "Os elementos de V são chamados vértices e o valor n=|v| é o laço do grafo.", "Dois vértices que participam de uma ligação são ditos incidentes, termo também usado para duas ligações envolvendo um dado vértice.", "Diz-se que um grafo é orientado quando possui uma função de peso ou valor sobre as ligações entre os vértices."],
   "Imagens": [],

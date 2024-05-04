@@ -1,6 +1,6 @@
 {
   "Ano": "2023",
-  "Número": "16",
+  "Numero": "16",
   "Enunciado": ["Utilizando as leis de Morgan, obtenha uma expressão em forma de somas de produtos para a seguinte função:", "$$F = \\overline{(x+y)\\overline{(x\\bar{y} + z)}}$$"],
   "Alternativas": [
     "$$\\bar{x} + \\bar{x}z + y$$",

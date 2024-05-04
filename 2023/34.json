@@ -1,6 +1,6 @@
 {
   "Ano": "2023",
-  "Número": "34",
+  "Numero": "34",
   "Enunciado": ["Considerando o diagrama de classes UML representado na Figura 4, assinale a alternativa correta."],
   "Alternativas": ["A classe “Pessoa” se associa com a classe “Funcionario”, que por sua vez tem uma relação de generalização com a classe “Tarefa”.", "A classe “Pessoa” herda da classe “Funcionario”, que tem uma relação de associação com a classe “Tarefa”.", "A associação com navegabilidade da classe “Funcionario” para a classe “Tarefa” gera no código um atributo “lista de objetos” da classe “Tarefa” na classe “Funcionario”.", "A classe “Tarefa” faz parte da classe “Funcionario”, constituindo uma relação de agregação.", "O método “addTarefa(tarefa: Tarefa)” pode ser invocado a partir de uma instância da classe “Pessoa”, através de polimorfismo."],
   "Imagens": ["2023/images/img-34-01"],

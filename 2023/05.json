@@ -1,6 +1,6 @@
 {
   "Ano": "2023",
-  "Número": "05",
+  "Numero": "05",
   "Enunciado": ["Recentemente, com a pandemia de Covid-19, houve grande interesse em determinar conjuntos de regiões (de países, estados, municípios, etc.) com alta incidência da doença, com o objetivo de determinar políticas de mitigação da doença nesses locais. Nesse sentido, dado um mapa subdividido em regiões, um cluster é definido como sendo um subconjunto de regiões desse mapa (nesse caso, pode ser formado por regiões que não fazem fronteira entre si). Qual o número de possíveis clusters para um mapa com 10 regiões?"],
   "Alternativas": ["1024", "10", "100", "512", "20"],
   "Imagens": [],

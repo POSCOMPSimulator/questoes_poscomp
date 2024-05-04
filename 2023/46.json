@@ -1,6 +1,6 @@
 {
   "Ano": "2023",
-  "Número": "46",
+  "Numero": "46",
   "Enunciado": ["Considere, por exemplo, que um programa precisa ordenar um vetor de objetos de dados numéricos de algum tipo e, para isso, ele usa um subprograma para o processo de ordenação. No momento em que um processo de ordenação é necessário, uma sentença como sortInt(list, listLen) é colocada no programa. Essa chamada é uma abstração:"],
   "Alternativas": ["Do subprograma, no qual os únicos atributos essenciais são o nome do vetor a ser ordenado e o tipo de seus elementos.", "De código, no qual a chamada é dependente do algoritmo implementado no subprograma chamado.", "Do algoritmo que implementa o atributo essencial para o usuário, que precisa ver o nome e o protocolo do subprograma de ordenação.", "De tipo que inclui apenas a representação de dados de um tipo específico e os subprogramas que fornecem as operações para esse tipo.", "Do processo de ordenação real, cujo algoritmo não é especificado."],
   "Imagens": [],
