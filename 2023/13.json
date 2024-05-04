@@ -1,0 +1,10 @@
+{
+  "Ano": "2023",
+  "Número": "13",
+  "Enunciado": ["Analise a seguinte proposição: \"Existe pelo menos uma universidade em que todos os cursos têm, pelo menos, 100 alunos\". A negação dessa proposição é logicamente equivalente à proposição:"],
+  "Alternativas": ["Em todas as universidades existe pelo menos um curso que possui, no máximo, 99 alunos.", "Em no máximo uma universidade existe um curso que possui, no máximo, 101 alunos.", "Há uma universidade em que existe pelo menos um curso com, no máximo, 99 alunos.", "Em cada universidade existe pelo menos um curso que possui, pelo menos, 100 alunos.", "Existe nenhuma universidade em que os cursos possuam, no máximo, 100 alunos."],
+  "Imagens": [],
+  "Resposta": 0,
+  "Componente": "Matemática",
+  "Subarea": "Lógica Matemática"
+}

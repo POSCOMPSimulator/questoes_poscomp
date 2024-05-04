@@ -1,0 +1,10 @@
+{
+  "Ano": "2023",
+  "Número": "56",
+  "Enunciado": ["O algoritmo de ray tracing é um algoritmo bastante utilizado para gerar renderizações fotorrealísticas. Sobre o ray tracing, analise as assertivas abaixo e assinale a alternativa correta.", "", "  I. Atira raios da câmera virtual na direção do plano do filme para determinar se existem objetos que os intersectam.", " II. Utiliza a técnica de z-buffer para determinar se os objetos estão visíveis.", "III. É uma técnica muito eficiente na renderização de superfícies que têm materiais difusos.", "IV. Simula iluminação indireta através de raios secundários atirados em direções próximas à direção de reflexão do raio primário no objeto atingido."],
+  "Alternativas": ["Apenas I e III estão corretas.", "Apenas I e IV estão corretas.", "Apenas II e III estão corretas.", "Apenas II e IV estão corretas.", "Apenas I, III e IV estão corretas."],
+  "Imagens": [],
+  "Resposta": 1,
+  "Componente": "Tecnologia de Computadores",
+  "Subarea": "Computação Gráfica"
+}

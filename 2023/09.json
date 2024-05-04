@@ -1,0 +1,16 @@
+{
+  "Ano": "2023",
+  "Número": "09",
+  "Enunciado": ["Calcule o vetor gradiente da função $$f(x,y)=e^{-x}sen(x+y)$$ no ponto $$P(0,\\pi)$$."],
+  "Alternativas": [
+    "\\triangledown f(0, \\pi) = \\binom{0}{1}",
+    "\\triangledown f(0, \\pi) = \\binom{1}{1}",
+    "\\triangledown f(0, \\pi) = \\binom{-1}{1}",
+    "\\triangledown f(0, \\pi) = \\binom{-1}{-1}",
+    "\\triangledown f(0, \\pi) = \\binom{0}{0}"
+  ],
+  "Imagens": [],
+  "Resposta": 3,
+  "Componente": "Matemática",
+  "Subarea": "Cálculo Diferencial e Integral"
+}

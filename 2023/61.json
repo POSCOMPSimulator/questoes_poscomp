@@ -1,0 +1,10 @@
+{
+  "Ano": "2023",
+  "Número": "61",
+  "Enunciado": ["A lógica fuzzy é um componente essencial da inteligência artificial, podendo ajudar na tomada de decisão de maneira flexível e adaptativa. Considerando o estudo em inteligência artificial, assinale a alternativa que apresenta corretamente a descrição da lógica fuzzy."],
+  "Alternativas": ["A lógica fuzzy é uma abordagem que lida apenas com informações binárias.", "A lógica fuzzy é uma extensão da lógica clássica que permite representar e raciocinar com informações imprecisas ou vagas.", "A lógica fuzzy é uma técnica utilizada exclusivamente na área da robótica.", "A lógica fuzzy é uma abordagem que se baseia apenas em valores absolutos.", "A lógica fuzzy é uma abordagem que se baseia apenas em valores fracionados."],
+  "Imagens": [],
+  "Resposta": 1,
+  "Componente": "Tecnologia de Computadores",
+  "Subarea": "Inteligência Artificial"
+}

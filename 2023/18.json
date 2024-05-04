@@ -1,0 +1,10 @@
+{
+  "Ano": "2023",
+  "Número": "18",
+  "Enunciado": ["Usando os conjuntos de dados A = {1, 4, 2, 6, 8, 10}, B = {1, 4, 6, 10}, C = {6, 4, 1, 10}, D = {6, 4, 1}, qual das seguintes alternativas é INCORRETA?"],
+  "Alternativas": ["A ⊆ B", "D ⊆ A", "B = C", "B ⊆ A", "A ≠ B"],
+  "Imagens": [],
+  "Resposta": 0,
+  "Componente": "Matemática",
+  "Subarea": "Matemática Discreta"
+}

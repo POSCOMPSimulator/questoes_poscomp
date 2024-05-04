@@ -1,0 +1,10 @@
+{
+  "Ano": "2023",
+  "Número": "30",
+  "Enunciado": ["Considere um sistema numérico binário com 8 bits e o uso do complemento de 2 para representação de números inteiros para a realização da operação $$49_{10} - 120_{10}$$ . Com base nisso, analise as assertivas abaixo, assinalando V, se verdadeiras, ou F, se falsas.", "", "(   ) O sistema numérico com essas características pode representar valores entre +255 e -256.", "(   ) O resultado da operação será representado pelo valor $$10111001_2$$.", "(   ) Há um estouro de registro nessa operação quando feita nesse sistema.", "(   ) A operação de subtração é realizada ao somar a representação de complemento de 2 de $$120_{10}$$ com a representação binária de 4910.", "", "A ordem correta de preenchimento dos parênteses, de cima para baixo, é:"],
+  "Alternativas": ["V – F – F – V.", "V – V – F – F.", "V – F – V – F.", "F – F – V – V.", "F – V – F – V."],
+  "Imagens": [],
+  "Resposta": 4,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Arquitetura e Organização de Computadores"
+}

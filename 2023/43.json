@@ -1,0 +1,10 @@
+{
+  "Ano": "2023",
+  "Número": "43",
+  "Enunciado": ["O aumento dos requisitos de paralelismo nas aplicações modernas exige mecanismos de bloqueio (locking) e sincronização cada vez mais eficientes. Nesse contexto, dois mecanismos muito usados são semáforos e spin locks. Sobre esses dois mecanismos, assinale a alternativa correta."],
+  "Alternativas": ["Spin locks são adequados para cenários de muita contenção entre os processos concorrentes.", "Semáforos são adequados para cenários de espera de curta duração para entrar na região crítica.", "Semáforos e spin locks são adequados, respectivamente, para cenários de baixa contenção e espera de longa duração para entrar na região crítica.", "Spin locks e semáforos são adequados para cenários de muita contenção e espera de curta duração para entrar na região crítica.", "Semáforos e spin locks são adequados, respectivamente, para cenários de muita contenção e espera de curta duração para entrar na região crítica."],
+  "Imagens": [],
+  "Resposta": 4,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Sistemas Operacionais"
+}

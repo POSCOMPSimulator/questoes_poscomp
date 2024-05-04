@@ -1,0 +1,10 @@
+{
+  "Ano": "2023",
+  "Número": "44",
+  "Enunciado": ["Considere que o programa abaixo, escrito em Linguagem C, execute em um computador com suporte à memória virtual e segmentação paginada, tal como em sistemas baseados em Intel x86-64.", "", "   1           #include <stdio.h>", "   2           main(){", "   3           int w;", "   4           printf(“%p”,&w);", "   5           }", "", "Quando a linha 4 é executada, o valor impresso na tela corresponde ao:"],
+  "Alternativas": ["Endereço físico representando o segmento, a página e o offset onde se localiza a variável w.", "Endereço virtual associado ao endereço físico onde se localiza a variável w.", "Resultado do processamento realizado pela MMU (Memory Management Unit).", "Endereço da variável w no espaço de endereçamento físico do processo.", "Endereço da variável w no working set do processo."],
+  "Imagens": [],
+  "Resposta": 1,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Sistemas Operacionais"
+}

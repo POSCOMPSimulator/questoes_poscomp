@@ -1,0 +1,10 @@
+{
+  "Ano": "2023",
+  "Número": "39",
+  "Enunciado": ["Nos arquivos ordenados, os registros são dispostos fisicamente no disco de acordo com os valores de um de seus campos: o campo de ordenação (chave). Analise as seguintes assertivas sobre arquivos ordenados:", "", "  I. A leitura dos registros na ordem dos valores da chave de ordenação é mais eficiente se comparada à leitura desses registros em arquivos heap.", " II. Permite atender de forma eficiente condições de pesquisa sobre o campo de ordenação no formato <chave = valor> ou condição de intervalo (isto é, a chave estar no intervalo entre o valor1 e valor2).", "III. Para acelerar o acesso a um registro baseado no valor de uma chave em arquivos ordenados, a melhor técnica de pesquisa é a técnica de hash.", "", "Quais estão corretas?"],
+  "Alternativas": ["Apenas I.", "Apenas II.", "Apenas III.", "Apenas I e II.", "I, II e III."],
+  "Imagens": [],
+  "Resposta": 3,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Organização de Arquivos e Dados"
+}

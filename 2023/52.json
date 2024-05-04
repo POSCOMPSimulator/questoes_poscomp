@@ -1,0 +1,10 @@
+{
+  "Ano": "2023",
+  "Número": "52",
+  "Enunciado": ["Quando há impasse no controle de concorrência em sistemas de bancos de dados, uma forma para o tratamento é o emprego de protocolos de prevenção, que são pessimistas quanto à efetiva ocorrência de deadlock. Considere as seguintes técnicas usadas em protocolos de prevenção:", "", "  I. Esperar-ou-morrer (wait-die).", " II. Ferir-ou-esperar (wound-wait).", "III. Espera-cautelosa (cautious-waiting).", "IV. Sem-espera (no-waiting).", "", "Algumas dessas técnicas usam o conceito de timestamp (TS) de transações: se TS(T1) < TS(T2), então a transação T1 foi iniciada antes da transação T2. Dentre as técnicas acima, as baseadas em timestamp são:"],
+  "Alternativas": ["Apenas I e II.", "Apenas I e III.", "Apenas II e III.", "Apenas II e IV.", "Apenas III e IV."],
+  "Imagens": [],
+  "Resposta": 0,
+  "Componente": "Tecnologia de Computadores",
+  "Subarea": "Banco de Dados"
+}

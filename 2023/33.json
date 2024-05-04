@@ -1,0 +1,10 @@
+{
+  "Ano": "2023",
+  "Número": "33",
+  "Enunciado": ["Considere o seguinte código em Linguagem C (Compilador Ansi C):", "", " int a = 2, b = 4, c = -1;", " int *ptx, *pty, *ptz;", " ptx = &a;", " pty = &b;", " ptz = &c;", "", " printf (\"%d %d %d %d %d %d \\n\", a, b, c, *ptx, *pty, *ptz);", " a = (*ptx) * (*pty);", " b = *ptz + 1;", " ++c;", " printf (\"%d %d %d %d %d %d \\n\", a, b, c, *ptx, *pty, *ptz);", "", "Assinale a alternativa que corresponde à saída na tela."],
+  "Alternativas": ["2 2 -1 2 4 -1\n8 -1 0 8 0 0", "2 4 -1 2 2 -1\n2 0 -1 2 0 -1", "2 2 -1 2 4 0\n8 0 -1 8 0 -1", "2 4 -1 2 4 -1\n8 0 -1 8 0 -1", "2 4 -1 2 4 -1\n8 0 0 8 0 0"],
+  "Imagens": [],
+  "Resposta": 4,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Linguagens de Programação"
+}

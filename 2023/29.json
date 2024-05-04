@@ -1,0 +1,10 @@
+{
+  "Ano": "2023",
+  "Número": "29",
+  "Enunciado": ["O computador tem um tempo de acesso à memória principal de 60 ns. Queremos reduzir esse tempo para 20 ns adicionando no cache. Qual a velocidade do cache (tempo de acesso) se pudermos esperar uma probabilidade de 90% de acerto?"],
+  "Alternativas": ["04 ns.", "14 ns.", "24 ns.", "54 ns.", "84 ns."],
+  "Imagens": [],
+  "Resposta": 2,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Arquitetura e Organização de Computadores"
+}

@@ -1,0 +1,10 @@
+{
+  "Ano": "2023",
+  "Número": "55",
+  "Enunciado": ["Analise as seguintes assertivas, em relação à análise sintática no contexto da construção de compiladores para linguagens de programação e assinale a alternativa correta.", "", "  I. O funcionamento do algoritmo de análise sintática ascendente (Bottom-up, LR) corresponde ao percurso da árvore sintática do programa a partir das folhas (representando os símbolos terminais da gramática que define a linguagem), até chegar à raiz (que representa a variável ou símbolo não terminal inicial da gramática).", " II. O funcionamento do algoritmo de análise sintática descendente (Top-down, LL) corresponde ao percurso da árvore sintática do programa a partir das folhas (representando as variáveis ou símbolos não terminais da gramática que define a linguagem), até chegar à raiz (que representa a sequência de símbolos terminais da gramática).", "III. Dada uma gramática LL(1) qualquer, se verifica que os lados direitos de qualquer par de regras dela não contêm prefixos não vazios em comum. Por exemplo, uma gramática com regras $$X \\rightarrow abBc$$ e $$Y \\rightarrow ab$$ não pode ser LL(1), pois o prefixo $$ab$$ aparece nos lados direitos de ambas as regras.", "IV. Na construção de tabelas de análise sintática LR, podem aparecer três tipos de conflitos: Conflitos Empilhar/Empilhar, Conflitos Empilhar/Reduzir e Conflitos Reduzir/Reduzir.", " V. Na notação de gramáticas LL(k) e LR(k), o primeiro símbolo (L) indica que a entrada é lida/processada da esquerda para a direita (Left-to-right). O segundo símbolo (L ou R) indica que a derivação implementada pelo algoritmo na construção/percurso da árvore sintática é mais à esquerda (L) ou mais à direita (R)."],
+  "Alternativas": ["Apenas as assertivas I e V estão corretas.", "Apenas as assertivas II e IV estão corretas.", "Apenas as assertivas I, II e IV estão corretas.", "Apenas as assertivas II, III e IV estão corretas.", "Apenas as assertivas III, IV e V estão corretas."],
+  "Imagens": [],
+  "Resposta": 0,
+  "Componente": "Tecnologia de Computadores",
+  "Subarea": "Compiladores"
+}

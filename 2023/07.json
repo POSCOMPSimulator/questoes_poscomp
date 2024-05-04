@@ -1,0 +1,10 @@
+{
+  "Ano": "2023",
+  "Número": "07",
+  "Enunciado": ["Calcule o $$\\lim_{x\\rightarrow10^{-3}}log(10\\cdot x)$$"],
+  "Alternativas": ["0", "-3", "-2", "1", "100"],
+  "Imagens": [],
+  "Resposta": 2,
+  "Componente": "Matemática",
+  "Subarea": "Cálculo Diferencial e Integral"
+}

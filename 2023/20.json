@@ -1,0 +1,10 @@
+{
+  "Ano": "2023",
+  "Número": "20",
+  "Enunciado": ["Em uma linha de produção, sabe-se que a probabilidade de ter uma peça com defeito é de 0,05. Se o conjunto de unidades determinadas constitui um conjunto de ensaios independentes, qual é a probabilidade de que pelo menos uma peça se encontre com defeito em um total de 10 unidades?"],
+  "Alternativas": ["10,0%", "40,0%", "50,0%", "80,0%", "100,0%"],
+  "Imagens": [],
+  "Resposta": 1,
+  "Componente": "Matemática",
+  "Subarea": "Probabilidade e Estatística"
+}

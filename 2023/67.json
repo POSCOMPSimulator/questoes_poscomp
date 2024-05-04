@@ -1,0 +1,10 @@
+{
+  "Ano": "2023",
+  "Número": "67",
+  "Enunciado": ["Considere um pacote de p bytes, enviados por um canal de d metros à taxa de b bits por segundo. Suponha que a velocidade de propagação no meio seja igual a da velocidade da luz no vácuo (c). Qual é a expressão para se determinar a largura/comprimento de um bit?"],
+  "Alternativas": ["c/b", "b/c", "8p/b", "d/c", "d/c + b/c"],
+  "Imagens": [],
+  "Resposta": 0,
+  "Componente": "Tecnologia de Computadores",
+  "Subarea": "Redes de Computadores"
+}

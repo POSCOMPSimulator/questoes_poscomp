@@ -1,0 +1,10 @@
+{
+  "Ano": "2023",
+  "Número": "27",
+  "Enunciado": ["Quais são os valores em decimal do binário (8 bits) 10011001, considerando a representação sem sinal e em complemento de 2, respectivamente?"],
+  "Alternativas": ["153, -102", "100, -101", "153, -103", "129, 103", "1, -1"],
+  "Imagens": [],
+  "Resposta": 2,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Arquitetura e Organização de Computadores"
+}

@@ -1,0 +1,10 @@
+{
+  "Ano": "2023",
+  "Número": "51",
+  "Enunciado": ["Sobre bancos de dados distribuídos, partes do banco de dados residem em diferentes nós (sites) conectados em rede, cada qual dotado de um software gerenciador de dados. Há o nó coordenador, com competência para gerir a recuperação global de uma transação, e os demais nós participantes que gerem a transação em cada site e mantêm seus próprios dados locais. Em uma transação, o coordenador requisita cada participante que processará alguma parte da transação. Quando todos os participantes sinalizarem ao coordenador que a parte da transação envolvendo cada um foi processada, inicia-se o protocolo de confirmação de duas fases (two-phase commit protocol). Nesse protocolo, há o registro do desdobramento da transação nos arquivos de log, bem como a troca de mensagens entre o coordenador e os participantes. Neste último, considere os três tipos de mensagens usualmente enviadas:", "", "  I. Mensagem < prepare for commit >", " II. Mensagem < ready to commit > ou < cannot commit >", "III. Mensagem < commit > ou < roll back >", "", "Os remetentes das mensagens I, II e III, respectivamente, são:"],
+  "Alternativas": ["Participantes, participantes e coordenador.", "Participantes, coordenador e coordenador.", "Participantes, coordenador e participantes.", "Coordenador, participantes e coordenador.", "Coordenador, coordenador e participantes."],
+  "Imagens": [],
+  "Resposta": 3,
+  "Componente": "Tecnologia de Computadores",
+  "Subarea": "Banco de Dados"
+}

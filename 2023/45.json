@@ -1,0 +1,10 @@
+{
+  "Ano": "2023",
+  "Número": "45",
+  "Enunciado": ["Qual é o tipo de dado que fornece uma maneira de definir e agrupar coleções de constantes nomeadas?"],
+  "Alternativas": ["Ponto flutuante.", "Decimal.", "Enumeração.", "Booleano.", "Caracter."],
+  "Imagens": [],
+  "Resposta": 2,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Técnicas de Programação"
+}

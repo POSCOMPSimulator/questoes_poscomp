@@ -1,0 +1,10 @@
+{
+  "Ano": "2023",
+  "Número": "14",
+  "Enunciado": ["Sendo p e q proposições simples, considere a proposição composta E(p,q), cujos valores lógicos estão na tabela verdade a seguir:", "Qual é o valor da expressão E?"],
+  "Alternativas": ["P–>q", "p ou q", "q–>p", "p ou ~q", "(~p)→(p ou q)"],
+  "Imagens": ["2023/images/img-14-01"],
+  "Resposta": 0,
+  "Componente": "Matemática",
+  "Subarea": "Lógica Matemática"
+}

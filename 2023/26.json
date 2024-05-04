@@ -1,0 +1,10 @@
+{
+  "Ano": "2023",
+  "Número": "26",
+  "Enunciado": ["A ordenação ________________ determina, para cada elemento de entrada x, o número de elementos menores que x e usa essa informação para inserir o elemento x diretamente em sua posição no arranjo de saída. Por exemplo, se 17 elementos forem menores que x, então x pertence à posição de saída 18.", "Assinale a alternativa que preenche corretamente a lacuna do trecho acima."],
+  "Alternativas": ["mergesort", "quicksort", "por contagem", "por fila de prioridade", "por intercalação com sentinela\n\n\n"],
+  "Imagens": [],
+  "Resposta": 2,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Algoritmos e Estruturas de Dados"
+}

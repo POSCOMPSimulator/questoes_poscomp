@@ -1,0 +1,10 @@
+{
+  "Ano": "2023",
+  "Número": "24",
+  "Enunciado": "Sobre funções Hash, é correto afirmar que:",
+  "Alternativas": ["O método de divisão funciona em duas etapas. Na primeira etapa, multiplica-se a chave k por uma constante A na faixa 0<A<1 e extrai-se a parte fracionária de kA. Na segunda etapa, multiplica-se esse valor por m e toma-se o piso do resultado.", "Em endereçamento aberto, todos os elementos ficam na própria tabela de espelhamento. Isto é, cada entrada da tabela contém um elemento do conjunto dinâmico ou NIL. Ao procurar um elemento, examina-se sistematicamente as posições da tabela até encontrar o elemento desejado ou até confirmar que o elemento não está na tabela.", "No método de encadeamento não existe nenhuma lista e nenhum elemento fora da tabela.", "O hashing pode proporcionar excelente desempenho no pior caso, quando o conjunto de chaves é dinâmico, isto é, assim que as chaves são armazenadas na tabela, o conjunto de chaves muda automaticamente de tempos em tempos.", "No método de multiplicação, mapeia-se uma chave k para uma de m posições, tomando o resto da divisão de k por m."],
+  "Imagens": [],
+  "Resposta": 1,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Algoritmos e Estruturas de Dados"
+}

@@ -1,0 +1,15 @@
+{
+  "Ano": "2023",
+  "Número": "37",
+  "Enunciado": ["Qual é a Expressão Regular (ER) que denota a linguagem a seguir?", "", "                            $$L = \\{w \\in \\{a, b\\}^*| w$$ não pode terminar com ba$$\\}$$"],
+  "Alternativas": [
+    "$$\\neg((a \\cup b)^*ba)$$", 
+    "$$(a \\cup b)^*ba$$", 
+    "$$(a \\cup b)^* - ((a \\cup b)^*ba)$$", 
+    "$$((a \\cup b)^*(b \\cup aa)) \\cup a \\cup \\lambda$$", 
+    "A linguagem L não é regular e, portanto, não pode ser denotada por uma ER."],
+  "Imagens": [],
+  "Resposta": 3,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Linguagens Formais, Autômatos e Computabilidade"
+}

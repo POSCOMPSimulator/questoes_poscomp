@@ -1,0 +1,10 @@
+{
+  "Ano": "2023",
+  "Número": "48",
+  "Enunciado": ["Uma família de ligações sucessivamente adjacentes, cada uma tendo uma extremidade adjacente à anterior e outra à subsequente (à exceção da primeira e da última) é um(a):"],
+  "Alternativas": ["Circuito.", "Percurso.", "Caminho.", "Ciclo.", "Corda.\n"],
+  "Imagens": [],
+  "Resposta": 1,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Teoria dos Grafos"
+}

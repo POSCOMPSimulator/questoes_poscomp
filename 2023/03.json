@@ -1,0 +1,10 @@
+{
+  "Ano": "2023",
+  "Número": "03",
+  "Enunciado": ["Determine o polinômio característico de J:", "$$J = \\begin{pmatrix}2 & -2 & 1\\\\ 1 & -1 & 1\\\\ 1 & -2 & 2\\end{pmatrix}$$"],
+  "Alternativas": ["0", "x", "(1 - x)", "(1 - x)²", "(1 - x)³"],
+  "Imagens": [],
+  "Resposta": 4,
+  "Componente": "Matemática",
+  "Subarea": "Álgebra Linear"
+}

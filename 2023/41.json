@@ -1,0 +1,10 @@
+{
+  "Ano": "2023",
+  "Número": "41",
+  "Enunciado": ["Um desenvolvedor de software armazenou registros representando tweets em um arquivo. Ele optou por utilizar uma árvore trie como índice desse arquivo para tornar eficientes alguns tipos de busca de tweets contendo palavras de determinada natureza. Sobre o uso de árvores trie, analise as assertivas abaixo e assinale V, se verdadeiras, ou F, se falsas.", "", "( ) São adequadas para encontrar de forma eficiente palavras exatas (por exemplo, as palavras “amor” e “beijo”).", "( ) São adequadas para encontrar de forma eficiente variações de palavras, tais como diminutivos e aumentativos (por exemplo, palavras que terminam com o sufixo “inho”, como “amorzinho”, “nenezinho”, “beijinho”).", "( ) São adequadas para encontrar de forma eficiente variações de palavras com o mesmo prefixo (por exemplo, as variações da palavra “amor”, como “amorzinho” e “amorzão”).", "", "A ordem correta de preenchimento dos parênteses, de cima para baixo, é:"],
+  "Alternativas": ["F – V – V.", "F – F – V.", "V – V – V.", "V – F – F.", "V – F – V."],
+  "Imagens": [],
+  "Resposta": 4,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Organização de Arquivos e Dados"
+}

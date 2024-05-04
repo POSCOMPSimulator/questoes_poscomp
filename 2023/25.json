@@ -1,0 +1,10 @@
+{
+  "Ano": "2023",
+  "Número": "25",
+  "Enunciado": "Sobre as árvores binárias de busca, é correto afirmar que:",
+  "Alternativas": ["Seja x um nó em uma árvore de busca binária. Se y é um nó na subárvore esquerda de x, então y.chave $$\\geq$$ x.chave. Se y é um nó na subárvore direita de x, então x.chave $$\\leq$$ y.chave.", "A propriedade de árvore de busca que permite imprimir todas as chaves em sequência ordenada por meio de um simples algoritmo recursivo é denominada percurso de árvore em pré-ordem.", "Para excluir um nó z de uma árvore de busca binária T, se z tem apenas um filho, então simplesmente o removemos modificando seu pai de modo a substituir z por NIL como seu filho.", "Para excluir um nó z de uma árvore de busca binária T, se z tem dois filhos, então elevamos o primeiro filho para que ocupe a posição de z na árvore modificando o pai de z de modo a substituir z pelo filho de z.", "Para encontrar um nó em uma árvore de busca binária cuja chave é um mínimo, deve-se seguir os ponteiros de filhos da esquerda desde a raiz até encontrar um valor NIL."],
+  "Imagens": [],
+  "Resposta": 4,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Algoritmos e Estruturas de Dados"
+}

@@ -1,0 +1,10 @@
+{
+  "Ano": "2023",
+  "Número": "42",
+  "Enunciado": ["Em um computador com suporte à memória virtual e paginação, quando ocorre um page fault, o sistema operacional, às vezes, precisa escolher uma página da memória principal (page frame) para dar lugar à página virtual que será carregada do disco como resultado do page fault. Dependendo do tipo de conteúdo presente na página selecionada para substituição, esse conteúdo precisa ser salvo no disco (page out) antes da substituição. Assinale a alternativa que indica uma região de memória típica de um processo, cujo conteúdo não exige salvamento prévio em casos de troca de páginas (page replacement)."],
+  "Alternativas": ["Dados alocados dinamicamente (ex.: HEAP).", "Dados não inicializados (ex.: BSS).", "Dados inicializados (ex.: DATA).", "Código (ex.: TEXT).", "Pilha (ex.: STACK)."],
+  "Imagens": [],
+  "Resposta": 3,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Sistemas Operacionais"
+}

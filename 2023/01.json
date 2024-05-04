@@ -1,0 +1,10 @@
+{
+  "Ano": "2023",
+  "Número": "01",
+  "Enunciado": ["Utilize o método de Eliminação de Gauss para resolver o sistema a seguir:", "$$\\begin{matrix}-3x +y +z = 1\\\\ x-2y+z=4 \\\\ -x+y-3z=7 \\end{matrix}$$"],
+  "Alternativas": ["(0, -1, 2)", "(0, 1, 0)", "(2, 0, 2)", "(2, 1, 2)", "(-1, -1, -1)"],
+  "Imagens": [],
+  "Resposta": 0,
+  "Componente": "Matemática",
+  "Subarea": "Álgebra Linear"
+}

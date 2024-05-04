@@ -1,0 +1,10 @@
+{
+  "Ano": "2023",
+  "Número": "63",
+  "Enunciado": ["Em relação aos métodos de interpolação de intensidade de níveis de cinza ou cor de uma imagem, analise as assertivas abaixo e assinale V, se verdadeiras, ou F, se falsas.", "", "( ) O método do vizinho mais próximo atribui a cada nova posição a intensidade de seu vizinho mais próximo na imagem original. O método pode causar distorções em detalhes finos ou criar formas serrilhadas em bordas retas de imagens.", "( ) Na interpolação bilinear, os dois vizinhos mais próximos são utilizados para estimar a intensidade de uma dada posição. O método se baseia na média aritmética de distância desses pixels e causa borramento devido à sua característica de suavização.", "( ) A interpolação bicúbica inclui os dezesseis vizinhos mais próximos de um ponto. Esse tipo de interpolação preserva detalhes finos na imagem.", "", "A ordem correta de preenchimento dos parênteses, de cima para baixo, é:"],
+  "Alternativas": ["F – F – V.", "F – V – F.", "V – F – V.", "V – V – V.", "V – V – F."],
+  "Imagens": [],
+  "Resposta": 2,
+  "Componente": "Tecnologia de Computadores",
+  "Subarea": "Processamento de Imagens"
+}

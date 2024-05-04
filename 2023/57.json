@@ -1,0 +1,10 @@
+{
+  "Ano": "2023",
+  "Número": "57",
+  "Enunciado": ["Selecione a opção abaixo que NÃO é uma técnica/ferramenta utilizada na remoção de linhas ou superfícies ocultas."],
+  "Alternativas": ["Eliminação de faces traseiras (back-face culling).", "Árvores BSP (Binary Space Partitioning).", "Hemicubos.", "Volumes de delimitação (bounding volumes).", "Z-buffer."],
+  "Imagens": [],
+  "Resposta": 2,
+  "Componente": "Tecnologia de Computadores",
+  "Subarea": "Computação Gráfica"
+}

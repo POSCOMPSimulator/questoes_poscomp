@@ -1,0 +1,10 @@
+{
+  "Ano": "2023",
+  "Número": "40",
+  "Enunciado": ["Os sistemas operacionais mantêm várias informações sobre cada arquivo, chamadas de metadados. Assinale o atributo que NÃO é um metadado de arquivo gerenciado pelo sistema operacional."],
+  "Alternativas": ["Data da criação do arquivo.", "Tamanho do registro (ex.: número em bytes do registro).", "Tamanho atual do arquivo (ex.: número máximo em bytes do arquivo).", "Flag (indicador) de tipo de arquivo (ex.: sistema/normal).", "Nome dos diferentes campos lógicos representados nos registros dos arquivos (ex.: id, nome, data de nascimento, nome da mãe, RG, etc.)."],
+  "Imagens": [],
+  "Resposta": 4,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Organização de Arquivos e Dados"
+}
