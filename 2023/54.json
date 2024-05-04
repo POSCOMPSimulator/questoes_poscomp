@@ -5,6 +5,6 @@
   "Alternativas": ["T1 T3 T2 T3.", "T1 T1 T3.", "T2 T3.", "T3 T2 T3.", "T3 T3 T3."],
   "Imagens": ["2023/images/img-54-01"],
   "Resposta": 4,
-  "Componente": "Tecnologia de Computadores",
+  "Componente": "Tecnologia da Computação",
   "Subarea": "Compiladores"
 }

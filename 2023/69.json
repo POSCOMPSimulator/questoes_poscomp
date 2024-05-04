@@ -5,6 +5,6 @@
   "Alternativas": ["No escalonamento não preemptivo, uma thread pode ser suspensa, em qualquer ponto de sua execução, para permitir a execução de outra thread.", "Uma invocação assíncrona é aquela que é feita com o auxílio de uma chamada não bloqueante, a qual retorna assim que a mensagem de requisição da invocação tenha sido criada e esteja pronta para o envio.", "A gerência de memória trata da comunicação entre duas threads associadas a diferentes processos no mesmo computador.", "No escalonamento preemptivo, uma thread é executada até realizar uma operação, por exemplo, uma chamada de sistema, que a bloqueie e leve ao escalonamento de uma outra thread.", "Um sistema de invocação síncrono volátil tenta, indefinidamente, realizar a invocação até obter o êxito ou falha, ou até que o aplicativo cancele a invocação."],
   "Imagens": [],
   "Resposta": 1,
-  "Componente": "Tecnologia de Computadores",
+  "Componente": "Tecnologia da Computação",
   "Subarea": "Sistemas Distribuídos"
 }

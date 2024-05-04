@@ -5,6 +5,6 @@
   "Alternativas": ["As árvores de decisão são comumente utilizadas para problemas de classificação, sendo aplicáveis tanto em problemas de regressão quanto em problemas de classificação.", "As árvores de decisão são estruturas de dados lineares que representam o fluxo de execução de um algoritmo.", "As árvores de decisão são capazes de lidar com dados categóricos, assim como atributos numéricos, possibilitando a inclusão de informações de diferentes tipos em suas estruturas de decisão.", "As árvores de decisão são algoritmos que podem ser aplicados em conjuntos de dados de diferentes tamanhos, incluindo grandes conjuntos de dados, e são escaláveis.", "As árvores de decisão podem ser usadas em conjunto com outras técnicas de inteligência artificial para melhorar o desempenho e a precisão dos sistemas. Por exemplo, podem ser combinadas com algoritmos de aprendizado ensemble, como o random forest, para criar modelos mais robustos e acurados."],
   "Imagens": [],
   "Resposta": 1,
-  "Componente": "Tecnologia de Computadores",
+  "Componente": "Tecnologia da Computação",
   "Subarea": "Inteligência Artificial"
 }

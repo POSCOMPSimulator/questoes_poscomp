@@ -5,6 +5,6 @@
   "Alternativas": ["Eliminação de faces traseiras (back-face culling).", "Árvores BSP (Binary Space Partitioning).", "Hemicubos.", "Volumes de delimitação (bounding volumes).", "Z-buffer."],
   "Imagens": [],
   "Resposta": 2,
-  "Componente": "Tecnologia de Computadores",
+  "Componente": "Tecnologia da Computação",
   "Subarea": "Computação Gráfica"
 }
