@@ -1,7 +1,7 @@
 {
   "Ano": "2023",
   "Numero": "15",
-  "Enunciado": "A expressão lógica p→q é equivalente a:",
+  "Enunciado": ["A expressão lógica p→q é equivalente a:"],
   "Alternativas": ["~p∧~q", "~p→q", "p→~q", "~q->~p", "q→p"],
   "Imagens": [],
   "Resposta": 3,
