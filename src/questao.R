@@ -42,7 +42,7 @@ splitQuestao <- function(questao, gabarito, outdir) {
   subarea <- gabarito %>% filter(as.integer(Questão) == as.integer(num)) %>% pull(Subarea)
   
   write(toJSON(list("Ano" = outdir,
-                    "Número" = num,
+                    "Numero" = num,
                     "Enunciado" = enun,
                     "Alternativas" = alternativas,
                     "Imagens" = c(),

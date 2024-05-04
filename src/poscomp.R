@@ -25,7 +25,7 @@ if (!dir.exists(ano))
   dir.create(ano)
 
 prova <- pdf_text(prova_path) # Lê o PDF da prova
-gabarito <- leGabarito(gabarito_path, ano) # Lê o gabarito da prova
+gabarito <- leGabarito(gabarito_path) # Lê o gabarito da prova
 prova <- unlist(lapply(prova, splitProva)) # Quebra a prova em questões
 prova <- lapply(prova, splitQuestao, gabarito = gabarito, outdir = ano) # Itera nas questões, criando seus arquivos JSON
 extrairImagens(prova_path, ano) # Extrai as imagens da prova e as salva numa pasta imagens dentro do diretório de saída
