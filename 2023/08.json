@@ -3,11 +3,11 @@
   "Numero": "08",
   "Enunciado": ["Determine os intervalos da função $$f(x)=5x^2\\sqrt{x+1}$$."],
   "Alternativas": [
-    "$$I_1 = \\left ( -1, -\\frac{4}{5} \\right ); I_2 = \\left ( -\\frac{4}{5}, 0 \\right ); I_3 = \\left ( 0, \\infty  \\right )",
-    "$$I_1 = \\left ( -\\infty, -\\frac{4}{5} \\right ); I_2 = \\left ( -\\frac{4}{5}, 0 \\right ); I_3 = \\left ( 0, \\infty  \\right )",
-    "$$I_1 = \\left ( -1, 0 \\right ); I_2 = \\left ( 0, 1 \\right ); I_3 = \\left ( 1, \\infty  \\right )",
-    "$$I_1 = \\left ( -1, 1 \\right ); I_2 = \\left ( 1, \\frac{5}{4} \\right ); I_3 = \\left ( \\frac{5}{4}, \\infty  \\right )",
-    "$$I_1 = \\left ( -\\infty, -1 \\right ); I_2 = \\left ( -1, 1 \\right ); I_3 = \\left ( 1, \\infty  \\right )"
+    "$$I_1 = \\left ( -1, -\\frac{4}{5} \\right ); I_2 = \\left ( -\\frac{4}{5}, 0 \\right ); I_3 = \\left ( 0, \\infty  \\right )$$",
+    "$$I_1 = \\left ( -\\infty, -\\frac{4}{5} \\right ); I_2 = \\left ( -\\frac{4}{5}, 0 \\right ); I_3 = \\left ( 0, \\infty  \\right )$$",
+    "$$I_1 = \\left ( -1, 0 \\right ); I_2 = \\left ( 0, 1 \\right ); I_3 = \\left ( 1, \\infty  \\right )$$",
+    "$$I_1 = \\left ( -1, 1 \\right ); I_2 = \\left ( 1, \\frac{5}{4} \\right ); I_3 = \\left ( \\frac{5}{4}, \\infty  \\right )$$",
+    "$$I_1 = \\left ( -\\infty, -1 \\right ); I_2 = \\left ( -1, 1 \\right ); I_3 = \\left ( 1, \\infty  \\right )$$"
   ],
   "Imagens": [],
   "Resposta": 0,
