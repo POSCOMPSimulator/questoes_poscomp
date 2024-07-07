@@ -6,5 +6,6 @@
   "Imagens": [],
   "Resposta": 1,
   "Componente": "Matemática",
-  "Subarea": "Análise Combinatória"
+  "Subarea": "Análise Combinatória",
+  "Explicacao": "A cadeia de 16 bits está fixada da seguinte forma: os 5 primeiros bits são '00000' e os últimos 4 bits são '1010'. Restam 7 bits no meio que podem ser preenchidos de qualquer maneira. Cada um desses 7 bits pode ser '0' ou '1', o que dá 2 possibilidades para cada bit. Assim, o número total de cadeias é dado por $$2^7$$. Calculando isso, temos $$2^7 = 128$$. Portanto, existem 128 cadeias que satisfazem essas condições."
 }

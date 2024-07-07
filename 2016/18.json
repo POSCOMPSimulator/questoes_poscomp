@@ -6,5 +6,6 @@
   "Imagens": [],
   "Resposta": 4,
   "Componente": "Matemática",
-  "Subarea": "Probabilidade e Estatística"
+  "Subarea": "Probabilidade e Estatística",
+  "Explicacao": "Para encontrar a probabilidade de falha simultânea em dois eventos independentes, multiplicamos as probabilidades dos eventos individuais.$$\\\\[3pt]$$Dado que a probabilidade de falha no componente A é de 20% (ou 0,20) e a probabilidade de falha no componente B é de 15% (ou 0,15), a probabilidade de falha simultânea dos dois componentes é:$$\\\\[3pt]$$$$P(A \\cap B) = P(A) \\cdot P(B) = 0,20 \\times 0,15 = 0,03$$$$\\\\[3pt]$$Convertendo para porcentagem, obtemos 3%."
 }

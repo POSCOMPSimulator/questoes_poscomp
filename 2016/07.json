@@ -6,5 +6,6 @@
   "Imagens": ["2016/images/img-07-01"],
   "Resposta": 2,
   "Componente": "Matemática",
-  "Subarea": "Cálculo Diferencial e Integral"
+  "Subarea": "Cálculo Diferencial e Integral",
+  "Explicacao": "Para identificar a equação que representa a cônica na imagem, observamos que a cônica é uma hipérbole com eixos assimétricos. A equação geral de uma hipérbole com centro na origem e eixos horizontal e vertical é $$\\frac{x^{2}}{a^{2}} - \\frac{y^{2}}{b^{2}} = 1$$. A equação correta dentre as alternativas é $$\\frac{x^{2}}{25} - \\frac{y^{2}}{16} = 1$$, que é a terceira alternativa."
 }

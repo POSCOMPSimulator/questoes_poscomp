@@ -6,5 +6,6 @@
   "Imagens": ["2016/images/img-06-01"],
   "Resposta": 0,
   "Componente": "Matemática",
-  "Subarea": "Cálculo Diferencial e Integral"
+  "Subarea": "Cálculo Diferencial e Integral",
+  "Explicacao": "Para aplicar o método de Newton-Raphson à função $$f(x) = x^{3} - \\sin(x)$$, precisamos da derivada dessa função. A derivada é $$f'(x) = 3x^{2} - \\cos(x)$$. Substituindo na fórmula do método de Newton-Raphson, obtemos: $$x_{n+1} = x_{n} - \\frac{f(x_{n})}{f'(x_{n})} = x_{n} - \\frac{x_{n}^{3} - \\sin(x_{n})}{3x^{2} - \\cos(x_{n})}$$. Portanto, a expressão correta é a primeira alternativa."
 }

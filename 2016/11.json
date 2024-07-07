@@ -6,5 +6,6 @@
   "Imagens": [],
   "Resposta": 0,
   "Componente": "Matemática",
-  "Subarea": "Lógica Matemática"
+  "Subarea": "Lógica Matemática",
+  "Explicacao": "A proposição Z é dada por $$p \\rightarrow (q \\rightarrow r)$$. Utilizando as equivalências lógicas, podemos reescrever $$q \\rightarrow r$$ como $$\\sim q \\lor r$$ (onde $$\\sim$$ representa a negação). Assim, Z transforma-se em $$p \\rightarrow (\\sim q \\lor r)$$. A negação de Z é $$\\sim (p \\rightarrow (\\sim q \\lor r))$$. Utilizando a equivalência $$\\sim (A \\rightarrow B) = A \\land \\sim B$$, temos que $$\\sim (p \\rightarrow (\\sim q \\lor r))$$ é equivalente a $$p \\land \\sim (\\sim q \\lor r)$$. Aplicando De Morgan na negação, obtemos $$\\sim (\\sim q \\lor r) = q \\land \\sim r$$. Portanto, a negação de Z é $$p \\land (q \\land \\sim r)$$, que simplifica para $$(p \\land q) \\land (\\sim r)$$."
 }

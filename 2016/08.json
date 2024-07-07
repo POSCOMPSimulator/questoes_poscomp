@@ -6,5 +6,6 @@
   "Imagens": [],
   "Resposta": 3,
   "Componente": "Matemática",
-  "Subarea": "Geometria Analítica"
+  "Subarea": "Geometria Analítica",
+  "Explicacao": "Para duas retas serem coplanares, os vetores diretores das retas e o vetor que une um ponto de uma reta a um ponto da outra reta devem ser linearmente dependentes. Ou seja, o determinante da matriz que contém esses vetores deve ser zero.$$\\\\[3pt]$$Considerando as retas $$r:\\begin{cases}x=1+2t\\\\ y=5+3t, t \\in R\\\\ z=-6+4t \\end{cases}$$ e $$s:\\begin{cases}x=5+t\\\\ y=11-3t, t \\in R\\\\ z=2-2t \\end{cases}$$, temos os vetores diretores $$\\vec{d_r} = (2, 3, 4)$$ e $$\\vec{d_s} = (1, -3, -2)$$.$$\\\\[3pt]$$Podemos usar os pontos $$P_0 = (1, 5, -6)$$ em r e $$Q_0 = (5, 11, 2)$$ em s para formar o vetor $$\\vec{PQ} = Q_0 - P_0 = (4, 6, 8)$$.$$\\\\[3pt]$$Montamos a matriz com os vetores $$\\vec{d_r}$$, $$\\vec{d_s}$$ e $$\\vec{PQ}$$:$$\\\\[3pt]$$$$$$\\\\[3pt]$$\\begin{vmatrix} $$\\\\[3pt]$$2 & 3 & 4 \\\\ $$\\\\[3pt]$$1 & -3 & -2 \\\\ $$\\\\[3pt]$$4 & 6 & 8 $$\\\\[3pt]$$\\end{vmatrix} = 2 \\cdot (-3 \\cdot 8 - (-2) \\cdot 6) - 3 \\cdot (1 \\cdot 8 - (-2) \\cdot 4) + 4 \\cdot (1 \\cdot 6 - (-3) \\cdot 4) = 0.$$\\\\[3pt]$$$$$$\\\\[3pt]$$O determinante é zero, indicando que as retas são coplanares."
 }

@@ -6,5 +6,6 @@
   "Imagens": ["2016/images/img-20-01"],
   "Resposta": 1,
   "Componente": "Matemática",
-  "Subarea": "Probabilidade e Estatística"
+  "Subarea": "Probabilidade e Estatística",
+  "Explicacao": "Para encontrar a equação da reta de regressão, y = ax + b, primeiro precisamos calcular o coeficiente angular a e o coeficiente linear b. Usaremos as fórmulas fornecidas: $$a=\\frac{\\sum xy -n\\bar{x}\\bar{y}}{\\sum x^{2}-n(\\bar{x})^{2}}$$ e $$b=\\bar{y}-a\\bar{x}$$. $$\\\\[3pt]$$Os dados dados são: $$\\\\[3pt]$$\\( \\sum x = 378 \\) $$\\\\[3pt]$$\\( \\sum y = 175 \\) $$\\\\[3pt]$$\\( \\sum xy = 6140 \\) $$\\\\[3pt]$$\\( \\sum x^{2} = 16224 \\) $$\\\\[3pt]$$\\( n = 10 \\)$$\\\\[3pt]$$Calculando as médias:\\( \\bar{x} = \\frac{\\sum x}{n} = \\frac{378}{10} = 37.8 \\) $$\\\\[3pt]$$\\( \\bar{y} = \\frac{\\sum y}{n} = \\frac{175}{10} = 17.5 \\)$$\\\\[3pt]$$Substituindo nas fórmulas:\\( a = \\frac{6140 - 10(37.8)(17.5)}{16224 - 10(37.8)^{2}} \\)$$\\\\[3pt]$$\\( a = \\frac{6140 - 6615}{16224 - 14292.84} \\)$$\\\\[3pt]$$\\( a = \\frac{-475}{1931.16} \\) $$\\\\[3pt]$$\\( a \\approx -0.2459 \\)$$\\\\[3pt]$$Calculamos b:\\( b = 17.5 - (-0.2459)(37.8) \\) $$\\\\[3pt]$$\\( b \\approx 17.5 + 9.2797 \\) $$\\\\[3pt]$$\\( b \\approx 26.78 \\)$$\\\\[3pt]$$Assim, a equação da reta de regressão é aproximadamente $$y = -0.2459x + 26.78$$, o que corresponde à $$y = -0.2454x + 26.7762$$."
 }
