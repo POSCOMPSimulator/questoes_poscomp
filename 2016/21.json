@@ -6,5 +6,6 @@
   "Imagens": [],
   "Resposta": 0,
   "Componente": "Fundamentos da Computação",
-  "Subarea": "Análise de Algoritmos"
+  "Subarea": "Análise de Algoritmos",
+  "Explicacao": "Para simplificar a notação Big-O, mantemos apenas o termo de maior ordem, pois ele domina o crescimento da função à medida que os valores das variáveis aumentam. A complexidade original é O($$3m^{3} + 2mn^{2} + n^{2} + 10m + m^{2}$$). O termo de maior ordem é $$3m^{3}$$, mas também consideramos o segundo maior termo, devido a presença do $$n$$, que é $$2mn^{2}$$. Portanto, a complexidade simplificada é O($$m^{3} + mn^{2}$$)."
 }

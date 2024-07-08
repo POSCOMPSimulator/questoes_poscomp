@@ -6,5 +6,6 @@
   "Imagens": [],
   "Resposta": 3,
   "Componente": "Fundamentos da Computação",
-  "Subarea": "Algoritmos e Estruturas de Dados"
+  "Subarea": "Algoritmos e Estruturas de Dados",
+  "Explicacao": "Uma árvore balanceada T que armazena n chaves é uma árvore binária de pesquisa na qual a variação da altura dos nodos filhos de cada nodo interno v de T é de, no máximo, uma unidade. Esta é a definição de uma árvore AVL, que é um tipo de árvore binária balanceada."
 }

@@ -6,5 +6,6 @@
   "Imagens": [],
   "Resposta": 0,
   "Componente": "Fundamentos da Computação",
-  "Subarea": "Linguagens de Programação"
+  "Subarea": "Linguagens de Programação",
+  "Explicacao": "O paradigma de programação imperativo é baseado na arquitetura de Von Neumann, que é uma arquitetura de computador onde os dados e as instruções são armazenados na mesma memória e as operações são realizadas de forma sequencial."
 }

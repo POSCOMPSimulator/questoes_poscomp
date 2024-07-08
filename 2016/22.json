@@ -6,5 +6,6 @@
   "Imagens": [],
   "Resposta": 3,
   "Componente": "Fundamentos da Computação",
-  "Subarea": "Análise de Algoritmos"
+  "Subarea": "Análise de Algoritmos",
+  "Explicacao": "Para determinar a complexidade do algoritmo, podemos usar o teorema mestre para resolver a equação de recorrência $$T(n) = 8T(n/2) + qn$$. Comparando com a forma geral $$T(n) = aT(n/b) + f(n)$$, temos $$a = 8$$, $$b = 2$$, e $$f(n) = qn$$. Calculamos $$log_b(a) = log_2(8) = 3$$. Como $$f(n) = qn$$ é $$O(n^{c})$$ com $$c = 1$$, e $$c < log_b(a)$$, pelo caso 1 do teorema mestre, a complexidade é $$T(n) = O(n^{log_b(a)}) = O(n^3)$$."
 }
