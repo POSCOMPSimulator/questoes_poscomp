@@ -6,5 +6,6 @@
   "Imagens": [],
   "Resposta": 0,
   "Componente": "Fundamentos da Computação",
-  "Subarea": "Teoria dos Grafos"
+  "Subarea": "Teoria dos Grafos",
+  "Explicacao": "A matriz descrita é uma matriz de adjacência para grafos não ponderados. Nessa matriz, as entradas são 1 (ou verdadeiro) se existir um arco do vértice i para o vértice j e 0 (ou falso) caso contrário. Esta matriz é utilizada para representar a conectividade entre vértices em grafos não ponderados."
 }

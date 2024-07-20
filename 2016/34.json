@@ -6,5 +6,6 @@
   "Imagens": [],
   "Resposta": 3,
   "Componente": "Fundamentos da Computação",
-  "Subarea": "Organização de Arquivos e Dados"
+  "Subarea": "Organização de Arquivos e Dados",
+  "Explicacao": "Todas as afirmações são verdadeiras. (1) O Superbloco é utilizado para armazenar informações sobre um sistema de arquivos específico, (2) o Inode representa um arquivo específico, e cada arquivo é representado por um inode no Sistema de Arquivos, e (3) o Dentry representa uma entrada de diretório e não corresponde a qualquer estrutura de dados armazenada em disco."
 }

@@ -6,5 +6,6 @@
   "Imagens": [],
   "Resposta": 0,
   "Componente": "Fundamentos da Computação",
-  "Subarea": "Teoria dos Grafos"
+  "Subarea": "Teoria dos Grafos",
+  "Explicacao": "A questão trata de relacionar conceitos de Teoria dos Grafos. Vamos analisar cada par de definições.\n1. Grafo Completo é um grafo não direcionado, no qual todos os pares de vértices são adjacentes entre si.\n2. Hipergrafo é um grafo não direcionado em que cada aresta conecta um número arbitrário de vértices, ao invés de conectar dois vértices apenas.\n3. Árvore Livre é um grafo não direcionado acíclico e conectado.\n4. Grafo Planar é um grafo em que seu esquema pode ser traçado em um plano, de modo que duas arestas quaisquer se toquem, no máximo, em alguma extremidade.\n5. Grafo não direcionado antirregular é um grafo que possui o maior número possível de graus diferentes em sua sequência.\nPortanto, a ordem correta de preenchimento dos parênteses é 1 - 2 - 3 - 4 - 5."
 }

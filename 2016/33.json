@@ -6,5 +6,6 @@
   "Imagens": [],
   "Resposta": 1,
   "Componente": "Fundamentos da Computação",
-  "Subarea": "Técnicas de Programação"
+  "Subarea": "Técnicas de Programação",
+  "Explicacao": "O padrão de projeto Singleton é instanciado através da chamada de um método público e estático. Esse padrão garante que uma classe tenha apenas uma instância e fornece um ponto global de acesso a ela. A implementação geralmente envolve um método estático que retorna a instância única da classe."
 }

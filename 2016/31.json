@@ -6,5 +6,6 @@
   "Imagens": ["2016/images/img-31-01"],
   "Resposta": 1,
   "Componente": "Fundamentos da Computação",
-  "Subarea": "Técnicas de Programação"
+  "Subarea": "Técnicas de Programação",
+  "Explicacao": "O método 'solicita_compra()' das classes 'Peça' e 'Veículo' se relaciona diretamente com o conceito de polimorfismo da Programação Orientada a Objetos. Polimorfismo permite que diferentes classes implementem métodos com o mesmo nome, permitindo que uma chamada a um método 'solicita_compra()' se comporte de maneira diferente dependendo se está sendo chamada em um objeto da classe 'Peça' ou 'Veículo'."
 }
