@@ -2,6 +2,9 @@ import json
 import requests
 import os
 
+from dotenv import load_dotenv
+
+load_dotenv()
 path = os.getcwd()
 url = os.getenv('BACKEND_URL', 'http://localhost:8060/questao')
 admin_code = os.getenv('ADMIN_CODE')
