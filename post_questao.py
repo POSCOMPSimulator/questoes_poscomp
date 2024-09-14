@@ -4,6 +4,7 @@ import os
 
 path = os.getcwd()
 url = os.getenv('BACKEND_URL', 'http://localhost:8060/questao')
+admin_code = os.getenv('ADMIN_CODE')
 
 
 def send(year):
@@ -28,7 +29,7 @@ def send(year):
             }
 
             r = requests.post(
-                url, json=questao_json)
+                f'{url}/{admin_code}', json=questao_json)
             if r.status_code == 201:
                 print('year: ' + year + ', json_path: ' + json_path)
             else:
