@@ -1,0 +1,21 @@
+{
+    "Numero": 38,
+    "Ano": 2015,
+    "Componente": "Fundamentos da Computação",
+    "Subarea": "Técnicas de Programação",
+    "Resposta": 3,
+    "Alternativas": [
+        "a navegabilidade da classe “Cliente” para a classe “Compra” indica que, em termos de código, o atributo “compras” é da classe “Compra”.",
+        "a representação gráfica de agregação indica que não existe compra sem item.",
+        "a representação gráfica indica que existe um atributo itens na classe “Cliente”.",
+        " a cardinalidade das duas relações gera atributos listas nas classes correspondentes. ",
+        "as relações “compras” e “itens” não geram atributos em termos de código."
+    ],
+    "Enunciado": [
+        "Considere o diagrama de classes a seguir.<br><br>Nesse diagrama,"
+    ],
+    "Imagens": [
+        "2015/images/img-38-01"
+    ],
+    "Explicacao": ""
+}

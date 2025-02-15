@@ -1,0 +1,21 @@
+{
+    "Numero": 36,
+    "Ano": 2015,
+    "Componente": "Fundamentos da Computação",
+    "Subarea": "Teoria dos Grafos",
+    "Resposta": 1,
+    "Alternativas": [
+        "$$G_3$$ e $$G_4$$ são grafos completos.",
+        "$$G_1$$ e $$G_2$$ são grafos isomorfos.",
+        "$$G_3$$ e $$G_1$$ são grafos bipartidos.",
+        "$$G_2$$ e $$G_3$$ são grafos planares.",
+        "$$G_4$$ e $$G_1$$ são multigrafos."
+    ],
+    "Enunciado": [
+        "Considere os grafos a seguir.<br><br>Pela análise dos grafos, verifica-se que"
+    ],
+    "Imagens": [
+        "2015/images/img-36-01"
+    ],
+    "Explicacao": ""
+}
