@@ -6,5 +6,6 @@
   "Imagens": [],
   "Resposta": 3,
   "Componente": "Fundamentos da Computação",
-  "Subarea": "Organização de Arquivos e Dados"
+  "Subarea": "Organização de Arquivos e Dados",
+  "Explicacao": "A organização de arquivo Sorted File mantém registros armazenados em ordem da chave de busca, enquanto a Heap File mantém registros distribuídos aleatoriamente nas páginas. Isso significa que em um Sorted File, os registros são organizados de acordo com um critério de ordenação, enquanto em uma Heap File, os registros são inseridos em qualquer ordem nas páginas de armazenamento."
 }

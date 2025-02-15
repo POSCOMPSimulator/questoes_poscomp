@@ -6,5 +6,6 @@
   "Imagens": [],
   "Resposta": 3,
   "Componente": "Matemática",
-  "Subarea": "Lógica Matemática"
+  "Subarea": "Lógica Matemática",
+  "Explicacao": "A proposição original afirma: 'Todas as métricas de avaliação foram positivas.' Podemos denotar isso como $$\\forall x, P(x)$$ onde $$P(x)$$ significa que a métrica $$x$$ é positiva. A negação de uma proposição universal é uma proposição existencial com a negação do predicado: $$\\neg(\\forall x, P(x)) = \\exists x, \\neg P(x)$$. Isso significa que 'Existe pelo menos uma métrica de avaliação que não foi positiva'. Se uma métrica não é positiva, ela pode ser negativa ou zero. Logo, uma formulação equivalente seria 'Alguma métrica de avaliação foi negativa ou zero.'"
 }

@@ -6,5 +6,6 @@
   "Imagens": [],
   "Resposta": 4,
   "Componente": "Matemática",
-  "Subarea": "Lógica Matemática"
+  "Subarea": "Lógica Matemática",
+  "Explicacao": "Vamos usar as letras $$D$$ para 'Daniel fala dinamarquês', $$I$$ para 'Eu falo inglês' e $$A$$ para 'Eu falo alemão'. O problema nos dá a seguinte sentença condicional: $$D \\rightarrow (I \\vee A)$$, que significa 'Se Daniel fala dinamarquês, então eu falo inglês ou alemão'. A segunda sentença condicional nos diz: $$\\neg I \\wedge \\neg A \\rightarrow \\neg (I \\vee A)$$, que significa 'Se eu não falo inglês e nem alemão, então eu não falo nenhum dos dois'.$$\\\\[3pt]$$Supondo que $$\\neg I$$ e $$\\neg A$$ são verdadeiros (não falo nem inglês nem alemão), então a implicação inicial $$\\neg (I \\vee A)$$ também deve ser verdadeira, e desta forma $$(I \\vee A)$$ deve ser falso. Assim, podemos concluir que $$D$$ também deve ser falso.$$\\\\[3pt]$$Portanto, Daniel não fala dinamarquês."
 }

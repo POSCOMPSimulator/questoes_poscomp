@@ -6,5 +6,6 @@
   "Imagens": [],
   "Resposta": 2,
   "Componente": "Fundamentos da Computação",
-  "Subarea": "Linguagens de Programação"
+  "Subarea": "Linguagens de Programação",
+  "Explicacao": "Python é uma linguagem de tipagem dinâmica, o que significa que a verificação dos tipos é feita em tempo de execução e as variáveis não precisam ter seus tipos declarados explicitamente."
 }

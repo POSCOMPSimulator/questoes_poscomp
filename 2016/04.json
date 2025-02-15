@@ -6,5 +6,6 @@
   "Imagens": [],
   "Resposta": 3,
   "Componente": "Matemática",
-  "Subarea": "Geometria Analítica"
+  "Subarea": "Geometria Analítica",
+  "Explicacao": "Para encontrar o ângulo entre dois vetores, utilizamos a fórmula $$ \\cos \\theta = \\frac{\\vec{u} \\cdot \\vec{v}}{\\|\\vec{u}\\| \\|\\vec{v}\\|} $$, onde $$ \\vec{u} \\cdot \\vec{v} $$ é o produto escalar e $$ \\|\\vec{u}\\| $$ e $$ \\|\\vec{v}\\| $$ são as normas dos vetores. Para $$ \\vec{u} = (2,2,0) $$ e $$ \\vec{v} = (0,3,-3) $$, temos: $$ \\vec{u} \\cdot \\vec{v} = 2\\cdot0 + 2\\cdot3 + 0\\cdot(-3) = 6 $$. As normas são $$ \\|\\vec{u}\\| = \\sqrt{2^2 + 2^2 + 0^2} = \\sqrt{8} = 2\\sqrt{2} $$ e $$ \\|\\vec{v}\\| = \\sqrt{0^2 + 3^2 + (-3)^2} = \\sqrt{18} = 3\\sqrt{2} $$. Assim, $$ \\cos \\theta = \\frac{6}{(2\\sqrt{2})(3\\sqrt{2})} = \\frac{6}{12} = \\frac{1}{2} $$ e $$ \\theta = \\cos^{-1}(\\frac{1}{2}) = 60^\\circ $$. Portanto, a resposta correta é 60°."
 }

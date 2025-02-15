@@ -6,5 +6,6 @@
   "Imagens": [],
   "Resposta": 4,
   "Componente": "Matemática",
-  "Subarea": "Análise Combinatória"
+  "Subarea": "Análise Combinatória",
+  "Explicacao": "O problema é sobre distribuir 8 controles remotos idênticos em 5 caixas distintas. Isso é equivalente a encontrar o número de soluções inteiras não-negativas da equação $$x_1 + x_2 + x_3 + x_4 + x_5 = 8$$, que é dado pelo princípio das combinações com repetição. A fórmula para o número de soluções é $$\\binom{n + k - 1}{k - 1}$$, onde $$n$$ é o número de controles remotos (8) e $$k$$ é o número de caixas (5). Aplicando a fórmula, temos: $$\\binom{8 + 5 - 1}{5 - 1} = \\binom{12}{4} = \\frac{12!}{4!(12-4)!} = \\frac{12!}{4!8!} = 495$$."
 }

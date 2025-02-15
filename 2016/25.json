@@ -6,5 +6,6 @@
   "Imagens": [],
   "Resposta": 0,
   "Componente": "Fundamentos da Computação",
-  "Subarea": "Análise de Algoritmos"
+  "Subarea": "Análise de Algoritmos",
+  "Explicacao": "Para relacionar as colunas corretamente: (1) Tentativa e Erro - O algoritmo decompõe o processo em um número finito de subtarefas parciais que devem ser exploradas exaustivamente. (2) Divisão e Conquista - O algoritmo divide o problema a ser resolvido em partes menores, encontra soluções para as partes e então combina as soluções obtidas em uma solução global. (3) Guloso - O algoritmo constrói por etapas uma solução ótima, selecionando a cada passo o melhor elemento disponível e verificando sua viabilidade. (4) Aproximado - O algoritmo gera soluções que estão dentro de um limite para a razão entre a solução ótima e a produzida pelo algoritmo. (5) Heurística - O algoritmo pode produzir um bom resultado ou até mesmo uma solução ótima, mas também pode não produzir solução nenhuma ou uma solução distante da solução ótima. Portanto, a ordem correta de preenchimento dos parênteses é 1, 2, 3, 4, 5."
 }

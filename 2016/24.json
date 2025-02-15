@@ -6,5 +6,6 @@
   "Imagens": [],
   "Resposta": 4,
   "Componente": "Fundamentos da Computação",
-  "Subarea": "Algoritmos e Estruturas de Dados"
+  "Subarea": "Algoritmos e Estruturas de Dados",
+  "Explicacao": "A destruição de uma árvore binária requer que cada nó seja liberado apenas após todos os seus descendentes terem sido liberados. Esse tipo de operação é realizado utilizando o percurso em pós-ordem, onde primeiro visitamos a subárvore esquerda, depois a subárvore direita e, por fim, o nó raiz."
 }

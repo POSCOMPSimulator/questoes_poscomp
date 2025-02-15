@@ -6,5 +6,6 @@
   "Imagens": [],
   "Resposta": 3,
   "Componente": "Matemática",
-  "Subarea": "Análise Combinatória"
+  "Subarea": "Análise Combinatória",
+  "Explicacao": "Neste problema, temos senhas de no mínimo 4 caracteres e no máximo 6 caracteres, onde o primeiro caractere deve ser uma vogal e as repetições são permitidas. Existem 5 vogais (a, e, i, o, u) e 10 algarismos (0-9), totalizando 15 caracteres possíveis para as posições subsequentes.$$\\\\[3pt]$$Vamos considerar as possíveis senhas de 4, 5 e 6 caracteres separadamente e depois somar os resultados:$$\\\\[3pt]$$Para senhas de 4 caracteres:$$\\\\[3pt]$$$$ 5 \\text{ (escolhas para a primeira vogal)} \\times 15^3 \\text{ (escolhas para os próximos 3 caracteres)} = 5 \\times 3375 = 16875 $$$$\\\\[3pt]$$Para senhas de 5 caracteres:$$\\\\[3pt]$$$$ 5 \\text{ (escolhas para a primeira vogal)} \\times 15^4 \\text{ (escolhas para os próximos 4 caracteres)} = 5 \\times 50625 = 253125 $$$$\\\\[3pt]$$Para senhas de 6 caracteres:$$\\\\[3pt]$$$$ 5 \\text{ (escolhas para a primeira vogal)} \\times 15^5 \\text{ (escolhas para os próximos 5 caracteres)} = 5 \\times 759375 = 3796875 $$$$\\\\[3pt]$$Agora, somamos todas as possibilidades:$$\\\\[3pt]$$$$ 16875 + 253125 + 3796875 = 4066875 $$$$\\\\[3pt]$$Portanto, o número total de senhas possíveis é 4.066.875."
 }

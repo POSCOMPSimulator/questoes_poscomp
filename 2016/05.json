@@ -6,5 +6,6 @@
   "Imagens": [],
   "Resposta": 0,
   "Componente": "Matemática",
-  "Subarea": "Cálculo Diferencial e Integral"
+  "Subarea": "Cálculo Diferencial e Integral",
+  "Explicacao": "Os valores críticos de uma função são encontrados calculando-se a derivada da função e igualando-a a zero. Para a função $$f(x) = \\frac{x^{4}}{4} - \\frac{14x^{3}}{3} + 20x^{2} + 5$$, a derivada é $$f'(x) = x^{3} - 14x^{2} + 40x$$. Igualando a zero, temos $$x^{3} - 14x^{2} + 40x = 0$$, que pode ser fatorado como $$x(x^{2} - 14x + 40) = 0$$. As soluções são $$x = 0$$ e as raízes da equação quadrática $$x^{2} - 14x + 40 = 0$$, que são $$x = 4$$ e $$x = 10$$. Portanto, os valores críticos são $$x=0, x=4$$ e $$x=10$$."
 }

@@ -6,5 +6,6 @@
   "Imagens": ["2016/images/img-09-01"],
   "Resposta": 4,
   "Componente": "Matemática",
-  "Subarea": "Álgebra Linear"
+  "Subarea": "Álgebra Linear",
+  "Explicacao": "Para analisar as propriedades da relação $$R$$, devemos verificar se a relação é reflexiva, simétrica e transitiva com base na matriz de incidência fornecida.$$\\\\[3pt]$$1. Reflexividade: Uma relação é reflexiva se todos os elementos da diagonal principal da matriz são iguais a 1. Observando a matriz, todos os elementos da diagonal principal são iguais a 1. Portanto, a relação é reflexiva.$$\\\\[3pt]$$2. Simetria: Uma relação é simétrica se, para todo $$a_{ij}$$ igual a 1, também $$a_{ji}$$ é igual a 1. Observando a matriz, por exemplo, temos $$a_{56} = 1$$ e $$a_{65} = 0$$, entre outros que confirmam que não temos simetria. Portanto, a relação não é simétrica.$$\\\\[3pt]$$3. Transitividade: Uma relação é transitiva se, para todos os elementos $$a_{ij}$$ e $$a_{jk}$$ iguais a 1, também $$a_{ik}$$ é igual a 1. É possível ver pela matriz que se confirma a transitividade.$$\\\\[3pt]$$Assim, constatamos que a alternativa correta é a que afirma que a relação é reflexiva e transitiva, mas não é simétrica."
 }

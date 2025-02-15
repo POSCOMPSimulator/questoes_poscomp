@@ -6,5 +6,6 @@
   "Imagens": ["2016/images/img-23-01"],
   "Resposta": 4,
   "Componente": "Fundamentos da Computação",
-  "Subarea": "Algoritmos e Estruturas de Dados"
+  "Subarea": "Algoritmos e Estruturas de Dados",
+  "Explicacao": "Para uma árvore binária, a travessia em pré-ordem visita os nós na ordem raiz, subárvore esquerda, subárvore direita. A travessia em pós-ordem visita os nós na ordem subárvore esquerda, subárvore direita, raiz. Para a árvore dada, a travessia em pré-ordem resulta em (12, 4, 2, 8, 6, 16) e a travessia em pós-ordem resulta em (2, 6, 8, 4, 16, 12)."
 }

@@ -6,5 +6,6 @@
   "Imagens": [],
   "Resposta": 4,
   "Componente": "Fundamentos da Computação",
-  "Subarea": "Organização de Arquivos e Dados"
+  "Subarea": "Organização de Arquivos e Dados",
+  "Explicacao": "O tipo de índice secundário (não chave) possui número de registros, no caso de incluir entradas de índice duplicadas com um mesmo valor K(i) – um para cada valor, e, assim, é um índice denso. Isso significa que há uma entrada no índice para cada registro no arquivo de dados, garantindo a densidade do índice."
 }
