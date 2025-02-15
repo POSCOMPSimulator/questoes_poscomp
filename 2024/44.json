@@ -1,0 +1,19 @@
+{
+    "Numero": 44,
+    "Ano": 2024,
+    "Componente": "Fundamentos da Computação",
+    "Subarea": "Sistemas Operacionais",
+    "Resposta": 3,
+    "Alternativas": [
+        "Tamanho de bloco = 1.024 bytes e sistema de arquivos baseado em alocação encadeada.",
+        "Tamanho de bloco = 1.024 bytes e sistema de arquivos baseado em alocação contígua.",
+        "Tamanho de bloco = 1.024 bytes e sistema de arquivos baseado em alocação indexada.",
+        "Tamanho de bloco = 2.048 bytes e sistema de arquivos baseado em alocação encadeada.",
+        "Tamanho de bloco = 2.048 bytes e sistema de arquivos baseado em alocação contígua."
+    ],
+    "Enunciado": [
+        "Um computador precisa ter seu disco atual, formatado com uma única partição,\nsubstituído por outro disco. Antes de realizar a troca, foi realizada uma análise do tamanho dos\narquivos armazenados no disco atual, cujo resultado indicou que 98% dos arquivos possuem tamanho\nentre 1.000 bytes e 2.030 bytes (mediana de 1.515 bytes). Assinale a alternativa que lista os\nparâmetros de formação do novo disco e que resulte no menor desperdício de espaço físico e menor\nprobabilidade de fragmentação do disco."
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

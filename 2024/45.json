@@ -1,0 +1,19 @@
+{
+    "Numero": 45,
+    "Ano": 2024,
+    "Componente": "Fundamentos da Computação",
+    "Subarea": "Linguagens de Programação",
+    "Resposta": 0,
+    "Alternativas": [
+        "As variáveis do tipo inteiro são utilizadas para armazenar valores que pertencem ao conjunto de números naturais (sem parte fracionária) positivos e negativos.",
+        "O tipo caractere permite armazenar strings ou conjuntos de caracteres em uma variável do tipo caracter.",
+        "Por padrão, uma variável do tipo inteiro admite somente valores positivos. Caso se deseje que a variável contenha valores negativos, é necessário utilizar o comando da linguagem de programação para incluir sinal. ",
+        "As variáveis do tipo vetor são utilizadas para armazenar valores numéricos com parte fracionária. ",
+        "O conjunto de operações disponível para o tipo caractere inclui soma, subtração, multiplicação, divisão inteira e resto da divisão. "
+    ],
+    "Enunciado": [
+        "Sobre os tipos de dados básicos, assinale a alternativa correta."
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

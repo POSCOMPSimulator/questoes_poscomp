@@ -1,0 +1,19 @@
+{
+    "Numero": 59,
+    "Ano": 2024,
+    "Componente": "Tecnologia da Computação",
+    "Subarea": "Engenharia de Software",
+    "Resposta": 3,
+    "Alternativas": [
+        "Desenvolvimento de software.",
+        "Validação de software.",
+        "Evolução de software.",
+        "Especificação de software.",
+        "Projeto de software."
+    ],
+    "Enunciado": [
+        "De acordo com o livro “Engenharia de Software”, de Ian Sommerville, “um processo\nde software é um conjunto de atividades relacionadas que levam à produção de um sistema de\nsoftware”. De acordo com o autor, a definição abaixo refere-se a qual das quatro atividades\nfundamentais de engenharia de software?\n<ul><li>“É o processo de entender e definir quais serviços são exigidos do sistema e identificar as restrições\nna operação e no desenvolvimento do sistema”.</ul>"
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

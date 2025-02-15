@@ -1,0 +1,19 @@
+{
+    "Numero": 52,
+    "Ano": 2024,
+    "Componente": "Tecnologia da Computação",
+    "Subarea": "Banco de Dados",
+    "Resposta": 1,
+    "Alternativas": [
+        "Espera cautelosa.",
+        "Grafo de espera.",
+        "Sem espera.",
+        "Esperar ou morrer.",
+        "Ferir ou esperar."
+    ],
+    "Enunciado": [
+        "Deadlock (impasse) de transações de banco de dados ocorre quando, em um conjunto\nde n (n>1) transações ativas, é caracterizado um ciclo de espera: T1 espera por T2; T2 espera por T3;\n...; Tn-1 espera por Tn; e Tn espera por T1. Entre as estratégias de tratamento de deadlock a seguir,\naquela que é um protocolo de detecção (em vez de prevenção) é denominada:"
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

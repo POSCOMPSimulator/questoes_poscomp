@@ -1,0 +1,19 @@
+{
+    "Numero": 19,
+    "Ano": 2024,
+    "Componente": "Matemática",
+    "Subarea": "Probabilidade e Estatística",
+    "Resposta": 2,
+    "Alternativas": [
+        "28,8%",
+        "30,0%",
+        "32,5%",
+        " 36,3%",
+        "40,0%"
+    ],
+    "Enunciado": [
+        "<b>Para responder às questões 19 e 20, utilize a seguinte lista de dados, correspondente ao\nnúmero de segundos que um software precisa para resolver um cálculo matemático:</b><br><br>\n60; 66; 77; 70; 66; 68; 57; 70; 66; 52; 75; 65; 69; 71; 58; 66; 67; 74; 61;\n63; 69; 80; 59; 66; 70; 67; 78; 75; 64; 71; 81; 62; 64; 69; 68; 72; 83; 56;\n65; 74; 67; 54; 65; 65; 69; 61; 67; 73; 57; 62; 67; 68; 63; 67; 71; 68; 76;\n61; 62; 63; 76; 61; 67; 67; 64; 72; 64; 73; 79; 58; 67; 71; 68; 59; 69; 70;\n66; 62; 63; 66;<br><br>\n\nA percentagem de tempo em que o processo de cálculo é inferior a 65 segundos é:"
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

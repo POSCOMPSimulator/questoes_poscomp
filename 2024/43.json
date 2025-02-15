@@ -1,0 +1,21 @@
+{
+    "Numero": 43,
+    "Ano": 2024,
+    "Componente": "Fundamentos da Computação",
+    "Subarea": "Sistemas Operacionais",
+    "Resposta": 2,
+    "Alternativas": [
+        "lbm = 1",
+        "lbm = 9",
+        "lbm ≤ 10",
+        "lbm = 10",
+        "lbm ≥ 10"
+    ],
+    "Enunciado": [
+        "Analise a execução a seguir considerando que todos os arquivos de cabeçalho\nnecessários estão inclusos no tempo de compilação e que o programa executa ininterruptamente do\ninício até o seu término.\n\n<br><br>Assinale a alternativa que melhor representa o resultado da execução do programa acima"
+    ],
+    "Imagens": [
+        "2024/images/img-43-01"
+    ],
+    "Explicacao": ""
+}

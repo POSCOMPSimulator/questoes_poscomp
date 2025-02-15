@@ -1,0 +1,19 @@
+{
+    "Numero": 41,
+    "Ano": 2024,
+    "Componente": "Fundamentos da Computação",
+    "Subarea": "Organização de Arquivos e Dados",
+    "Resposta": 2,
+    "Alternativas": [
+        " Todas as assertivas estão corretas.",
+        "Todas as assertivas estão incorretas.",
+        "Apenas a assertiva III está correta.",
+        "Apenas a assertiva V está correta.",
+        "Apenas as assertivas II e IV estão corretas."
+    ],
+    "Enunciado": [
+        "Considerando o papel de um esquema de classificação em sistemas de gestão de\nregistros, analise as assertivas abaixo e assinale a alternativa correta.<br>\n<br>I. O esquema apenas determina a identidade dos arquivos em sistemas baseados em papel.\n<br>II. Esquemas de classificação são irrelevantes para a conformidade regulatória e legal em sistemas\nde gestão de registros.\n<br>III. O esquema determina a identidade e o lugar de cada arquivo, tanto em sistemas baseados em\npapel quanto em sistemas de registros eletrônicos, e em sistemas híbridos onde ambos existem.\n<br>IV. A classificação em sistemas de gestão de registros é realizada apenas no momento da criação do\nregistro e nunca é revisada ou atualizada posteriormente.\n<br>V. Todos os sistemas de gestão de registros utilizam exclusivamente métodos manuais para a\nclassificação de documentos, garantindo assim maior precisão e controle."
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

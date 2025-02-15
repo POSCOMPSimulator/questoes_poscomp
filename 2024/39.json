@@ -1,0 +1,19 @@
+{
+    "Numero": 39,
+    "Ano": 2024,
+    "Componente": "Fundamentos da Computação",
+    "Subarea": "Organização de Arquivos e Dados",
+    "Resposta": 2,
+    "Alternativas": [
+        "Um arquivo é um conjunto de dados de diferentes tipos, e cada item individual de informação dentro de um arquivo é chamado de byte.",
+        "Um programa não pode ser considerado um arquivo, pois ele é executável e não segue a mesma estrutura de arquivos de dados.",
+        "Na memória secundária, o sistema operacional armazena informações em grupos, chamados blocos, para aumentar a eficiência na transferência de dados entre a memória secundária e a memória principal.",
+        "A estrutura de armazenamento em memória secundária não utiliza o conceito de arquivos e registros, mas sim páginas e segmentos.",
+        "Na memória secundária, os dados são armazenados exclusivamente em formato não hierárquico, o que impede a organização dos arquivos em pastas ou diretórios."
+    ],
+    "Enunciado": [
+        "Considerando o conceito de arquivos e registros, assinale a alternativa correta sobre\na estrutura de armazenamento e recuperação de informações em memória secundária."
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

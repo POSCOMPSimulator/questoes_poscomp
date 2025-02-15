@@ -1,0 +1,19 @@
+{
+    "Numero": 3,
+    "Ano": 2024,
+    "Componente": "Matemática",
+    "Subarea": "Álgebra Linear",
+    "Resposta": 4,
+    "Alternativas": [
+        "(λ – 2)",
+        "(λ – 2)²",
+        "(λ + 2)",
+        "(λ - 4)",
+        "– (λ – 2)³"
+    ],
+    "Enunciado": [
+        "Assinale a alternativa que apresenta o polinômio característico da matriz.<br><br>\n$$A = \\begin{pmatrix} 1 & -1 & -1 \\\\ -1 & 1 & -1 \\\\ 2 & 2 & 4 \\end{pmatrix}$$"
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

@@ -1,0 +1,19 @@
+{
+    "Numero": 55,
+    "Ano": 2024,
+    "Componente": "Tecnologia da Computação",
+    "Subarea": "Compiladores",
+    "Resposta": 3,
+    "Alternativas": [
+        "Apenas I.",
+        "Apenas I e II.",
+        "Apenas II e IV.",
+        "Apenas I, II e III.",
+        "I, II, III e IV."
+    ],
+    "Enunciado": [
+        "Sobre representação intermediária no contexto da construção de compiladores,\nanalise as assertivas abaixo:<ol type = 'I'>\n<li> Árvores sintáticas e código de três endereços são dois tipos de representações intermediárias.\n<li>Os enunciados que aparecem no código de três endereços têm a forma geral x := y op z, nos\nquais x, y e z são nomes, constantes ou objetos temporários criados pelo compilador. Outras\nformas podem também ser usadas, incluindo desvios condicionais e incondicionais, entre outros\ntipos de enunciados.\n<li>Representações intermediárias podem ser produzidas usando Definições Dirigidas pela Sintaxe.\n<li>Autômatos finitos são usados na definição de representações intermediárias, sendo que os estados\ndo autômato representam as variáveis do programa e as transições representam instruções do\ncódigo intermediário.</ol>\nQuais estão corretas?"
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

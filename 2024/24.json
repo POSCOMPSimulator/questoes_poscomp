@@ -1,0 +1,19 @@
+{
+    "Numero": 24,
+    "Ano": 2024,
+    "Componente": "Fundamentos da Computação",
+    "Subarea": "Algoritmos e Estruturas de Dados",
+    "Resposta": 4,
+    "Alternativas": [
+        "duplamente encadeada ordenada",
+        "circular não ordenada ",
+        "de prioridades",
+        " duplamente encadeada não ordenada",
+        "simplesmente encadeada ordenada "
+    ],
+    "Enunciado": [
+        "Em uma estrutura de dados lista ______________________, cada elemento\narmazena um ou vários dados e um ponteiro para o próximo elemento, que permite o encadeamento\ne mantém a estrutura linear. Tem-se também um campo-chave através do qual uma determinada\nordenação é mantida.\n<br>\n<br>\nAssinale a alternativa que preenche corretamente a lacuna do trecho acima."
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

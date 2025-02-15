@@ -1,0 +1,19 @@
+{
+    "Numero": 6,
+    "Ano": 2024,
+    "Componente": "Matemática",
+    "Subarea": "Análise Combinatória",
+    "Resposta": 3,
+    "Alternativas": [
+        "70.",
+        "120.",
+        "210.",
+        "285.",
+        "495."
+    ],
+    "Enunciado": [
+        "Uma startup de jogos eletrônicos tem 7 jogos de ação e 5 jogos de esportes. As\nvendas dos jogos são realizadas com um pacote de 4 jogos. Quantas são as opções de venda da\nstartup em que haja pelo menos 2 jogos de esportes?"
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

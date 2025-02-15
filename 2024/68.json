@@ -1,0 +1,19 @@
+{
+    "Numero": 68,
+    "Ano": 2024,
+    "Componente": "Tecnologia da Computação",
+    "Subarea": "Sistemas Distribuídos",
+    "Resposta": 1,
+    "Alternativas": [
+        "Localização.",
+        "Acesso.",
+        "Mobilidade.",
+        "Desempenho.",
+        "Mudança de escala."
+    ],
+    "Enunciado": [
+        "Os programas dos clientes não devem conhecer a distribuição de arquivos. Um único\nconjunto de operações é fornecido para acesso a arquivos locais e remotos. Os programas escritos\npara operar sobre arquivos locais são capazes de acessar arquivos remotos sem modificação. Qual é\no requisito de transparência descrito para os serviços de arquivos em sistemas distribuídos? "
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

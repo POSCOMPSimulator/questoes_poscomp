@@ -1,0 +1,19 @@
+{
+    "Numero": 15,
+    "Ano": 2024,
+    "Componente": "Matemática",
+    "Subarea": "Lógica Matemática",
+    "Resposta": 1,
+    "Alternativas": [
+        "Hoje é sábado e Ana Paula jogou vôlei.",
+        " Hoje não é sábado e Joaquim não jogou videogame.",
+        "Ana Paula jogou vôlei ou Joaquim jogou videogame.",
+        "Hoje é sábado e Joaquim jogou videogame.",
+        "Hoje não é sábado e Ana Paula jogou vôlei."
+    ],
+    "Enunciado": [
+        "Considere as premissas verdadeiras a seguir:<ul>\n<li>Premissa 1: Se Ana Paula joga vôlei ou Joaquim joga videogame, então Victória vai à praia.\n<li>Premissa 2: Hoje, Victória não foi à praia.\n<li>Premissa 3: Se hoje é sábado, então Ana Paula joga vôlei e Caio treina boxe.</ul>\nConsiderando as premissas apresentadas, é correto afirmar que:"
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

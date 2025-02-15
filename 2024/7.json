@@ -1,0 +1,19 @@
+{
+    "Numero": 7,
+    "Ano": 2024,
+    "Componente": "Matemática",
+    "Subarea": "Cálculo Diferencial e Integral",
+    "Resposta": 2,
+    "Alternativas": [
+        "$$-\\infty$$",
+        "-1",
+        "0",
+        "1",
+        "$$\\infty$$"
+    ],
+    "Enunciado": [
+        "Calcule o limite em infinito da função $$f(x) = \\sqrt{x^2 + 1} - x$$."
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

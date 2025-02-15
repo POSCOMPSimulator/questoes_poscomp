@@ -1,0 +1,19 @@
+{
+    "Numero": 40,
+    "Ano": 2024,
+    "Componente": "Fundamentos da Computação",
+    "Subarea": "Organização de Arquivos e Dados",
+    "Resposta": 0,
+    "Alternativas": [
+        "A compressão de dados pode ser alcançada atribuindo descrições curtas aos resultados mais frequentes da fonte de dados e necessariamente descrições mais longas aos resultados menos frequentes.",
+        "A compressão de dados pode ser alcançada atribuindo descrições de comprimento uniforme a todos os resultados da fonte de dados",
+        "A desigualdade de Kraft afirma que os comprimentos dos códigos não precisam seguir qualquer padrão específico.",
+        "A codificação de Huffman é uma técnica fundamental em compressão de dados que minimiza o tamanho da mensagem codificada, porém tem perda de informação.",
+        "A compressão de dados sempre resulta em uma perda de qualidade, independentemente do algoritmo utilizado."
+    ],
+    "Enunciado": [
+        "Considerando a compressão de dados, assinale a alternativa correta."
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

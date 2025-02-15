@@ -1,0 +1,21 @@
+{
+    "Numero": 18,
+    "Ano": 2024,
+    "Componente": "Matemática",
+    "Subarea": "Matemática Discreta",
+    "Resposta": 0,
+    "Alternativas": [
+        "$$\\overline{(AB + B)\\overline{B}}$$",
+        "$$\\overline{(AB + B)}$$",
+        "$$\\overline{(AB + B)B}$$",
+        "$$\\overline{(AB + \\overline{B})}$$",
+        "$$\\overline{(A + B)\\overline{B}}$$"
+    ],
+    "Enunciado": [
+        "Determine a saída S do circuito lógico abaixo:"
+    ],
+    "Imagens": [
+        "2024/images/img-18-01"
+    ],
+    "Explicacao": ""
+}

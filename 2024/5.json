@@ -1,0 +1,19 @@
+{
+    "Numero": 5,
+    "Ano": 2024,
+    "Componente": "Matemática",
+    "Subarea": "Matemática Discreta",
+    "Resposta": 0,
+    "Alternativas": [
+        "6",
+        "7",
+        "10",
+        "11",
+        "21"
+    ],
+    "Enunciado": [
+        "Em um grafo simples não direcionado com n vértices, a quantidade máxima de arestas é dada por $$n\\cdot(n-1)/2$$. Qual é o número máximo de arestas que um grafo não direcionado G com 7 vértices pode ter sem formar um ciclo?"
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

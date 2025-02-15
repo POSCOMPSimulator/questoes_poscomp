@@ -1,0 +1,19 @@
+{
+    "Numero": 70,
+    "Ano": 2024,
+    "Componente": "Tecnologia da Computação",
+    "Subarea": "Sistemas Distribuídos",
+    "Resposta": 0,
+    "Alternativas": [
+        "centralizado",
+        "descentralizado",
+        "distribuído",
+        "token-ring",
+        "relógios vetoriais"
+    ],
+    "Enunciado": [
+        "O algoritmo de exclusão mútua __________ requer apenas três mensagens para\nentrar e sair de uma região crítica: uma requisição, uma permissão para entrar e uma liberação para\nsair.<br><br>\nAssinale a alternativa que preenche corretamente a lacuna do trecho acima."
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

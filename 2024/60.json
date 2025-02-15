@@ -1,0 +1,19 @@
+{
+    "Numero": 60,
+    "Ano": 2024,
+    "Componente": "Tecnologia da Computação",
+    "Subarea": "Engenharia de Software",
+    "Resposta": 0,
+    "Alternativas": [
+        " Todas as assertivas estão corretas.",
+        "Todas as assertivas estão incorretas.",
+        "Apenas as assertivas I e II estão corretas.",
+        "Apenas as assertivas I e III estão corretas.",
+        "Apenas as assertivas II e III estão corretas."
+    ],
+    "Enunciado": [
+        "Sobre gerenciamento de configuração de software, de acordo com o livro “Engenharia\nde Software – Uma Abordagem Profissional”, de Roger S. Pressman e Bruce R. Maxim, analise as\nassertivas abaixo e assinale a alternativa correta.<ol type='I'>\n<li>Os elementos que constituem todas as informações geradas durante o processo de software são\nconhecidos coletivamente como configuração de software.\n<li>À medida que o trabalho de engenharia de software progride, forma-se uma hierarquia de itens\nde configuração de software.\n<li>O gerenciamento de configuração de software consiste em um conjunto de atividades realizadas\npara administrar as mudanças ao longo de todo o ciclo de vida de um software.</ol>"
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

@@ -1,0 +1,19 @@
+{
+    "Numero": 9,
+    "Ano": 2024,
+    "Componente": "Matemática",
+    "Subarea": "Cálculo Diferencial e Integral",
+    "Resposta": 3,
+    "Alternativas": [
+        "e",
+        "2",
+        "1",
+        "1/2",
+        "0"
+    ],
+    "Enunciado": [
+        "Calcule a integral definida $$\\int^e_1\\frac{\\ln{x}}{x}dx$$."
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

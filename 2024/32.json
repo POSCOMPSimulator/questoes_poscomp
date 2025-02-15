@@ -1,0 +1,21 @@
+{
+    "Numero": 32,
+    "Ano": 2024,
+    "Componente": "Fundamentos da Computação",
+    "Subarea": "Circuitos Digitais",
+    "Resposta": 0,
+    "Alternativas": [
+        "Máquina de Mealy que computa um somador serial.",
+        "Máquina de Mealy que detecta dois 1’s seguidos.",
+        "Máquina de Moore que detecta quando as entradas são diferentes.",
+        "Máquina de Moore que computa um somador serial.",
+        "Máquina de Moore que detecta dois 1’s seguidos."
+    ],
+    "Enunciado": [
+        "Analise a figura abaixo:\n<br>\n<br>\nQual é o tipo da máquina de estados finitos apresentada e o que faz o circuito correspondente à\nmáquina de estados finitos?"
+    ],
+    "Imagens": [
+        "2024/images/img-32-01"
+    ],
+    "Explicacao": ""
+}

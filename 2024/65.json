@@ -1,0 +1,19 @@
+{
+    "Numero": 65,
+    "Ano": 2024,
+    "Componente": "Tecnologia da Computação",
+    "Subarea": "Redes de Computadores",
+    "Resposta": 4,
+    "Alternativas": [
+        "13.0.0.0/8",
+        " 13.1.0.0/16",
+        "11.1.0.0/16",
+        "13.1.2.0/24",
+        "11.1.2.0/24"
+    ],
+    "Enunciado": [
+        "Um roteador recebe um pacote com IP de origem 13.1.2.3 e IP de destino 11.1.2.5.\nEm qual rota ele encaminhará o pacote?"
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

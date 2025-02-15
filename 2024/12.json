@@ -1,0 +1,19 @@
+{
+    "Numero": 12,
+    "Ano": 2024,
+    "Componente": "Matemática",
+    "Subarea": "Geometria Analítica",
+    "Resposta": 4,
+    "Alternativas": [
+        "(-3, 1)",
+        "(1, 2)",
+        "(-5, 0)",
+        "(1, 1)",
+        "As retas são paralelas e não possuem ponto de intersecção"
+    ],
+    "Enunciado": [
+        "Determine o ponto de intersecção das retas abaixo:<br><br>\n\n$$\\begin{aligned}r\\colon & \\begin{cases} x = 2 - 4t \\\\ y = -2 + t \\end{cases} \\\\[10pt]s\\colon & \\begin{cases} x = 3 + 8t \\\\ y = -1 - 2t \\end{cases}\\end{aligned}$$"
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

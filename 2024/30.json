@@ -1,0 +1,19 @@
+{
+    "Numero": 30,
+    "Ano": 2024,
+    "Componente": "Fundamentos da Computação",
+    "Subarea": "Circuitos Digitais",
+    "Resposta": 2,
+    "Alternativas": [
+        "∑m(5, 6, 7, 8) ",
+        "∑m(0, 1, 2, 3) ",
+        "∑m(4, 5, 6, 7)",
+        "∑m(1, 2, 5, 6, 7) ",
+        "∑m(0, 3, 4, 5, 6, 7)"
+    ],
+    "Enunciado": [
+        "Dada a função F(A,B,C) = AC̅ + AB̅C + A(B + C), assinale a alternativa que contém\na expressão lógica de F(A,B,C), utilizando a notação canônica da soma de mintermos."
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

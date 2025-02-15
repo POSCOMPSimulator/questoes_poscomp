@@ -1,0 +1,19 @@
+{
+    "Numero": 11,
+    "Ano": 2024,
+    "Componente": "Matemática",
+    "Subarea": "Geometria Analítica",
+    "Resposta": 0,
+    "Alternativas": [
+        "k = 3 e k = 7",
+        "k = -1 e k = 2",
+        "k = 3 e k = 5",
+        "k = 2 e k = 3",
+        "k = 5 e k = 7"
+    ],
+    "Enunciado": [
+        "Calcule os dois valores de k em que a distância do ponto P(2, k) até a reta\nr: x – y + 3 = 0 é √2."
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

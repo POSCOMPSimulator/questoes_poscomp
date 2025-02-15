@@ -1,0 +1,19 @@
+{
+    "Numero": 13,
+    "Ano": 2024,
+    "Componente": "Matemática",
+    "Subarea": "Lógica Matemática",
+    "Resposta": 3,
+    "Alternativas": [
+        "~q∧~p",
+        "~q→p",
+        "q→~p",
+        "q→p",
+        "p→q"
+    ],
+    "Enunciado": [
+        "A expressão lógica ~p->~q é equivalente a:"
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

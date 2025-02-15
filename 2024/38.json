@@ -1,0 +1,19 @@
+{
+    "Numero": 38,
+    "Ano": 2024,
+    "Componente": "Fundamentos da Computação",
+    "Subarea": "Linguagens Formais, Autômatos e Computabilidade",
+    "Resposta": 1,
+    "Alternativas": [
+        "Teorema da Incompletude – Alan Turing – Problema da Parada – Kurt Gödel",
+        "Teorema da Incompletude – Kurt Gödel – Problema da Parada – Alan Turing",
+        "Problema da Parada – Alan Turing – Teorema da Incompletude – Kurt Gödel",
+        "Problema da Parada – Kurt Gödel – Teorema da Incompletude – Alonzo Church",
+        "Teorema da Incompletude – Alonzo Church – Problema da Parada – Alan Turing"
+    ],
+    "Enunciado": [
+        "O __________________, de __________________, demonstra limitações dos\nsistemas formais e a impossibilidade de provar certas afirmações dentro deles. Já o\n__________________, de __________________, pergunta se um determinado programa irá\neventualmente parar ou entrar em um loop infinito para uma entrada dada. Ambos os resultados\ndestacam a existência de limites fundamentais para o que podemos provar em sistemas formais ou\ncalcular em sistemas computacionais.\n<br><br>Assinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima."
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

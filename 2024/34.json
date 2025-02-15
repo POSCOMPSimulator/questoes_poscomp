@@ -1,0 +1,19 @@
+{
+    "Numero": 34,
+    "Ano": 2024,
+    "Componente": "Fundamentos da Computação",
+    "Subarea": "Linguagens de Programação",
+    "Resposta": 0,
+    "Alternativas": [
+        "A saída é o número de caracteres de “str” dividido por 2, mostrado como um número de ponto flutuante.",
+        "A saída é o número de caracteres de “str” dividido por 2, mostrado como um inteiro.",
+        "O código tem um erro de tipos porque a função f_rec não pode aceitar um char array.",
+        "O código tem um erro de tipos porque var é um inteiro, mas é usado em uma operação de divisão com double.",
+        "O código tem um erro de tipos porque a função printf está usando o especificador de formato errado."
+    ],
+    "Enunciado": [
+        "Analise o código em Linguagem C (Compilador Ansi C) abaixo:\n<br><br>\nint f_rec(char s[]) {<br>\n&emsp;if (s[0] == '\\0') {<br>\n&emsp;&emsp;return 0;<br>\n&emsp;}<br>\n&emsp;return 1 + f_rec(s + 1);<br>\n}<br>\n<br>\nint main() {<br>\n&emsp;char str[] = \"Ola mundo!\";<br>\n&emsp;int var = f_rec(str);<br>\n&emsp;double resultado = var / 2;<br>\n&emsp;printf(\"%f\\n\", resultado);<br>\n&emsp;return 0;<br>\n}\n<br><br>\nConsiderando o código apresentado, assinale a alternativa correta."
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

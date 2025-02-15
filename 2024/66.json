@@ -1,0 +1,19 @@
+{
+    "Numero": 66,
+    "Ano": 2024,
+    "Componente": "Tecnologia da Computação",
+    "Subarea": "Redes de Computadores",
+    "Resposta": 3,
+    "Alternativas": [
+        "O protocolo IP é baseado em datagramas e orientado à conexão.",
+        "O protocolo IP funciona segundo melhor esforço possível garantindo a entrega de mensagens.",
+        "O protocolo IP é conhecido como a cola da Internet porque ele permite que outros protocolos sejam usados no seu lugar.",
+        "Várias cópias de um pacote IP podem ser entregues.",
+        "O datagrama IP identifica o destinatário através dos campos porta de destino e número IP de destino."
+    ],
+    "Enunciado": [
+        "Assinale a alternativa correta."
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

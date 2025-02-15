@@ -1,0 +1,19 @@
+{
+    "Numero": 63,
+    "Ano": 2024,
+    "Componente": "Tecnologia da Computação",
+    "Subarea": "Processamento de Imagens",
+    "Resposta": 3,
+    "Alternativas": [
+        "interpolação – ampliação",
+        " modulação – codificação",
+        "quantização – amostragem",
+        "amostragem – quantização",
+        "codificação – modulação"
+    ],
+    "Enunciado": [
+        "Após a captura de uma imagem por sensores, uma imagem digital é criada a partir\ndo processo de digitalização, que envolve duas etapas: a ________________, que realiza a\ndiscretização das coordenadas no domínio espacial, e a ________________, que realiza a\ndiscretização dos valores de amplitude dos pixels.<br><br>\nAssinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima."
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

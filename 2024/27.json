@@ -1,0 +1,19 @@
+{
+    "Numero": 27,
+    "Ano": 2024,
+    "Componente": "Fundamentos da Computação",
+    "Subarea": "Arquitetura e Organização de Computadores",
+    "Resposta": 0,
+    "Alternativas": [
+        "Endereço total de 19 bits, com tag = 8 bits, s = 12 bits, d = 4 bits e w = 7 bits.",
+        "Endereço total de 19 bits, com tag = 12 bits, s = 7 bits, d = 4 bits e w = 12 bits.",
+        " Endereço total de 23 bits, com tag = 7 bits, s = 4 bits, d = 7 bits e w = 12 bits.",
+        "Endereço total de 19 bits, com tag = 8 bits, s = 12 bits, d = 7 bits e w = 4 bits.",
+        "Endereço total de 21 bits, com tag = 4 bits, s = 5 bits, d = 7 bits e w = 9 bits."
+    ],
+    "Enunciado": [
+        "Considerando uma memória cache que usa mapeamento por conjunto associativo\nque contém 64 linhas divididas em 16 conjuntos, e uma memória principal que contém 4K blocos de\n128 palavras cada, quantos bits serão necessários para endereçar uma palavra e qual tamanho,\ntambém em bits, dos campos endereço, tag, s, d e w?"
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

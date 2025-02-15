@@ -1,0 +1,19 @@
+{
+    "Numero": 16,
+    "Ano": 2024,
+    "Componente": "Matemática",
+    "Subarea": "Matemática Discreta",
+    "Resposta": 3,
+    "Alternativas": [
+        "$$A\\overline{C} + B$$",
+        "$$A\\overline{C} + BD$$",
+        "$$AC + B$$",
+        "$$A\\overline{C} + \\overline{B}D$$",
+        "$$A + B$$"
+    ],
+    "Enunciado": [
+        "Utilizando as leis de Morgan, assinale a alternativa que apresenta uma expressão em\nforma de somas de produtos para a seguinte função:<br><br>\n$$F = \\overline{(\\overline{A} + C)\\cdot(B + \\overline{D})}$$"
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

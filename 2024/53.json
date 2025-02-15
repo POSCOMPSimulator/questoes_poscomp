@@ -1,0 +1,19 @@
+{
+    "Numero": 53,
+    "Ano": 2024,
+    "Componente": "Tecnologia da Computação",
+    "Subarea": "Banco de Dados",
+    "Resposta": 1,
+    "Alternativas": [
+        "Apenas I, II e III.",
+        "Apenas I, II e IV.",
+        "Apenas I, III e IV.",
+        "Apenas II, III e IV.",
+        "I, II, III e IV."
+    ],
+    "Enunciado": [
+        "Árvores B e B+\nsão árvores de busca empregadas à implementação de estruturas de\nindexação, conforme a literatura na área de banco de dados. Essencialmente, a pesquisa nessas\nárvores objetiva encontrar o(s) endereço(s) do(s) bloco(s) de dados onde estão os dados que atendem\nao predicado de busca. Em outras palavras, há o ponteiro de árvore, que define a hierarquia entre os\nnós da arvore, e o ponteiro de dados, que possui o endereço de bloco de dados. Quanto à estrutura\ndas árvores B e B+\n, é possível abstrair quatro tipos de nós:<br>\n<br>I. Nós internos na árvore B.\n<br>II. Nós folha na árvore B.\n<br>III. Nós internos na árvore B+\n.\n<br>IV. Nós folha na árvore B+\n.\n<br><br>Entre os tipos apresentados, são nós que possuem ponteiros de dados:"
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

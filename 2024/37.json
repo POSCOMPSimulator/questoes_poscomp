@@ -1,0 +1,19 @@
+{
+    "Numero": 37,
+    "Ano": 2024,
+    "Componente": "Fundamentos da Computação",
+    "Subarea": "Linguagens Formais, Autômatos e Computabilidade",
+    "Resposta": 4,
+    "Alternativas": [
+        "Apenas I.",
+        "Apenas IV.",
+        "Apenas I e II.",
+        "Apenas II e III.",
+        "Apenas III e IV."
+    ],
+    "Enunciado": [
+        "Sobre as linguagens formais, os autômatos e a computabilidade, analise as assertivas\nabaixo:<br><br>\nI. Um autômato finito não determinístico pode ter transições vazias (ε-transições), enquanto um\nautômato finito determinístico não pode.\n<br>II. As Máquinas de Turing são sempre determinísticas.\n<br>III. O autômato com pilha aceita a classe de linguagens regulares.\n<br>IV. Os problemas NP-completos são um subconjunto dos problemas NP.\n<br><br>Quais estão corretas?"
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

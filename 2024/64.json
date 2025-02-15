@@ -1,0 +1,19 @@
+{
+    "Numero": 64,
+    "Ano": 2024,
+    "Componente": "Tecnologia da Computação",
+    "Subarea": "Processamento de Imagens",
+    "Resposta": 1,
+    "Alternativas": [
+        "Apenas I e II.",
+        "Apenas I e III.",
+        "Apenas II e III.",
+        "Apenas II e IV.",
+        "I, II, III e IV."
+    ],
+    "Enunciado": [
+        "Analise as assertivas abaixo sobre filtragem de imagens digitais:<ol type='I'>\n<li>A aplicação de um filtro espacial de média em uma imagem digital resulta na sua suavização.\n<li>A aplicação de um filtro de frequência do tipo passa-baixa em uma imagem digital resulta no seu\naguçamento.\n<li>A aplicação de um filtro espacial utilizando o operador laplaciano em uma imagem digital resulta\nno seu aguçamento.\n<li>Para a suavização de uma imagem digital, são utilizados apenas filtros no domínio espacial e para\no aguçamento de uma imagem digital, são utilizados apenas filtros do domínio das frequências.</ol>\nQuais estão corretas?"
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

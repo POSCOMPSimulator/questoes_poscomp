@@ -1,0 +1,19 @@
+{
+    "Numero": 50,
+    "Ano": 2024,
+    "Componente": "Fundamentos da Computação",
+    "Subarea": "Teoria dos Grafos",
+    "Resposta": 1,
+    "Alternativas": [
+        "arco",
+        "ciclo",
+        "caminho simples",
+        "laço",
+        "k-cubo"
+    ],
+    "Enunciado": [
+        "Um _______ é um caminho em que os vértices de início e fim são os mesmos.\n<br><br>Assinale a alternativa que preenche corretamente a lacuna do trecho acima"
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

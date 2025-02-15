@@ -1,0 +1,19 @@
+{
+    "Numero": 31,
+    "Ano": 2024,
+    "Componente": "Fundamentos da Computação",
+    "Subarea": "Circuitos Digitais",
+    "Resposta": 0,
+    "Alternativas": [
+        "(W+X)*( W̅ + X̅ + Y + Z)*( Y̅ + Z̅)",
+        "(W+ X̅+ Z̅)*(W+X+ Z̅)*(W̅ + X̅)*(Y̅ + Z)",
+        "(W̅ + X)*(W+Y+ Z̅)*(W+Y̅+Z)* *(W+X̅+ Y̅)",
+        "(W+X)*(W̅ + Y̅ + Z̅)",
+        "(W+X)*(W̅ + Y̅ + Z̅)*(W̅ + X̅ + Y + Z)"
+    ],
+    "Enunciado": [
+        "Dada a função F(W, X, Y, Z) composta dos termos mínimos\n(minterm) = {4, 8, 9, 10, 13, 14} e dos termos não essenciais (don’t care) = {5, 6, 7}, simplifique\nessa função como produto de somas."
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

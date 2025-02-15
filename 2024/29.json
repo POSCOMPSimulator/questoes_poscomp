@@ -1,0 +1,19 @@
+{
+    "Numero": 29,
+    "Ano": 2024,
+    "Componente": "Fundamentos da Computação",
+    "Subarea": "Arquitetura e Organização de Computadores",
+    "Resposta": 3,
+    "Alternativas": [
+        "Polling.",
+        "Interrupções.",
+        "E/S mapeada em memória.",
+        "Direct Memory Access (DMA).",
+        "E/S programada."
+    ],
+    "Enunciado": [
+        "Qual dos seguintes métodos permite a transferência de dados entre um dispositivo\nde entrada e saída e a memória principal sem o intermédio da CPU?"
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

@@ -1,0 +1,19 @@
+{
+    "Numero": 25,
+    "Ano": 2024,
+    "Componente": "Fundamentos da Computação",
+    "Subarea": "Algoritmos e Estruturas de Dados",
+    "Resposta": 1,
+    "Alternativas": [
+        "Na instrução <b>while (condição) instrução</b>, a instrução é executada uma ou mais vezes e a condição é testada depois da instrução. ",
+        "O corpo do laço <b>do...while</b> é executado pelo menos uma vez, enquanto nos laços <b>while</b> e <b>for</b> o corpo do laço pode nunca ser executado (caso a condição seja falsa a <i>priori</i>).",
+        "A instrução <b>if</b> adapta-se a situações em que o número de iterações é conhecido a <i>priori</i>.",
+        "A instrução <b>break</b>, quando presente dentro de um laço de repetição, passa o laço para a próxima iteração.",
+        "Na instrução <b>for (carga inicial; condição; pos-instrução) instrução</b>, a instrução é executada zero ou mais vezes e a condição é testada depois da instrução."
+    ],
+    "Enunciado": [
+        "Sobre as instruções de repetição de uma linguagem de programação, assinale a\nalternativa correta."
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

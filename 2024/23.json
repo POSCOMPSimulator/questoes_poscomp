@@ -1,0 +1,19 @@
+{
+    "Numero": 23,
+    "Ano": 2024,
+    "Componente": "Fundamentos da Computação",
+    "Subarea": "Análise de Algoritmos",
+    "Resposta": 1,
+    "Alternativas": [
+        "O(1) e O(1).",
+        "O(1) e O(n).",
+        "O(log n) e O(log n).",
+        " O(log n) e O(n).",
+        "O(n) e O(2^n)."
+    ],
+    "Enunciado": [
+        "Assinale a alternativa que apresenta a complexidade de tempo da busca em uma tabela hash, considerando a complexidade média e do pior caso, respectivamente."
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

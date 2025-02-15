@@ -1,0 +1,19 @@
+{
+    "Numero": 47,
+    "Ano": 2024,
+    "Componente": "Fundamentos da Computação",
+    "Subarea": "Linguagens de Programação",
+    "Resposta": 3,
+    "Alternativas": [
+        "Laço encadeado.",
+        "Atribuição composta.",
+        "Laço infinito.",
+        "Condicional encadeada.",
+        "Atribuição simples."
+    ],
+    "Enunciado": [
+        "Analise o texto a seguir, que descreve um programa que solicita um salário ao usuário\ne mostra o imposto a pagar:<br>\n<ul>\n<li>Se o salário for negativo ou zero, mostre o erro respectivo.\n<li>Se o salário for maior que 1000, paga 10% de imposto, se não paga apenas 5%.\n</ul>\nPara resolver o problema descrito acima, qual instrução deve ser utilizada?"
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

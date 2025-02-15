@@ -1,0 +1,19 @@
+{
+    "Numero": 14,
+    "Ano": 2024,
+    "Componente": "Matemática",
+    "Subarea": "Lógica Matemática",
+    "Resposta": 2,
+    "Alternativas": [
+        "p e q",
+        "~p",
+        "~p->q",
+        "~p->~q",
+        "~q"
+    ],
+    "Enunciado": [
+        "Dadas duas proposições lógicas q e p, a proposição lógica ~(p ou q) é verdadeira se,\ne somente se, for falsa a proposição:"
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

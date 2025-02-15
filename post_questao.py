@@ -24,6 +24,7 @@ def send(year):
                 'enunciado': questao['Enunciado'],
                 'imagens': {'enunciado': questao['Imagens'], 'alternativa_a': [], 'alternativa_b': [],
                             'alternativa_c': [], 'alternativa_d': [], 'alternativa_e': []},
+                'explicacao': {'String': questao.get('Explicacao', ''), 'Valid': True}
             }
 
             r = requests.post(

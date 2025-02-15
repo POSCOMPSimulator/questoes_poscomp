@@ -1,0 +1,19 @@
+{
+    "Numero": 56,
+    "Ano": 2024,
+    "Componente": "Tecnologia da Computação",
+    "Subarea": "Computação Gráfica",
+    "Resposta": 1,
+    "Alternativas": [
+        "Apenas I.",
+        "Apenas II.",
+        "Apenas I e III.",
+        "Apenas II e III.",
+        "I, II e III."
+    ],
+    "Enunciado": [
+        "Analise as matrizes de transformações geométricas A e B.<br><br>\n$$\\mathbf{A}:\\begin{bmatrix}x' \\\\y' \\\\1\\end{bmatrix}=\\begin{bmatrix}\\cos(\\theta) & -sen(\\theta) & 0 \\\\sen(\\theta) & \\cos(\\theta) & 0 \\\\0 & 0 & 1\\end{bmatrix}\\begin{bmatrix}x \\\\y \\\\1\\end{bmatrix}\\\\$$\n<br>$$\\mathbf{B}:\\begin{bmatrix}x' \\\\y' \\\\1\\end{bmatrix}=\\begin{bmatrix}E_x & 0 & T_x \\\\0 & E_y & T_y \\\\0 & 0 & 1\\end{bmatrix}\\begin{bmatrix}x \\\\y \\\\1\\end{bmatrix}$$\n<br><br>\nConsiderando que $$E_x$$ e $$E_y$$ são fatores de escala, $$T_x$$ e $$T_x$$ são fatores de translação e que $$\\theta$$ representa\num ângulo de rotação, analise as assertivas a seguir:<ol type='I'>\n<li>A transformação $$\\mathbf{A}$$ rotaciona o objeto com pivô no centro de massa do próprio objeto.\n<li>A transformação $$\\mathbf{B}$$ primeiro escala e depois translada o objeto.\n<li>O uso da coordenada homogênea tanto para a transformação $$\\mathbf{A}$$ quanto para $$\\mathbf{B}$$ é necessário,\npois sem ela não é possível a realização de tais transformações.\n</ol>\nQuais estão corretas?"
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

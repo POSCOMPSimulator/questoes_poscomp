@@ -1,0 +1,19 @@
+{
+    "Numero": 33,
+    "Ano": 2024,
+    "Componente": "Fundamentos da Computação",
+    "Subarea": "Linguagens de Programação",
+    "Resposta": 2,
+    "Alternativas": [
+        "2.",
+        "3.",
+        "4.",
+        "5.",
+        "6."
+    ],
+    "Enunciado": [
+        "Analise o código em Linguagem C (Compilador Ansi C) abaixo:\n<br><br>\nint main() {<br>\n&emsp;int valor1 = 12;<br>\n&emsp;int *valor2;<br>\n&emsp;int cont = 0;<br>\n&emsp;valor2 = &valor1;<br><br>\n&emsp;do{<br>\n&emsp;&emsp;valor1 >>= 1;<br>\n&emsp;&emsp;cont++;<br>\n&emsp;}while (*valor2>0);<br>\n&emsp;printf (\"%d\",cont);<br>\n}\n<br><br>\nA saída do programa na tela é o número:"
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

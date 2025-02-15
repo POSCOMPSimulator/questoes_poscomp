@@ -1,0 +1,19 @@
+{
+    "Numero": 26,
+    "Ano": 2024,
+    "Componente": "Fundamentos da Computação",
+    "Subarea": "Algoritmos e Estruturas de Dados",
+    "Resposta": 3,
+    "Alternativas": [
+        " simétrico",
+        "em largura",
+        "central",
+        "pré-fixado",
+        "pós-fixado"
+    ],
+    "Enunciado": [
+        "No caminhamento ____________ de uma árvore T, a raiz de T é visitada em primeiro\nlugar, e então as subárvores enraizadas nos seus filhos são percorridas recursivamente. Se a árvore\né ordenada, então as subárvores são percorridas de acordo com a ordem dos filhos.\n<br>\n<br>\nAssinale a alternativa que preenche corretamente a lacuna do trecho acima."
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

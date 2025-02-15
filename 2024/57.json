@@ -1,0 +1,19 @@
+{
+    "Numero": 57,
+    "Ano": 2024,
+    "Componente": "Tecnologia da Computação",
+    "Subarea": "Computação Gráfica",
+    "Resposta": 1,
+    "Alternativas": [
+        "Todas as assertivas estão corretas.",
+        "Todas as assertivas estão incorretas.",
+        "Apenas as assertivas I e II estão corretas.",
+        " Apenas as assertivas I e III estão corretas.",
+        "Apenas as assertivas II e III estão corretas."
+    ],
+    "Enunciado": [
+        "Analise as assertivas abaixo sobre técnicas de renderização e iluminação e assinale\na alternativa correta.<ol type='I'>\n<li>Ray Tracing é uma técnica que visa simular a propagação da luz no ambiente, avaliando a sua\ninteração com os objetos que o compõem e considerando a interação da luz com as suas\nsuperfícies. Esta técnica é frequentemente utilizada em jogos digitais, dado o seu grau de realismo\ne o fato de a velocidade de renderização ser eficiente para aplicações de tempo real.\n<li>Z-Buffer é uma técnica que visa armazenar a profundidade dos objetos em relação à câmera,\nfazendo com que se grave, para cada pixel, qual objeto está mais distante. Essa técnica é utilizada\npara reduzir o tempo de rendering, especialmente para aplicações que exigem muito do hardware,\ncomo no caso das cenas ultrarrealistas geradas no âmbito cinematográfico, uma vez que essa\ntécnica representa o estado da arte da geração de cenas tridimensionais ultrarrealistas.\n<li>O Modelo de Reflexão de Phong é utilizado para renderização da iluminação de objetos. Sua\ncaracterística principal é a combinação da reflexão difusa, especular e ambiente para formar uma\niluminação mais realista. Como esta é uma técnica de iluminação global e considera o cálculo\ntanto da incidência de luz direta quanto indireta, não é muito utilizada em jogos digitais ou\naplicações de tempo real, devido ao seu alto custo de tempo de processamento. \n</ol>"
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

@@ -1,0 +1,19 @@
+{
+    "Numero": 67,
+    "Ano": 2024,
+    "Componente": "Tecnologia da Computação",
+    "Subarea": "Redes de Computadores",
+    "Resposta": 4,
+    "Alternativas": [
+        "TCP",
+        "TCP/IP",
+        "HTTP",
+        "CoAP",
+        "UDP"
+    ],
+    "Enunciado": [
+        "Qual protocolo da camada de transporte o DNS (Domain Name Service) utiliza para\nconsultas regulares?"
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

@@ -1,0 +1,19 @@
+{
+    "Numero": 10,
+    "Ano": 2024,
+    "Componente": "Matemática",
+    "Subarea": "Geometria Analítica",
+    "Resposta": 1,
+    "Alternativas": [
+        "$$( \\frac{1}{2}, \\frac{1}{2})$$",
+        "$$( \\frac{9}{2}, \\frac{-3}{2})$$",
+        "$$( \\frac{3}{2}, \\frac{3}{2})$$",
+        "$$( 1, \\frac{1}{2})$$",
+        "$$( \\frac{1}{2}, 2)$$"
+    ],
+    "Enunciado": [
+        "O ponto médio do segmento de extremos A(5, -1) e B(4, -2) é:"
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

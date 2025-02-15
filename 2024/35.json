@@ -1,0 +1,21 @@
+{
+    "Numero": 35,
+    "Ano": 2024,
+    "Componente": "Fundamentos da Computação",
+    "Subarea": "Técnicas de Programação",
+    "Resposta": 3,
+    "Alternativas": [
+        "A relação entre as classes Ponto e Quadro.",
+        "Os atributos -x e -y da classe Ponto.",
+        "Os métodos +getX() e +getY() da classe Ponto.",
+        "Os métodos +print() das classes Ponto e Círculo.",
+        "O método +setRaio() da classe Círculo."
+    ],
+    "Enunciado": [
+        "Analise o seguinte diagrama de classes da UML (Linguagem de Modelagem Unificada)\ne assinale a alternativa que contém o(s) elemento(s) polimórfico(s)."
+    ],
+    "Imagens": [
+        "2024/images/img-35-01"
+    ],
+    "Explicacao": ""
+}

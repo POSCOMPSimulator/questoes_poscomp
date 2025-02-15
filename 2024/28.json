@@ -1,0 +1,19 @@
+{
+    "Numero": 28,
+    "Ano": 2024,
+    "Componente": "Fundamentos da Computação",
+    "Subarea": "Arquitetura e Organização de Computadores",
+    "Resposta": 2,
+    "Alternativas": [
+        "Apenas I.",
+        "Apenas II.",
+        "Apenas III.",
+        "Apenas I e II.",
+        "Apenas III e IV."
+    ],
+    "Enunciado": [
+        "A ponte norte e a ponte sul são chipsets que compõem a estrutura de uma\nplaca-mãe de um computador. Sobre esses dois chipsets, analise as assertivas abaixo:\n<br>\n<br>\nI. A ponte norte é responsável pela comunicação entre o processador e dispositivos de entrada/saída\nde baixa velocidade, enquanto a ponte sul conecta a memória RAM e a placa de vídeo.\n<br>II. A ponte sul conecta o processador diretamente à memória RAM e à placa de vídeo, enquanto a\nponte norte lida com dispositivos de armazenamento e periféricos de entrada/saída.\n<br>III. A ponte norte faz a interface entre o processador e componentes de alta velocidade como a\nmemória RAM e a placa de vídeo, enquanto a ponte sul gerencia conexões com dispositivos de\nentrada/saída de menor velocidade.\n<br>IV. A ponte norte e a ponte sul são substituíveis e podem ser usadas indistintamente em qualquer\nfunção dentro do sistema de barramento do computador.\n<br>\n<br>\nQuais estão corretas?"
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

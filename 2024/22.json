@@ -1,0 +1,19 @@
+{
+    "Numero": 22,
+    "Ano": 2024,
+    "Componente": "Fundamentos da Computação",
+    "Subarea": "Análise de Algoritmos",
+    "Resposta": 4,
+    "Alternativas": [
+        "Analisar conjuntamente o pior caso e o caso médio de um algoritmo.",
+        "Analisar o desempenho do algoritmo para entradas muito pequenas.",
+        "Determinar o desempenho do algoritmo para todas as possíveis entradas.",
+        "Analisar o desempenho do algoritmo para entradas médias.",
+        "Analisar o comportamento do algoritmo à medida que o tamanho da entrada aumenta\n   indefinidamente.\n\n\n"
+    ],
+    "Enunciado": [
+        "Qual é o objetivo da análise assintótica de algoritmos?"
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

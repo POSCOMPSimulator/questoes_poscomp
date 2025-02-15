@@ -1,0 +1,19 @@
+{
+    "Numero": 49,
+    "Ano": 2024,
+    "Componente": "Fundamentos da Computação",
+    "Subarea": "Teoria dos Grafos",
+    "Resposta": 0,
+    "Alternativas": [
+        "Paralelas.",
+        "Laços.",
+        "Adjacentes.",
+        "Incidentes.",
+        "Finais."
+    ],
+    "Enunciado": [
+        "A definição de um grafo agrupa arestas como uma coleção, não como um conjunto,\npermitindo que duas arestas não dirigidas tenham os mesmos pontos finais e que duas arestas\ndirigidas tenham a mesma origem e o mesmo destino. Tais arestas são chamadas de:"
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

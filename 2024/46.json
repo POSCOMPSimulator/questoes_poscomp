@@ -1,0 +1,19 @@
+{
+    "Numero": 46,
+    "Ano": 2024,
+    "Componente": "Fundamentos da Computação",
+    "Subarea": "Linguagens de Programação",
+    "Resposta": 4,
+    "Alternativas": [
+        "Apenas I e II. ",
+        "Apenas III e IV. ",
+        "Apenas I, II e III. ",
+        "Apenas II, III e IV.",
+        " I, II, III e IV. "
+    ],
+    "Enunciado": [
+        " Analise as assertivas abaixo sobre estruturas em linguagens de programação:<br>\n<br>I. Uma estrutura é um conjunto de uma ou mais variáveis agrupadas sob um único nome, de forma\na facilitar a sua referência.\n<br>II. A declaração de uma estrutura corresponde unicamente à definição de um novo tipo (isto é, da\nsua estrutura), e não à declaração de variáveis do tipo da estrutura.\n<br>III. Uma estrutura pode conter, na sua definição, variáveis simples, vetores, ponteiros ou mesmo\noutras estruturas.\n<br>IV. As estruturas permitem agrupar diversos componentes em uma única variável, que podem ser\ndefinidos com tipos distintos.\n<br><br>Quais estão corretas?"
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

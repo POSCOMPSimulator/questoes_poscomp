@@ -1,0 +1,19 @@
+{
+    "Numero": 69,
+    "Ano": 2024,
+    "Componente": "Tecnologia da Computação",
+    "Subarea": "Sistemas Distribuídos",
+    "Resposta": 4,
+    "Alternativas": [
+        "por omissão",
+        "de temporização",
+        "de resposta",
+        "arbitrária",
+        "por queda"
+    ],
+    "Enunciado": [
+        "Uma falha __________ ocorre quando um servidor para abruptamente, mas estava\nfuncionando corretamente até parar. Um aspecto importante é que, uma vez que o servidor pare,\nnada mais se ouve dele. Um exemplo típico é um sistema operacional que para de repente e para o\nqual só há uma única solução: reinicializá-lo.<br><br>Assinale a alternativa que preenche corretamente a lacuna do trecho acima."
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

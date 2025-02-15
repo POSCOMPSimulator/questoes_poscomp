@@ -1,0 +1,19 @@
+{
+    "Numero": 58,
+    "Ano": 2024,
+    "Componente": "Tecnologia da Computação",
+    "Subarea": "Engenharia de Software",
+    "Resposta": 0,
+    "Alternativas": [
+        "Aumentar a complexidade dos processos de negócios.",
+        "Gerar maior receita pelo produto de software.",
+        "Obter maior rentabilidade, quando uma aplicação suporta um processo de negócio",
+        "Obter maior disponibilidade de informações cruciais para o negócio.",
+        "Obter menor exigência de manutenção, menos correções de erros e menos suporte ao cliente."
+    ],
+    "Enunciado": [
+        "De acordo com o livro “Engenharia de Software – Uma Abordagem Profissional”, de\nRoger S. Pressman e Bruce R. Maxim, a qualidade de software pode ser definida como “uma gestão\nde qualidade efetiva aplicada de modo a criar um produto útil que forneça valor mensurável para\naqueles que o produzem e para aqueles que o utilizam”. O resultado final de termos um software de\nalta qualidade, segundo os autores, são os seguintes, EXCETO:"
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

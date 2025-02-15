@@ -1,0 +1,19 @@
+{
+    "Numero": 54,
+    "Ano": 2024,
+    "Componente": "Tecnologia da Computação",
+    "Subarea": "Compiladores",
+    "Resposta": 4,
+    "Alternativas": [
+        "Grafo que relaciona atributos entre regras de produção diferentes de uma gramática livre de contexto.",
+        "Sequência de ações que descreve informalmente o funcionamento de todas as etapas do compilador.",
+        "Técnica de recuperação de erros que consiste em obter estruturas de controle semanticamente equivalentes às definidas pelo programador.",
+        "Forma de análise semântica, que considera o tipo das variáveis dos programas, de forma a evitar erros nos programas gerados.",
+        "Gramática livre de contexto na qual fragmentos de programas (ações) são inseridos nos lados direitos das regras de produção."
+    ],
+    "Enunciado": [
+        "No contexto da construção de compiladores, um Esquema de Tradução é um(a):"
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

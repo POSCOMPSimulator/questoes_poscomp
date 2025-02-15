@@ -1,0 +1,19 @@
+{
+    "Numero": 48,
+    "Ano": 2024,
+    "Componente": "Fundamentos da Computação",
+    "Subarea": "Teoria dos Grafos",
+    "Resposta": 2,
+    "Alternativas": [
+        "Dígrafo.",
+        "Grafo completo.",
+        "Grafo misto.",
+        " Bígrafo.",
+        "Grafo simétrico."
+    ],
+    "Enunciado": [
+        "Um mapa de cidade pode ser modelado como um grafo cujos vértices são\ncruzamentos ou finais de ruas e cujas arestas podem ser trechos de ruas sem cruzamento. Esse grafo\ntem arestas não dirigidas, representando ruas de dois sentidos, e arestas dirigidas, correspondendo\na trechos de um único sentido. Assim, um grafo que representa as ruas de uma cidade é um:"
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

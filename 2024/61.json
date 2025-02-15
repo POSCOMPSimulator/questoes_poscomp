@@ -1,0 +1,19 @@
+{
+    "Numero": 61,
+    "Ano": 2024,
+    "Componente": "Tecnologia da Computação",
+    "Subarea": "Inteligência Artificial",
+    "Resposta": 4,
+    "Alternativas": [
+        "Avaliar a aptidão de cada indivíduo na população.",
+        "Manter os melhores indivíduos de uma geração para a próxima.",
+        "Modificar aleatoriamente os genes de um indivíduo para explorar novas soluções.",
+        "Selecionar os indivíduos que participarão do processo de reprodução.",
+        "Combinar partes dos cromossomos de dois pais para criar descendentes."
+    ],
+    "Enunciado": [
+        "Em um Algoritmo Genético (AG), é correto afirmar que o operador de crossover é\nresponsável por:"
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

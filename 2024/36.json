@@ -1,0 +1,19 @@
+{
+    "Numero": 36,
+    "Ano": 2024,
+    "Componente": "Fundamentos da Computação",
+    "Subarea": "Linguagens Formais, Autômatos e Computabilidade",
+    "Resposta": 2,
+    "Alternativas": [
+        "{w ∈ {a, b}* | o número de <b>a’s</b> em w é maior que o número de <b>b’s</b>}.",
+        "{w ∈ {a, b}* | o número de <b>a’s</b> em w é o dobro do número de <b>b’s</b>}.",
+        "{w ∈ {a, b}* | o número de <b>a’s</b> em w é divisível por 3 e o número de <b>b’s</b> é ímpar}.",
+        "{w ∈ {a, b}* | w contém o mesmo número de <b>a’s</b> e<b>b’s</b>}.",
+        "{w ∈ {a, b}* | w contém números diferentes de <b>a’s</b> e <b>b’s</b>}."
+    ],
+    "Enunciado": [
+        "Qual das seguintes linguagens pode ser gerada por uma gramática regular?"
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

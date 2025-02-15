@@ -1,0 +1,19 @@
+{
+    "Numero": 42,
+    "Ano": 2024,
+    "Componente": "Fundamentos da Computação",
+    "Subarea": "Sistemas Operacionais",
+    "Resposta": 4,
+    "Alternativas": [
+        "controladores de dispositivo – chamada de sistemas – tratadores de interrupção",
+        "tratadores de interrupção – controladores de dispositivo – chamada de sistemas",
+        "software independente de dispositivo – tratadores de interrupção – controladores de dispositivo",
+        "controladores de dispositivo – software independente de dispositivo – chamada de sistemas",
+        "tratadores de interrupção – controladores de dispositivo – controladores de dispositivo"
+    ],
+    "Enunciado": [
+        "No sistema operacional, o gerenciamento de E/S é implementado em várias camadas.\nUm dispositivo de E/S notifica que realizou uma operação se comunicando diretamente com a camada\nde ___________________, usualmente via APIC, a qual informa a camada de\n___________________ sobre o resultado da operação. Quando o sistema operacional precisa\nprogramar o dispositivo de E/S para realizar uma operação, a camada de ___________________ se\ncomunica diretamente com o dispositivo.\n<br><br>\nAssinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima."
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}

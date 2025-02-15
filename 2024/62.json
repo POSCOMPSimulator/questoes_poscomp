@@ -1,0 +1,19 @@
+{
+    "Numero": 62,
+    "Ano": 2024,
+    "Componente": "Tecnologia da Computação",
+    "Subarea": "Inteligência Artificial",
+    "Resposta": 2,
+    "Alternativas": [
+        "O motor de inferência atua principalmente na otimização de algoritmos de aprendizado de máquina dentro do sistema.",
+        "O motor de inferência é responsável por gerenciar a interface de usuário do sistema, garantindo uma interação eficiente com especialistas humanos.",
+        "O motor de inferência utiliza as regras definidas na base de conhecimento para derivar conclusões a partir de fatos específicos, simulando o raciocínio humano especializado.",
+        "O motor de inferência substitui a necessidade de uma base de conhecimento, operando com base em dados brutos e estatísticas.",
+        "O motor de inferência serve exclusivamente para a manutenção e atualização automática da base de dados, sem envolvimento direto no processo de raciocínio."
+    ],
+    "Enunciado": [
+        "Em relação aos Sistemas Especialistas, assinale a alternativa que melhor descreve o\npapel do motor de inferência."
+    ],
+    "Imagens": [],
+    "Explicacao": ""
+}
